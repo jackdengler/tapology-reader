@@ -4,7 +4,6 @@ const App = {
   // Detect base path for GitHub Pages
   basePath: (() => {
     const path = location.pathname;
-    // If hosted at /tapology-reader/ or similar
     const match = path.match(/^(\/[^/]+\/)/);
     return match ? match[1] : '/';
   })(),
@@ -19,6 +18,9 @@ const App = {
     if (!resp.ok) throw new Error(`Failed to fetch ${url}: ${resp.status}`);
     return resp.json();
   },
+
+  AUTO_REFRESH_MS: 5 * 60 * 1000, // 5 minutes
+  _refreshTimer: null,
 
   init() {
     this.listView = document.getElementById('thread-list-view');
@@ -38,10 +40,8 @@ const App = {
 
     window.addEventListener('hashchange', () => this.route());
 
-    // Load meta
     this.loadMeta();
 
-    // Register service worker
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register(this.basePath + 'sw.js')
         .then(() => console.log('SW registered'))
@@ -49,6 +49,27 @@ const App = {
     }
 
     this.route();
+    this.startAutoRefresh();
+  },
+
+  startAutoRefresh() {
+    if (this._refreshTimer) clearInterval(this._refreshTimer);
+    this._refreshTimer = setInterval(() => {
+      this.loadMeta();
+      this.route();
+    }, this.AUTO_REFRESH_MS);
+
+    // Pause when tab is hidden, resume when visible
+    document.addEventListener('visibilitychange', () => {
+      if (document.hidden) {
+        clearInterval(this._refreshTimer);
+        this._refreshTimer = null;
+      } else {
+        this.loadMeta();
+        this.route();
+        this.startAutoRefresh();
+      }
+    });
   },
 
   async loadMeta() {
@@ -89,31 +110,38 @@ const App = {
     ThreadDetail.load(threadId);
   },
 
+  // Always display in Pacific Time
   formatTime(date) {
     if (isNaN(date.getTime())) return '';
-    const now = new Date();
-    const isToday = date.toDateString() === now.toDateString();
-    const yesterday = new Date(now);
-    yesterday.setDate(yesterday.getDate() - 1);
-    const isYesterday = date.toDateString() === yesterday.toDateString();
-
-    const timeStr = date.toLocaleTimeString('en-US', {
+    const opts = {
       hour: 'numeric',
       minute: '2-digit',
       hour12: true,
-    });
+      timeZone: 'America/Los_Angeles',
+    };
 
-    if (isToday) return timeStr;
-    if (isYesterday) return `Yesterday ${timeStr}`;
+    const now = new Date();
+    // Compare dates in PT
+    const todayPT = now.toLocaleDateString('en-US', { timeZone: 'America/Los_Angeles' });
+    const datePT = date.toLocaleDateString('en-US', { timeZone: 'America/Los_Angeles' });
+
+    const yesterday = new Date(now);
+    yesterday.setDate(yesterday.getDate() - 1);
+    const yesterdayPT = yesterday.toLocaleDateString('en-US', { timeZone: 'America/Los_Angeles' });
+
+    const timeStr = date.toLocaleTimeString('en-US', opts) + ' PT';
+
+    if (datePT === todayPT) return timeStr;
+    if (datePT === yesterdayPT) return `Yesterday ${timeStr}`;
 
     const dateStr = date.toLocaleDateString('en-US', {
       month: 'short',
       day: 'numeric',
+      timeZone: 'America/Los_Angeles',
     });
 
-    // Include year if not current year
     if (date.getFullYear() !== now.getFullYear()) {
-      return `${date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })} ${timeStr}`;
+      return `${date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' })} ${timeStr}`;
     }
 
     return `${dateStr} ${timeStr}`;
@@ -123,6 +151,30 @@ const App = {
     const div = document.createElement('div');
     div.textContent = text;
     return div.innerHTML;
+  },
+
+  // Bookmark helpers — saves to localStorage
+  getBookmark(threadId) {
+    try {
+      const data = JSON.parse(localStorage.getItem('tapforum_bookmarks') || '{}');
+      return data[threadId] || null;
+    } catch { return null; }
+  },
+
+  setBookmark(threadId, postId, page) {
+    try {
+      const data = JSON.parse(localStorage.getItem('tapforum_bookmarks') || '{}');
+      data[threadId] = { postId, page, savedAt: Date.now() };
+      localStorage.setItem('tapforum_bookmarks', JSON.stringify(data));
+    } catch {}
+  },
+
+  clearBookmark(threadId) {
+    try {
+      const data = JSON.parse(localStorage.getItem('tapforum_bookmarks') || '{}');
+      delete data[threadId];
+      localStorage.setItem('tapforum_bookmarks', JSON.stringify(data));
+    } catch {}
   }
 };
 

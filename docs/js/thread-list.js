@@ -4,12 +4,12 @@ const ThreadList = {
   threads: [],
   sortBy: 'latest',
   searchQuery: '',
+  bound: false,
 
   async load() {
     const list = document.getElementById('thread-list');
     const status = document.getElementById('list-status');
 
-    // Show skeletons
     list.innerHTML = Array(6).fill('<div class="skeleton"></div>').join('');
     status.textContent = '';
 
@@ -18,11 +18,14 @@ const ThreadList = {
       this.render();
     } catch (err) {
       list.innerHTML = '';
-      status.textContent = 'Failed to load threads. Pull down to retry.';
+      status.textContent = 'Failed to load threads. Tap refresh to retry.';
       console.error(err);
     }
 
-    this.bindEvents();
+    if (!this.bound) {
+      this.bindEvents();
+      this.bound = true;
+    }
   },
 
   bindEvents() {
@@ -45,7 +48,6 @@ const ThreadList = {
   getFiltered() {
     let filtered = [...this.threads];
 
-    // Search
     if (this.searchQuery) {
       filtered = filtered.filter(t =>
         t.title.toLowerCase().includes(this.searchQuery) ||
@@ -53,7 +55,6 @@ const ThreadList = {
       );
     }
 
-    // Sort: sticky threads always first
     const sticky = filtered.filter(t => t.isSticky);
     const regular = filtered.filter(t => !t.isSticky);
 
@@ -84,7 +85,6 @@ const ThreadList = {
     status.textContent = '';
     list.innerHTML = filtered.map(t => this.renderCard(t)).join('');
 
-    // Bind click events
     list.querySelectorAll('.thread-card').forEach(card => {
       card.addEventListener('click', () => {
         location.hash = `thread/${card.dataset.id}`;
@@ -103,16 +103,24 @@ const ThreadList = {
 
     const stickyClass = thread.isSticky ? ' sticky' : '';
 
+    // Check for bookmark
+    const bookmark = App.getBookmark(thread.id);
+    const bookmarkBadge = bookmark
+      ? `<span class="thread-bookmark-badge">Saved</span>`
+      : '';
+
     return `
       <div class="thread-card${stickyClass}" data-id="${App.escapeHtml(thread.id)}">
         ${icon}
         <div class="thread-info">
-          <div class="thread-title">${App.escapeHtml(thread.title)}</div>
+          <div class="thread-title-row">
+            <div class="thread-title">${App.escapeHtml(thread.title)}</div>
+            ${bookmarkBadge}
+          </div>
           <div class="thread-meta">
             <span>${thread.replyCount.toLocaleString()} replies</span>
             ${time ? `<span>${time}</span>` : ''}
           </div>
-          ${thread.snippet ? `<div class="thread-snippet">${App.escapeHtml(thread.snippet)}</div>` : ''}
         </div>
       </div>
     `;
