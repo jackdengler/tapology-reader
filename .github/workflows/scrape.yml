@@ -25,8 +25,6 @@ jobs:
 
       - name: Run scraper
         run: python scraper/scraper.py
-        env:
-          SCRAPE_PAGES: '3'
 
       - name: Commit and push data
         run: |

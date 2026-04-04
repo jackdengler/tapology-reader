@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Tapology UFC Forum Scraper.
 
-Scrapes thread listings and individual threads from Tapology forums,
-saving them as JSON for the PWA frontend.
+Scrapes forum threads for upcoming UFC events only, by first fetching the
+upcoming schedule from Tapology's fightcenter, then finding and scraping the
+matching forum threads with ALL posts.
 
-Uses Playwright (headless Chromium) to bypass bot protection that blocks
-datacenter IPs (e.g. GitHub Actions).
+Uses Playwright (headless Chromium) to bypass bot protection.
 """
 
 import json
@@ -20,12 +20,11 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
 BASE_URL = "https://www.tapology.com"
+FIGHTCENTER_URL = f"{BASE_URL}/fightcenter?group=ufc&schedule=upcoming"
 FORUM_URL = f"{BASE_URL}/forum/threads"
 
 REQUEST_DELAY = 1.5  # seconds between requests
-MAX_POSTS_PER_THREAD = 60  # ~3 pages worth
 
-# Resolve paths relative to this script
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_DIR = SCRIPT_DIR.parent
 DATA_DIR = PROJECT_DIR / "docs" / "data"
@@ -65,43 +64,134 @@ def handle_consent(page):
 
 def get_page_soup(page, url):
     """Navigate to a URL and return BeautifulSoup of the page content."""
-    page.goto(url, wait_until="networkidle", timeout=60000)
+    page.goto(url, wait_until="domcontentloaded", timeout=60000)
+    page.wait_for_timeout(3000)
     return BeautifulSoup(page.content(), "html.parser")
 
 
-def scrape_thread_list(page, max_pages=3):
-    """Scrape thread listings from the forum."""
-    threads = []
-    seen_ids = set()
+def scrape_upcoming_events(page):
+    """Scrape the list of upcoming UFC events from fightcenter.
+
+    Returns a list of dicts with event name, date, and fightcenter URL slug.
+    """
+    print("Scraping upcoming UFC events from fightcenter...")
+    soup = get_page_soup(page, FIGHTCENTER_URL)
+    handle_consent(page)
+    soup = BeautifulSoup(page.content(), "html.parser")
+
+    events = []
+    seen = set()
+
+    for a in soup.find_all("a", href=re.compile(r"/fightcenter/events/.*ufc")):
+        href = a["href"]
+        if href in seen:
+            continue
+        seen.add(href)
+
+        name = a.get_text(strip=True)
+        # Skip truncated duplicate links (e.g. "UFC 328: Chimaev vs. Str...")
+        if name.endswith("..."):
+            continue
+
+        # Extract date from parent container
+        parent = a.find_parent("li") or a.find_parent("div") or a.find_parent("tr")
+        event_date = ""
+        if parent:
+            parent_text = parent.get_text(" ", strip=True)
+            date_match = re.search(
+                r"(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+"
+                r"((?:January|February|March|April|May|June|July|August|September|October|November|December)"
+                r"\s+\d{1,2})",
+                parent_text,
+            )
+            if date_match:
+                event_date = date_match.group(1)
+
+        events.append({
+            "name": name,
+            "date": event_date,
+            "fightcenterUrl": href,
+        })
+
+    print(f"  Found {len(events)} upcoming UFC events.")
+    for e in events:
+        print(f"    {e['date']:>20}  {e['name']}")
+
+    return events
+
+
+def normalize_event_name(name):
+    """Normalize an event name for fuzzy matching."""
+    name = name.lower().strip()
+    name = re.sub(r"[^\w\s]", "", name)
+    name = re.sub(r"\s+", " ", name)
+    return name
+
+
+def find_forum_threads(page, events, max_pages=5):
+    """Search forum thread listings to find threads matching upcoming events.
+
+    Returns a list of (event, thread_summary) tuples.
+    """
+    print(f"\nSearching forum for matching threads (up to {max_pages} pages)...")
+
+    # Build lookup of normalized event names
+    event_lookup = {}
+    for event in events:
+        norm = normalize_event_name(event["name"])
+        event_lookup[norm] = event
+        # Also match without the subtitle (e.g. "UFC 328" without ": Chimaev vs. Strickland")
+        short = re.sub(r":.*", "", event["name"]).strip()
+        short_norm = normalize_event_name(short)
+        if short_norm != norm:
+            event_lookup[short_norm] = event
+
+    matched = []
+    matched_events = set()
 
     for pg in range(1, max_pages + 1):
         url = f"{FORUM_URL}?page={pg}"
-        print(f"Scraping thread list page {pg}...")
+        print(f"  Forum page {pg}...")
         soup = get_page_soup(page, url)
 
         if pg == 1:
             handle_consent(page)
-            # Re-fetch after consent in case page changed
             soup = BeautifulSoup(page.content(), "html.parser")
 
         previews = soup.select("#postThreadsList .postPreview, .postPreview")
-
         if not previews:
-            print(f"  No threads found on page {pg}, stopping.")
+            print(f"    No threads found, stopping.")
             break
 
         for preview in previews:
             thread = parse_thread_preview(preview)
-            if thread and thread["id"] not in seen_ids:
-                threads.append(thread)
-                seen_ids.add(thread["id"])
+            if not thread:
+                continue
 
-        print(f"  Found {len(previews)} threads on page {pg}.")
+            thread_norm = normalize_event_name(thread["title"])
 
-        if pg < max_pages:
-            time.sleep(REQUEST_DELAY)
+            for event_norm, event in event_lookup.items():
+                if event["name"] in matched_events:
+                    continue
+                # Match if thread title contains the event name or vice versa
+                if event_norm in thread_norm or thread_norm in event_norm:
+                    thread["eventName"] = event["name"]
+                    thread["eventDate"] = event["date"]
+                    thread["fightcenterUrl"] = event["fightcenterUrl"]
+                    matched.append(thread)
+                    matched_events.add(event["name"])
+                    print(f"    Matched: {thread['title']}  ->  {event['name']} ({event['date']})")
+                    break
 
-    return threads
+        # Stop if we've matched all events
+        if len(matched_events) == len(events):
+            print("  All events matched!")
+            break
+
+        time.sleep(REQUEST_DELAY)
+
+    print(f"\n  Matched {len(matched)}/{len(events)} events to forum threads.")
+    return matched
 
 
 def parse_thread_preview(preview):
@@ -159,7 +249,7 @@ def parse_thread_preview(preview):
 
 
 def scrape_thread_detail(page, thread_id):
-    """Scrape all posts from a thread."""
+    """Scrape ALL posts from a thread (no page limit)."""
     url = f"{BASE_URL}/forum/threads/{thread_id}"
     print(f"  Scraping thread {thread_id}...")
 
@@ -172,37 +262,24 @@ def scrape_thread_detail(page, thread_id):
     total_pages = 1
     pager = soup.select_one("nav[aria-label='pager']")
     if pager:
-        last_link = pager.select("a")
-        for link in reversed(last_link):
+        for link in reversed(pager.select("a")):
             href = link.get("href", "")
             page_match = re.search(r"page=(\d+)", href)
             if page_match:
                 total_pages = max(total_pages, int(page_match.group(1)))
 
-    if total_pages > 10:
-        start_page = max(1, total_pages - 2)
-        print(f"    Mega-thread ({total_pages} pages), scraping pages {start_page}-{total_pages}")
-    else:
-        start_page = 1
+    posts = parse_posts(soup)
+    print(f"    Page 1/{total_pages} ({len(posts)} posts)")
 
-    posts = []
-
-    if start_page == 1:
-        posts.extend(parse_posts(soup))
-    else:
+    for pg in range(2, total_pages + 1):
         time.sleep(REQUEST_DELAY)
-        soup = get_page_soup(page, f"{url}?page={start_page}")
-        posts.extend(parse_posts(soup))
-
-    for pg in range(start_page + 1, total_pages + 1):
-        if len(posts) >= MAX_POSTS_PER_THREAD:
-            print(f"    Hit post limit ({MAX_POSTS_PER_THREAD}), stopping.")
-            break
-
-        time.sleep(REQUEST_DELAY)
-        print(f"    Fetching page {pg}/{total_pages}...")
+        print(f"    Page {pg}/{total_pages}...", end="")
         soup = get_page_soup(page, f"{url}?page={pg}")
-        posts.extend(parse_posts(soup))
+        new_posts = parse_posts(soup)
+        posts.extend(new_posts)
+        print(f" ({len(new_posts)} posts)")
+
+    print(f"    Total: {len(posts)} posts across {total_pages} pages")
 
     return {
         "id": thread_id,
@@ -216,13 +293,10 @@ def scrape_thread_detail(page, thread_id):
 def parse_posts(soup):
     """Parse all posts from a page's soup."""
     posts = []
-    post_elems = soup.select("div.pagePost, .pagePost")
-
-    for elem in post_elems:
+    for elem in soup.select("div.pagePost, .pagePost"):
         post = parse_single_post(elem)
         if post:
             posts.append(post)
-
     return posts
 
 
@@ -336,6 +410,13 @@ def save_data(threads_index, thread_details):
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     THREADS_DIR.mkdir(parents=True, exist_ok=True)
 
+    # Clean out old thread detail files that are no longer in the index
+    current_ids = {t["id"] for t in threads_index}
+    for f in THREADS_DIR.glob("*.json"):
+        if f.stem not in current_ids:
+            f.unlink()
+            print(f"  Removed old thread file: {f.name}")
+
     with open(DATA_DIR / "threads.json", "w") as f:
         json.dump(threads_index, f, indent=2, ensure_ascii=False)
 
@@ -353,8 +434,7 @@ def save_data(threads_index, thread_details):
 
 
 def main():
-    max_pages = int(os.environ.get("SCRAPE_PAGES", "3"))
-    print(f"Tapology Forum Scraper - scraping {max_pages} pages\n")
+    print("Tapology UFC Forum Scraper — upcoming events only\n")
 
     existing = load_existing_data()
 
@@ -362,19 +442,27 @@ def main():
         browser, page = create_browser(pw)
 
         try:
-            threads = scrape_thread_list(page, max_pages=max_pages)
-            if not threads:
-                print("No threads found. Exiting.")
+            # Step 1: Get upcoming UFC events
+            events = scrape_upcoming_events(page)
+            if not events:
+                print("No upcoming events found. Exiting.")
                 sys.exit(1)
 
-            ufc_keywords = ["UFC", "The Miscellaneous Thread", "TAPOLOGY'S BADDEST"]
-            threads = [t for t in threads if any(kw.lower() in t["title"].lower() for kw in ufc_keywords)]
-            print(f"\nFound {len(threads)} UFC threads (filtered).\n")
+            time.sleep(REQUEST_DELAY)
 
+            # Step 2: Find matching forum threads
+            threads = find_forum_threads(page, events)
+            if not threads:
+                print("No matching forum threads found. Exiting.")
+                sys.exit(1)
+
+            # Step 3: Scrape all posts from each thread
+            print(f"\nScraping {len(threads)} threads (all posts)...\n")
             thread_details = {}
             for i, thread in enumerate(threads):
                 tid = thread["id"]
 
+                # Incremental: skip if reply count unchanged
                 if tid in existing:
                     old_count = existing[tid].get("replyCount", 0)
                     if old_count == thread["replyCount"]:
@@ -391,6 +479,10 @@ def main():
                 try:
                     detail = scrape_thread_detail(page, tid)
                     if detail:
+                        # Attach event metadata
+                        detail["eventName"] = thread.get("eventName", "")
+                        detail["eventDate"] = thread.get("eventDate", "")
+                        detail["fightcenterUrl"] = thread.get("fightcenterUrl", "")
                         thread_details[tid] = detail
                 except Exception as e:
                     print(f"    Error scraping thread {tid}: {e}")
