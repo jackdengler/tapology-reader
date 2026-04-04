@@ -4,13 +4,26 @@
     "title": "UFC Fight Night: Moicano vs. Duncan",
     "url": "/forum/threads/94369",
     "isSticky": true,
-    "lastPostTime": "2026-04-04 10:49:33 -0400",
-    "replyCount": 451,
-    "snippet": "\" Is Hailey the play today, $170 or Hailey gets me back in the plus\"(2 minutes ago)",
+    "lastPostTime": "2026-04-04 11:37:58 -0400",
+    "replyCount": 459,
+    "snippet": "\"McMillen vs. Zecchini Tommy McMillen, DEC poss SUB  Costa vs. Nicoll Alessand...\"(9 minutes ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC Fight Night: Moicano vs. Duncan",
     "eventDate": "April  4",
     "fightcenterUrl": "/fightcenter/events/138212-ufc-fight-night"
+  },
+  {
+    "id": "93719",
+    "title": "UFC Fight Night: Strickland vs. Hernandez",
+    "url": "/forum/threads/93719",
+    "isSticky": false,
+    "lastPostTime": "2026-04-04 11:23:48 -0400",
+    "replyCount": 2087,
+    "snippet": "\" The standard for all Pay per views 🇺🇸🇺🇸🇺🇸\"(23 minutes ago)",
+    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "eventName": "UFC Fight Night",
+    "eventDate": "August 29",
+    "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
   },
   {
     "id": "95719",
@@ -19,11 +32,11 @@
     "isSticky": false,
     "lastPostTime": "2026-04-04 03:23:36 -0400",
     "replyCount": 48,
-    "snippet": "\" @elitemmapicks&nbsp;It seems to me that you would be better served to harves...\"(7 hours ago)",
+    "snippet": "\" @elitemmapicks&nbsp;It seems to me that you would be better served to harves...\"(8 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night",
-    "eventDate": "August 29",
-    "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+    "eventName": "UFC Fight Night: Allen vs. Costa",
+    "eventDate": "May 16",
+    "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
   },
   {
     "id": "95823",
@@ -32,7 +45,7 @@
     "isSticky": false,
     "lastPostTime": "2026-04-04 01:56:57 -0400",
     "replyCount": 143,
-    "snippet": "\"Chimaev vs. Strickland Sean Strickland, DEC Honestly I'm picking Strickland m...\"(8 hours ago)",
+    "snippet": "\"Chimaev vs. Strickland Sean Strickland, DEC Honestly I'm picking Strickland m...\"(9 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC 328: Chimaev vs. Strickland",
     "eventDate": "May  9",
@@ -45,7 +58,7 @@
     "isSticky": false,
     "lastPostTime": "2026-04-03 23:28:56 -0400",
     "replyCount": 24,
-    "snippet": "\" if he wants to die?\"(11 hours ago)",
+    "snippet": "\" if he wants to die?\"(12 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC Fight Night: Burns vs. Malott",
     "eventDate": "April 18",
@@ -58,7 +71,7 @@
     "isSticky": false,
     "lastPostTime": "2026-04-03 19:21:56 -0400",
     "replyCount": 337,
-    "snippet": "\" @The Duck&nbsp;It's the technique and distance management of Ulberg vs the a...\"(15 hours ago)",
+    "snippet": "\" @The Duck&nbsp;It's the technique and distance management of Ulberg vs the a...\"(16 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC 327: Procházka vs. Ulberg",
     "eventDate": "April 11",
@@ -71,7 +84,7 @@
     "isSticky": false,
     "lastPostTime": "2026-04-03 15:22:41 -0400",
     "replyCount": 39,
-    "snippet": "\" @Spockling&nbsp; Patchy Mix is gigantic compared to Kyoji and is a respectab...\"(19 hours ago)",
+    "snippet": "\" @Spockling&nbsp; Patchy Mix is gigantic compared to Kyoji and is a respectab...\"(20 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
     "eventDate": "June 20",
@@ -112,9 +125,9 @@
     "replyCount": 23,
     "snippet": "\" @RTTR250&nbsp;God i hope so\"(1 day ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night: Allen vs. Costa",
-    "eventDate": "May 16",
-    "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
+    "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
+    "eventDate": "June  6",
+    "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
   },
   {
     "id": "96050",
@@ -128,18 +141,5 @@
     "eventName": "UFC 329",
     "eventDate": "July 11",
     "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
-  },
-  {
-    "id": "96040",
-    "title": "UFC Fight Night: Muhammad vs. Bonfim",
-    "url": "/forum/threads/96040",
-    "isSticky": false,
-    "lastPostTime": "2026-04-01 21:08:50 -0400",
-    "replyCount": 50,
-    "snippet": "\" Matt Schnell vs Imanol Rodriguez Pick: Rodriguez via round 1 KO 99% of Tapol...\"(2 days ago)",
-    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
-    "eventDate": "June  6",
-    "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
   }
 ]
