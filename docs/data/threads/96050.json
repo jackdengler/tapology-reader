@@ -216,7 +216,7 @@
       "authorUrl": "/profiles/thegreatreaper",
       "timestamp": "2026-03-29T05:28:00-05:00",
       "content": "@qqqqqq bro tryna rewrite history",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -333,7 +333,7 @@
       "authorUrl": "/profiles/gspgoat123",
       "timestamp": "2026-04-02T04:55:00-05:00",
       "content": "It’s a weird situation because you can’t justify having two washed fighters as the main event let alone for the IFW card. But at the same time there’s no way they would have it on the undercard.",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -343,7 +343,7 @@
       "timestamp": "2026-04-05T00:08:00-05:00",
       "content": "Conor vs Masvidal\nKayla vs Nunes\nJiri/Ulberg vs Murzakanov\nPyfer vs Robo Cop\nManuel Torres vs Dan Hooker",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1647401",
@@ -352,7 +352,7 @@
       "timestamp": "2026-04-05T06:55:00-05:00",
       "content": "mac wont fight again ******s this card will be buns like the last 2 international fight week cards Islam will probably be here, maybe volk. One half decent top 5 fight",
       "upvotes": 1,
-      "downvotes": 0
+      "downvotes": 3
     },
     {
       "id": "1647402",
@@ -361,10 +361,19 @@
       "timestamp": "2026-04-05T06:56:00-05:00",
       "content": "@GSPGOAT123 mac could be 80 and he would still headline above islam, perirea and any other new age star or champion, also mac aint fighting and jorge will fight for MVP 100%",
       "upvotes": 1,
+      "downvotes": 2
+    },
+    {
+      "id": "1647485",
+      "author": "GSPGOAT123",
+      "authorUrl": "/profiles/gspgoat123",
+      "timestamp": "2026-04-05T16:37:00-05:00",
+      "content": "@TheGreatReaper Brother Jorge is in talks of returning to the ufc. He turned down mvp.\n\nAnd Conor has been trying to get a fight on this card.\n\n* Edited at 04.05.2026,  4:39 PM ET *",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-05T11:54:19.321229+00:00",
+  "scrapedAt": "2026-04-05T20:51:07.829594+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
