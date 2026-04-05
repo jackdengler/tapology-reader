@@ -100,7 +100,7 @@
       "timestamp": "2026-03-17T20:38:00-05:00",
       "content": "BSD vs Paddy",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1638045",
@@ -334,7 +334,7 @@
       "timestamp": "2026-04-02T04:55:00-05:00",
       "content": "It’s a weird situation because you can’t justify having two washed fighters as the main event let alone for the IFW card. But at the same time there’s no way they would have it on the undercard.",
       "upvotes": 2,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1647366",
@@ -343,7 +343,7 @@
       "timestamp": "2026-04-05T00:08:00-05:00",
       "content": "Conor vs Masvidal\nKayla vs Nunes\nJiri/Ulberg vs Murzakanov\nPyfer vs Robo Cop\nManuel Torres vs Dan Hooker",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1647401",
@@ -361,7 +361,7 @@
       "timestamp": "2026-04-05T06:56:00-05:00",
       "content": "@GSPGOAT123 mac could be 80 and he would still headline above islam, perirea and any other new age star or champion, also mac aint fighting and jorge will fight for MVP 100%",
       "upvotes": 1,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1647485",
@@ -369,11 +369,20 @@
       "authorUrl": "/profiles/gspgoat123",
       "timestamp": "2026-04-05T16:37:00-05:00",
       "content": "@TheGreatReaper Brother Jorge is in talks of returning to the ufc. He turned down mvp.\n\nAnd Conor has been trying to get a fight on this card.\n\n* Edited at 04.05.2026,  4:39 PM ET *",
+      "upvotes": 1,
+      "downvotes": 1
+    },
+    {
+      "id": "1647501",
+      "author": "Shayachamp",
+      "authorUrl": "/profiles/shayachamp",
+      "timestamp": "2026-04-05T19:01:00-05:00",
+      "content": "McGregor vs Paddy\nShevchanko vs Silva\nYair Rodriguez vs Jean Silva\nWhittaker vs Hill\nTopuria vs Mitchell\nStevenson vs  Fortune",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-05T20:51:07.829594+00:00",
+  "scrapedAt": "2026-04-05T23:51:42.160115+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
