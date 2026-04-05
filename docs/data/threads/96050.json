@@ -343,10 +343,28 @@
       "timestamp": "2026-04-05T00:08:00-05:00",
       "content": "Conor vs Masvidal\nKayla vs Nunes\nJiri/Ulberg vs Murzakanov\nPyfer vs Robo Cop\nManuel Torres vs Dan Hooker",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1647401",
+      "author": "TheGreatReaper",
+      "authorUrl": "/profiles/thegreatreaper",
+      "timestamp": "2026-04-05T06:55:00-05:00",
+      "content": "mac wont fight again ******s this card will be buns like the last 2 international fight week cards Islam will probably be here, maybe volk. One half decent top 5 fight",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1647402",
+      "author": "TheGreatReaper",
+      "authorUrl": "/profiles/thegreatreaper",
+      "timestamp": "2026-04-05T06:56:00-05:00",
+      "content": "@GSPGOAT123 mac could be 80 and he would still headline above islam, perirea and any other new age star or champion, also mac aint fighting and jorge will fight for MVP 100%",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-05T06:04:07.090183+00:00",
+  "scrapedAt": "2026-04-05T11:54:19.321229+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
