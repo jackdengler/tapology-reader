@@ -261,7 +261,7 @@
       "authorUrl": "/profiles/madamma",
       "timestamp": "2026-03-29T21:28:00-05:00",
       "content": "Masvidal mcgregor makes a lot of sense imo, idk if Masvidal can make welterweight tho",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -335,7 +335,19 @@
       "content": "It’s a weird situation because you can’t justify having two washed fighters as the main event let alone for the IFW card. But at the same time there’s no way they would have it on the undercard.",
       "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1647366",
+      "author": "rpadilla149",
+      "authorUrl": "/profiles/rpadilla149",
+      "timestamp": "2026-04-05T00:08:00-05:00",
+      "content": "Conor vs Masvidal\nKayla vs Nunes\nJiri/Ulberg vs Murzakanov\nPyfer vs Robo Cop\nManuel Torres vs Dan Hooker",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-04T03:36:11.025450+00:00"
+  "scrapedAt": "2026-04-05T06:04:07.090183+00:00",
+  "eventName": "UFC 329",
+  "eventDate": "July 11",
+  "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
 }
