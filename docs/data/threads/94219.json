@@ -172,7 +172,7 @@
       "timestamp": "2026-03-16T16:10:00-05:00",
       "content": "and imagine im the one that tellin ya",
       "upvotes": 0,
-      "downvotes": 3
+      "downvotes": 4
     },
     {
       "id": "1637858",
@@ -234,9 +234,21 @@
       "authorUrl": "/profiles/pillorychoke",
       "timestamp": "2026-04-03T23:28:00-05:00",
       "content": "if he wants to die?",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1647495",
+      "author": "mm21_moon",
+      "authorUrl": "/profiles/mm21_moon",
+      "timestamp": "2026-04-05T17:44:00-05:00",
+      "content": "@Spockling he is Chinese after all",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-04T03:34:26.593145+00:00"
+  "scrapedAt": "2026-04-05T21:47:32.511525+00:00",
+  "eventName": "UFC Fight Night: Burns vs. Malott",
+  "eventDate": "April 18",
+  "fightcenterUrl": "/fightcenter/events/139670-ufc-fight-night"
 }
