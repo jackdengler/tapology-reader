@@ -46,7 +46,7 @@
       "timestamp": "2026-03-24T15:47:00-05:00",
       "content": "[Predictions]\n\nKape vs. Horiguchi II\nManel Kape, TKO, R1\nPretty easy",
       "upvotes": 5,
-      "downvotes": 5
+      "downvotes": 6
     },
     {
       "id": "1641861",
@@ -55,7 +55,7 @@
       "timestamp": "2026-03-24T16:42:00-05:00",
       "content": "[Predictions]\n\nKape by murder",
       "upvotes": 2,
-      "downvotes": 3
+      "downvotes": 4
     },
     {
       "id": "1641868",
@@ -398,9 +398,18 @@
       "content": "[Predictions]\n\nMesquita vs. Mullins\nBia Mesquita, SUB, R1\nBia by choke as soon as they hit the floor",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1647667",
+      "author": "IlikeMMAandboobs",
+      "authorUrl": "/profiles/ilikemmaandboobs",
+      "timestamp": "2026-04-06T15:02:00-05:00",
+      "content": "[Predictions]\n\nKape vs. Horiguchi II\nKyoji Horiguchi, DEC\nTime for Kyoji to 50-45 that horrendous titty man and get in line for the title.",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-04-06T03:43:33.382067+00:00",
+  "scrapedAt": "2026-04-06T19:20:23.564761+00:00",
   "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
   "eventDate": "June 20",
   "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
