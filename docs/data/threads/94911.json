@@ -1,7 +1,7 @@
 {
   "id": "94911",
   "title": "UFC Fight NightUFC Fight Night: Song vs. Figueiredo",
-  "totalPages": 3,
+  "totalPages": 4,
   "posts": [
     {
       "id": "1619063",
@@ -531,7 +531,7 @@
       "authorUrl": "/profiles/elitemmapicks",
       "timestamp": "2026-04-02T20:54:00-05:00",
       "content": "[Predictions]\n\nKai Asakura vs Cameron Smotherman\nPick: Asakura via round 1 KO\n92% of Tapology users (109 users) are picking Asakura (79% KO)\nSmotherman is 3.9 years younger (28.7 vs 32.6)\nBoth fighters have 69” reach\nSmotherman has +0.55 strike differential/min vs -1.26\nSmotherman proj. +21.6 significant strikes attempted\nSmotherman proj. +15.6 significant strikes landed\nAsakura proj. +8.5 head strikes landed\nAsakura proj. 0.13 knockdowns vs 0.00\nAsakura proj. 35.2% finish chance vs 28.7% and 36.1% decision\nAsakura has 13:3 KO win/loss ratio (9/13 KO’s in round 1, 3/13 KO’s in round 2, 1/13 KO’s in round 3)\nSmotherman has 6:2 KO win/loss ratio (2/2 times KO’d were in round 1)",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -558,7 +558,7 @@
       "authorUrl": "/profiles/elitemmapicks",
       "timestamp": "2026-04-04T17:35:00-05:00",
       "content": "[Predictions]\n\nMuslim Salikhov vs Jake Matthews\nPick: Matthews via decision\n61% of Tapology users (140 users) are picking blank (71% decision)\nMatthews is 10.2 years younger (31.8 vs 42.0)\nMatthews has 3” reach edge (73” vs 70”)\nSalikhov is from Russia, Matthews is from Australia (event is in China)\nMatthews has +0.72 strike differential/min vs +0.41\nMatthews proj. +16.0 significant strikes attempted\nMatthews proj. +2.4 significant strikes landed\nMatthews proj. +4.0 head strikes landed\nSalikhov proj. 0.40 knockdowns vs 0.33\nMatthews proj. 1.2 takedowns landed (3.5 attempts) vs 1.1 (3.3 attempts)\nMatthews proj. 0.80 submission attempts vs 0.00\nSalikhov proj. 38.7% finish chance vs 32.3% and 29.0% decision",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -569,10 +569,28 @@
       "content": "Salikhov vs Matthews\nJake Matthews, DEC\n10-years difference is too much and it's hard to KO Matthews",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1619063",
+      "author": "Tapology",
+      "authorUrl": "/profiles/tapology",
+      "timestamp": "2026-02-02T01:03:00-05:00",
+      "content": "The official Tapology discussion thread for the event!",
+      "upvotes": 4,
+      "downvotes": 0
+    },
+    {
+      "id": "1647521",
+      "author": "Grogers70426",
+      "authorUrl": "/profiles/grogers70426",
+      "timestamp": "2026-04-05T21:13:00-05:00",
+      "content": "[Predictions]\n\nSalikhov vs. Matthews\nMuslim Salikhov, TKO, R2\nI can see the old man getting a KO from a spin kick",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-05T21:49:38.377714+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-04-06T03:44:08.536771+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }
