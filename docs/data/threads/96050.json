@@ -1,7 +1,7 @@
 {
   "id": "96050",
   "title": "UFC 329UFC 329",
-  "totalPages": 2,
+  "totalPages": 3,
   "posts": [
     {
       "id": "1634973",
@@ -9,7 +9,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -18,7 +18,7 @@
       "authorUrl": "/profiles/socalryno89",
       "timestamp": "2026-03-13T10:25:00-05:00",
       "content": "Islam vs Garry  Usman vs Morales  Ankalaev vs Rountree   DDP vs Allen  Oezdemir vs Whittaker   Lewis vs Stevenson",
-      "upvotes": 7,
+      "upvotes": 8,
       "downvotes": 2
     },
     {
@@ -27,7 +27,7 @@
       "authorUrl": "/profiles/rpadilla149",
       "timestamp": "2026-03-13T20:31:00-05:00",
       "content": "Charles vs Armen 2. Ilia beats Gaethje in June and vacates to move up to fight Islam. Vacant lightweight belt on the line",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -36,7 +36,7 @@
       "authorUrl": "/profiles/socalryno89",
       "timestamp": "2026-03-13T21:14:00-05:00",
       "content": "Rodriguez vs Silva\nChiesa vs DRod",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -45,7 +45,7 @@
       "authorUrl": "/profiles/biscuit%20boy",
       "timestamp": "2026-03-14T00:32:00-05:00",
       "content": "Volk vs Evloev/Murphy winner main event",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -54,7 +54,7 @@
       "authorUrl": "/profiles/chems",
       "timestamp": "2026-03-14T00:34:00-05:00",
       "content": "Is 329 even out yet petr yan better be on one or the co main to 328",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -198,7 +198,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -343,7 +343,7 @@
       "timestamp": "2026-04-05T00:08:00-05:00",
       "content": "Conor vs Masvidal\nKayla vs Nunes\nJiri/Ulberg vs Murzakanov\nPyfer vs Robo Cop\nManuel Torres vs Dan Hooker",
       "upvotes": 0,
-      "downvotes": 3
+      "downvotes": 4
     },
     {
       "id": "1647401",
@@ -379,10 +379,28 @@
       "timestamp": "2026-04-05T19:01:00-05:00",
       "content": "McGregor vs Paddy\nShevchanko vs Silva\nYair Rodriguez vs Jean Silva\nWhittaker vs Hill\nTopuria vs Mitchell\nStevenson vs  Fortune",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1634973",
+      "author": "Tapology",
+      "authorUrl": "/profiles/tapology",
+      "timestamp": "2026-03-13T09:54:00-05:00",
+      "content": "The official Tapology discussion thread for the event!",
+      "upvotes": 4,
+      "downvotes": 0
+    },
+    {
+      "id": "1647625",
+      "author": "Msherrera15",
+      "authorUrl": "/profiles/msherrera15",
+      "timestamp": "2026-04-06T11:43:00-05:00",
+      "content": "Please book morales vs Islam",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-05T23:51:42.160115+00:00",
+  "scrapedAt": "2026-04-06T16:04:17.558498+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
