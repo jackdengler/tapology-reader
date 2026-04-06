@@ -1413,7 +1413,7 @@
       "authorUrl": "/profiles/bellatrix",
       "timestamp": "2026-04-04T22:07:00-05:00",
       "content": "I wasn't going to be able to watch Van v Taira live if it was on 327.  Sorry, guys.  It must have been those sacrifices to the MMA gods.",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -1449,7 +1449,7 @@
       "authorUrl": "/profiles/fentymix",
       "timestamp": "2026-04-06T02:53:00-05:00",
       "content": "[Predictions]\n\nShoutout to Van for having the fight moved slightly back instead of sitting out for a year like a certain someone",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 2
     },
     {
@@ -1459,10 +1459,19 @@
       "timestamp": "2026-04-06T08:09:00-05:00",
       "content": "@Mothswords He's not injured, they are ******* with Taira's weight cut so he can have an advantage\n\nToo injured to fight this weekend, but not injured enough to take more than a month off...",
       "upvotes": 1,
-      "downvotes": 2
+      "downvotes": 4
+    },
+    {
+      "id": "1647638",
+      "author": "CC Picks",
+      "authorUrl": "/profiles/cc%20picks",
+      "timestamp": "2026-04-06T12:58:00-05:00",
+      "content": "Chimaev is the biggest opportunity I've ever seen, he should be -10000 to win here . anything under -1000 is great value in my opinion. Take the juice lay the pipe and thank me later !! Tips appreciated. Insta : CCpicks_",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-06T13:48:54.145478+00:00",
+  "scrapedAt": "2026-04-06T17:07:11.136956+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"
