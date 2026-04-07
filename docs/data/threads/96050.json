@@ -405,7 +405,7 @@
       "authorUrl": "/profiles/gilpin",
       "timestamp": "2026-04-06T22:54:00-05:00",
       "content": "@Msherrera15 Ian is much more deserving imo, he has notable wins over Belal, Prates, and MVP while Morales only has wins over Brady and Burns, having a win over a former champ and being higher rated gives him the title shot. Plus, I think he has a much better chance against Islam.",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -414,7 +414,7 @@
       "authorUrl": "/profiles/gilpin",
       "timestamp": "2026-04-06T22:59:00-05:00",
       "content": "@GSPGOAT123 Jorge already confirmed he was coming back, and at his age no way he's seriously trying to fight for the belt, this is 100% just a money fight and the only candidates at 170 I can think of are McGregor or Colby (highly unlikely but it would be a big draw).",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -423,11 +423,20 @@
       "authorUrl": "/profiles/gilpin",
       "timestamp": "2026-04-06T23:00:00-05:00",
       "content": "@TheGreatReaper UFC 317 was a great card idk what you're talking about",
-      "upvotes": 0,
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1647770",
+      "author": "skbwafenwoadj",
+      "authorUrl": "/profiles/skbwafenwoadj",
+      "timestamp": "2026-04-07T07:49:00-05:00",
+      "content": "If islam injury isn't that bad I see him fighting here\nIslam vs Ian\nVolk vs Movsar\nConor vs anyone (idk about this because conor is a bum who i dont ever see coming back)\nImamov vs DDP",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-07T03:33:28.782580+00:00",
+  "scrapedAt": "2026-04-07T12:03:14.784256+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
