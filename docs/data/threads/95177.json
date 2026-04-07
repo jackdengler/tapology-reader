@@ -614,9 +614,18 @@
       "content": "BUCKLEY vs Geroge Saint Pierre",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1647733",
+      "author": "royalkickbeat",
+      "authorUrl": "/profiles/royalkickbeat",
+      "timestamp": "2026-04-07T01:05:00-05:00",
+      "content": "Hideous card",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-07T03:33:49.140619+00:00",
+  "scrapedAt": "2026-04-07T05:58:56.704621+00:00",
   "eventName": "UFC Fight Night: Burns vs. Malott",
   "eventDate": "April 18",
   "fightcenterUrl": "/fightcenter/events/139670-ufc-fight-night"
