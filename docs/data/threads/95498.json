@@ -650,9 +650,18 @@
       "content": "Ryan Spann is fighting Buchecha now",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1648083",
+      "author": "corygraves",
+      "authorUrl": "/profiles/corygraves",
+      "timestamp": "2026-04-08T17:34:00-05:00",
+      "content": "[Predictions]\n\nMarcus went from a layup to loss with that change.\n\n* Edited at 04.08.2026,  5:35 PM ET *",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-08T17:28:09.231225+00:00",
+  "scrapedAt": "2026-04-08T22:03:19.819477+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
