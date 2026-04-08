@@ -234,11 +234,38 @@
       "authorUrl": "/profiles/spockling",
       "timestamp": "2026-04-08T13:08:00-05:00",
       "content": "[Predictions]\n\nAbdulrakhman yakhyaev vs Julius Walker added",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1648029",
+      "author": "WizzDumb",
+      "authorUrl": "/profiles/wizzdumb",
+      "timestamp": "2026-04-08T13:56:00-05:00",
+      "content": "UFC 327 Main Card (Paramount+ / CBS)\nWeight              Winners                      Losers\nLHW205  | Jiří Procházka  | vs.  | Carlos Ulberg  ------------TKO4----\nLHW205  | Azamat Murzakanov  | vs.  | Paulo Costa  -----TKO2-----\nHW265    | Curtis Blaydes  | vs.  | Josh Hokit  ---------------TKO2----\nLHW205  | Dominick Reyes  | vs.  | Johnny Walker  -------TKO3-----\nFW145    | Cub Swanson  | vs.  | Nate Landwehr  ----------TKO2----\nPrelim Card (Paramount+ / CBS)\nFW145     | Aaron Pico    | vs.  | Patrício Pitbull  --------------TKO3----\nLW155      | Esteb Ribovics    | vs.  | Mateusz Gamrot  -----D---------\nWW170    | Kevin Holland  | vs.  | Randy Brown  -----------TKO3----\nWSW125 | Tatiana Suarez  | vs.  | Loopy Godinez  --------D----------\nEarly Prelim Card (Paramount+ / UFC Fight Pass)\nLW155     | Chris Padilla  | vs.  | Mar Mederos -------------TKO2-----\nMW185    | Kelvin Gastelum  | vs.  | Vicente Luque  -------D----------\nWW170   | Charles Radtke  | vs.  | Francisco Prado -----TKO3-----",
+      "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1648046",
+      "author": "qqqqqq",
+      "authorUrl": "/profiles/qqqqqq",
+      "timestamp": "2026-04-08T15:05:00-05:00",
+      "content": "Wrong thread mud 🥀",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1648049",
+      "author": "Spockling",
+      "authorUrl": "/profiles/spockling",
+      "timestamp": "2026-04-08T15:11:00-05:00",
+      "content": "[Predictions]\n\nAccoridng to his bio he is 73 lets not give him to hard of a tine they are kinda hard to navigate if you dobt live online",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-08T17:28:19.227973+00:00",
+  "scrapedAt": "2026-04-08T19:45:00.428056+00:00",
   "eventName": "UFC Fight Night: Burns vs. Malott",
   "eventDate": "April 18",
   "fightcenterUrl": "/fightcenter/events/139670-ufc-fight-night"

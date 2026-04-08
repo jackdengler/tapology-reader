@@ -622,11 +622,20 @@
       "timestamp": "2026-04-08T10:19:00-05:00",
       "content": "[Predictions]\n\nSong vs. Figueiredo\nYadong Song, TKO, R2\n***** is washed up\n\nZhang vs. Menifield\nAlonzo Menifield, TKO, R1\nThis fool will get embarrased in front of whole china again.\n\nPavlovich vs. Teixeira\nSergei Pavlovich, DEC\nSirgay Decisionovich with another decision.",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 2
+    },
+    {
+      "id": "1648053",
+      "author": "Spockling",
+      "authorUrl": "/profiles/spockling",
+      "timestamp": "2026-04-08T15:15:00-05:00",
+      "content": "@mezzor  ***** is my favorite fighter bro",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-08T15:47:59.782164+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-04-08T19:44:03.526444+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }
