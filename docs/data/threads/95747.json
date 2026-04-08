@@ -801,11 +801,20 @@
       "authorUrl": "/profiles/aminmma",
       "timestamp": "2026-04-08T15:36:00-05:00",
       "content": "[Predictions]\n\nBro, Im in complete shock to see the pick ratio for Jenkins/Rahiki. Jenkins is absolutely going to kick this kid's ass until he finds the finish",
+      "upvotes": 2,
+      "downvotes": 2
+    },
+    {
+      "id": "1648065",
+      "author": "Spockling",
+      "authorUrl": "/profiles/spockling",
+      "timestamp": "2026-04-08T16:03:00-05:00",
+      "content": "[Predictions]\n\n@AminMMA  He isnt as freaky as rahiki",
       "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-08T19:40:55.397680+00:00",
+  "scrapedAt": "2026-04-08T21:05:14.340890+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
