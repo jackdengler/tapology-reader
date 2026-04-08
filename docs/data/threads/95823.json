@@ -352,7 +352,7 @@
       "timestamp": "2026-03-09T21:32:00-05:00",
       "content": "[Predictions]\n\n#JusticeforImavov",
       "upvotes": 3,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1634164",
@@ -379,7 +379,7 @@
       "timestamp": "2026-03-09T22:51:00-05:00",
       "content": "[Predictions]\n\nAm I delusional for thinking Strickland beats Chimaev?\n\n* Edited at 03.09.2026, 10:52 PM ET *",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1630161",
@@ -802,7 +802,7 @@
       "timestamp": "2026-03-13T06:01:00-05:00",
       "content": "[Predictions]\n\nKhamzat Chimaev vs Sean Strickland\nPick: Chimaev via round 3 submission\nChimaev is -410 on Draftkings and -500 on BetOnline\n79% of Tapology users (271 users) are picking Chimaev (55% submission)\nChimaev is 3.2 years younger (32.1 vs 35.2)\nStrickland has 1” reach edge (76” vs 75”)\nChimaev has +1.72 strike differential/min vs +1.47\nStrickland has +1.35 strike differential/min @distance vs -1.02\nStrickland proj. +3.7 significant strikes attempted\nBoth fighters projected for 114 significant strikes landed\nStrickland proj. +16.4 head strikes landed\nChimaev has 57% head strike accuracy, 47% head strike defense\nStrickland has 39% head strike accuracy, 76% head strike defense\nChimaev proj. 0.51 knockdowns vs 0.17\nChimaev proj. 6.3 takedowns landed (16.0 attempts) vs 0.7 (1.8 attempts)\nChimaev has 26:1 takedown ratio vs 18:15\nChimaev has 9:1 submission attempt ratio (44% secured) vs 4:0 (25% secured)\nChimaev proj. 3.00 submission attempts vs 0.33\nChimaev proj. 42.7% finish chance vs 21.6% and 35.7% decision\nProjected rounds: 2.4 rounds (12.0 mins)\nStrickland is not projected to win the striking by enough\nChimaev will likely get Strickland down\n4/6 submission wins for Chimaev were in round 1\n2/6 submission wins for Chimaev were in round 2\n9/12 finishes for Chimaev were in round 1\nBoth times finished for Strickland were in round 1 (both KO’s)\nChimaev via decision isn’t a bad play",
       "upvotes": 1,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1634944",
@@ -1548,11 +1548,29 @@
       "authorUrl": "/profiles/tussin33",
       "timestamp": "2026-04-08T04:33:00-05:00",
       "content": "What an amazing card. I was wondering where all the talent has been. 2026 has sucked for the most part outside of 324.",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1647993",
+      "author": "mezzor",
+      "authorUrl": "/profiles/mezzor",
+      "timestamp": "2026-04-08T10:14:00-05:00",
+      "content": "[Predictions]\n\nVan vs. Taira\nTatsuro Taira, SUB, R2\nGoated card\n\nGautier vs. Diaz\nAteba Gautier, TKO, R1\nKeep building up this fraud\n\nAlvarez vs. Amosov\nJoel Alvarez, TKO, R1\nClassic case of UFC trying to get the bellator guy killed",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1647998",
+      "author": "AyyLmaonnaise",
+      "authorUrl": "/profiles/ayylmaonnaise",
+      "timestamp": "2026-04-08T10:27:00-05:00",
+      "content": "Rip mezzy",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-08T09:25:26.478527+00:00",
+  "scrapedAt": "2026-04-08T15:47:39.317071+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"
