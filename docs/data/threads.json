@@ -1,29 +1,29 @@
 [
   {
-    "id": "94220",
-    "title": "UFC 327: Procházka vs. Ulberg",
-    "url": "/forum/threads/94220",
+    "id": "94911",
+    "title": "UFC Fight Night: Song vs. Figueiredo",
+    "url": "/forum/threads/94911",
     "isSticky": false,
-    "lastPostTime": "2026-04-08 01:35:37 -0400",
-    "replyCount": 582,
-    "snippet": "\" @The Duck&nbsp;but Ribovics is a guy who has a close fight with absolutely e...\"(21 minutes ago)",
-    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC 327: Procházka vs. Ulberg",
-    "eventDate": "April 11",
-    "fightcenterUrl": "/fightcenter/events/137847-ufc-327"
-  },
-  {
-    "id": "94369",
-    "title": "UFC Fight Night: Moicano vs. Duncan",
-    "url": "/forum/threads/94369",
-    "isSticky": false,
-    "lastPostTime": "2026-04-07 15:00:39 -0400",
-    "replyCount": 2038,
-    "snippet": "\" @B7L7&nbsp;No one expected Estevam to outstrike Ewing, literally no one. It ...\"(10 hours ago)",
+    "lastPostTime": "2026-04-08 02:37:39 -0400",
+    "replyCount": 64,
+    "snippet": "\" @A_Person_05&nbsp;Yadong looked bad against O'Malley? It was a razor close 2...\"(1 hour ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC Fight Night",
     "eventDate": "August 29",
     "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  },
+  {
+    "id": "94220",
+    "title": "UFC 327: Procházka vs. Ulberg",
+    "url": "/forum/threads/94220",
+    "isSticky": false,
+    "lastPostTime": "2026-04-08 02:26:29 -0400",
+    "replyCount": 583,
+    "snippet": "\" I agree, Gamrot by dec and I have a bet on it, if you bet not only ML but al...\"(1 hour ago)",
+    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "eventName": "UFC 327: Procházka vs. Ulberg",
+    "eventDate": "April 11",
+    "fightcenterUrl": "/fightcenter/events/137847-ufc-327"
   },
   {
     "id": "95823",
@@ -32,7 +32,7 @@
     "isSticky": false,
     "lastPostTime": "2026-04-07 14:01:18 -0400",
     "replyCount": 162,
-    "snippet": "\"Van vs. Taira Joshua Van, DEC The injury taking him out of the last fight is ...\"(11 hours ago)",
+    "snippet": "\"Van vs. Taira Joshua Van, DEC The injury taking him out of the last fight is ...\"(13 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC 328: Chimaev vs. Strickland",
     "eventDate": "May  9",
@@ -45,7 +45,7 @@
     "isSticky": false,
     "lastPostTime": "2026-04-07 07:49:49 -0400",
     "replyCount": 45,
-    "snippet": "\" If islam injury isn't that bad I see him fighting here Islam vs Ian Volk vs ...\"(18 hours ago)",
+    "snippet": "\" If islam injury isn't that bad I see him fighting here Islam vs Ian Volk vs ...\"(20 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC 329",
     "eventDate": "July 11",
@@ -63,19 +63,6 @@
     "eventName": "UFC Fight Night: Burns vs. Malott",
     "eventDate": "April 18",
     "fightcenterUrl": "/fightcenter/events/139670-ufc-fight-night"
-  },
-  {
-    "id": "94911",
-    "title": "UFC Fight Night: Song vs. Figueiredo",
-    "url": "/forum/threads/94911",
-    "isSticky": false,
-    "lastPostTime": "2026-04-06 15:07:59 -0400",
-    "replyCount": 62,
-    "snippet": "\" Pavlovich vs. Teixeira Sergei Pavlovich, R̶a̶p̶e̶ TKO, R1 Teixeira's cardio ...\"(1 day ago)",
-    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night: Song vs. Figueiredo",
-    "eventDate": "May 30",
-    "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
   },
   {
     "id": "96138",
@@ -128,5 +115,18 @@
     "eventName": "UFC Fight Night: Allen vs. Costa",
     "eventDate": "May 16",
     "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
+  },
+  {
+    "id": "96209",
+    "title": "UFC Fight Night",
+    "url": "/forum/threads/96209",
+    "isSticky": false,
+    "lastPostTime": "2026-04-02 12:37:01 -0400",
+    "replyCount": 23,
+    "snippet": "\" @RTTR250&nbsp;God i hope so\"(5 days ago)",
+    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "eventName": "UFC Fight Night: Song vs. Figueiredo",
+    "eventDate": "May 30",
+    "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
   }
 ]
