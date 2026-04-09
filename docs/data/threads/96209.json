@@ -244,7 +244,7 @@
       "timestamp": "2026-04-08T13:56:00-05:00",
       "content": "UFC 327 Main Card (Paramount+ / CBS)\nWeight              Winners                      Losers\nLHW205  | Jiří Procházka  | vs.  | Carlos Ulberg  ------------TKO4----\nLHW205  | Azamat Murzakanov  | vs.  | Paulo Costa  -----TKO2-----\nHW265    | Curtis Blaydes  | vs.  | Josh Hokit  ---------------TKO2----\nLHW205  | Dominick Reyes  | vs.  | Johnny Walker  -------TKO3-----\nFW145    | Cub Swanson  | vs.  | Nate Landwehr  ----------TKO2----\nPrelim Card (Paramount+ / CBS)\nFW145     | Aaron Pico    | vs.  | Patrício Pitbull  --------------TKO3----\nLW155      | Esteb Ribovics    | vs.  | Mateusz Gamrot  -----D---------\nWW170    | Kevin Holland  | vs.  | Randy Brown  -----------TKO3----\nWSW125 | Tatiana Suarez  | vs.  | Loopy Godinez  --------D----------\nEarly Prelim Card (Paramount+ / UFC Fight Pass)\nLW155     | Chris Padilla  | vs.  | Mar Mederos -------------TKO2-----\nMW185    | Kelvin Gastelum  | vs.  | Vicente Luque  -------D----------\nWW170   | Charles Radtke  | vs.  | Francisco Prado -----TKO3-----",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1648046",
@@ -261,11 +261,20 @@
       "authorUrl": "/profiles/spockling",
       "timestamp": "2026-04-08T15:11:00-05:00",
       "content": "[Predictions]\n\nAccoridng to his bio he is 73 lets not give him to hard of a tine they are kinda hard to navigate if you dobt live online",
-      "upvotes": 0,
+      "upvotes": 2,
+      "downvotes": 0
+    },
+    {
+      "id": "1648184",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-04-08T20:59:00-05:00",
+      "content": "[Predictions]\n\nAbdul Rakhman Yakhyaev vs Julius Walker\nPick: Yakhyaev via round 1 KO\n94% of Tapology users (53 users) are picking Yakhyaev (75% KO)\nYakhyaev is 1.6 years younger (25.3 vs 27.0)\nBoth fighters have 78” reach\nYakhyaev is from Turkey, Walker is from USA (event is in Azerbaijan)\nYakhyaev has +5.10 strike differential/min vs -0.30\nYakhyaev proj. +43.0 significant strikes attempted\nYakhyaev proj. +39.6 significant strikes landed\nYakhyaev proj. +45.5 head strikes landed\nYakhyaev proj. 3.20 knockdowns vs 0.16\nYakhyaev proj. 5.7 takedowns landed (15.3 attempts) vs 2.0 (10.8 attempts)\nYakhyaev proj. 7.70 submission attempts vs 0.00\nYakhyaev proj. 50.0% finish chance vs 33.3% and 16.7% decision\n8/9 wins for Yakhyaev via finish (7/8 in round 1)\nYakhyaev has 3:0 KO win/loss ratio (3/3 KO’s in round 1)\nWalker has 4:1 KO win/loss ratio (only time KO’d was in round 2 vs Dustin Jacoby)",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-08T19:45:00.428056+00:00",
+  "scrapedAt": "2026-04-09T03:32:25.038646+00:00",
   "eventName": "UFC Fight Night: Burns vs. Malott",
   "eventDate": "April 18",
   "fightcenterUrl": "/fightcenter/events/139670-ufc-fight-night"
