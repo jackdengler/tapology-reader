@@ -1621,7 +1621,7 @@
       "timestamp": "2026-04-10T00:06:00-05:00",
       "content": "[Predictions]\n\nBłachowicz vs. Guskov\nJan Błachowicz, TKO, R2\nBlachowicz 🇵🇱🇵🇱🇵🇱 LFG",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1648530",
@@ -1631,9 +1631,18 @@
       "content": "[Predictions]\n\n@TheAnalyzer because we already saw the fight",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1648595",
+      "author": "Spockling",
+      "authorUrl": "/profiles/spockling",
+      "timestamp": "2026-04-10T11:43:00-05:00",
+      "content": "[Predictions]\n\nJim got ts",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-10T12:04:53.055230+00:00",
+  "scrapedAt": "2026-04-10T16:13:05.403017+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"
