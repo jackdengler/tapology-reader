@@ -675,11 +675,20 @@
       "authorUrl": "/profiles/damienhouse",
       "timestamp": "2026-04-09T22:38:00-05:00",
       "content": "[Predictions]\n\nDing Meng vs José Henrique has been added.\nhttps://x.com/BigMarcel24/status/2042428814064562649?s=20",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1648524",
+      "author": "DamienHouse",
+      "authorUrl": "/profiles/damienhouse",
+      "timestamp": "2026-04-10T05:21:00-05:00",
+      "content": "[Predictions]\n\nSo glad Xiong rebounded fast. ONE really wasted years of her career.",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-10T03:47:03.738270+00:00",
+  "scrapedAt": "2026-04-10T09:39:12.329087+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
