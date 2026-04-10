@@ -397,7 +397,7 @@
       "timestamp": "2026-04-06T11:43:00-05:00",
       "content": "Please book morales vs Islam",
       "upvotes": 0,
-      "downvotes": 4
+      "downvotes": 5
     },
     {
       "id": "1647722",
@@ -414,8 +414,8 @@
       "authorUrl": "/profiles/gilpin",
       "timestamp": "2026-04-06T22:59:00-05:00",
       "content": "@GSPGOAT123 Jorge already confirmed he was coming back, and at his age no way he's seriously trying to fight for the belt, this is 100% just a money fight and the only candidates at 170 I can think of are McGregor or Colby (highly unlikely but it would be a big draw).",
-      "upvotes": 1,
-      "downvotes": 0
+      "upvotes": 2,
+      "downvotes": 1
     },
     {
       "id": "1647724",
@@ -423,7 +423,7 @@
       "authorUrl": "/profiles/gilpin",
       "timestamp": "2026-04-06T23:00:00-05:00",
       "content": "@TheGreatReaper UFC 317 was a great card idk what you're talking about",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -432,11 +432,20 @@
       "authorUrl": "/profiles/skbwafenwoadj",
       "timestamp": "2026-04-07T07:49:00-05:00",
       "content": "If islam injury isn't that bad I see him fighting here\nIslam vs Ian\nVolk vs Movsar\nConor vs anyone (idk about this because conor is a bum who i dont ever see coming back)\nImamov vs DDP",
-      "upvotes": 1,
-      "downvotes": 0
+      "upvotes": 2,
+      "downvotes": 1
+    },
+    {
+      "id": "1648539",
+      "author": "TheGreatReaper",
+      "authorUrl": "/profiles/thegreatreaper",
+      "timestamp": "2026-04-10T08:04:00-05:00",
+      "content": "@Gilpin it was decent but just was pretty average.",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-04-07T12:03:14.784256+00:00",
+  "scrapedAt": "2026-04-10T14:06:16.198418+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
