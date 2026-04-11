@@ -666,7 +666,7 @@
       "authorUrl": "/profiles/jreynolds47",
       "timestamp": "2026-04-09T12:04:00-05:00",
       "content": "[Predictions]\n\nCroden vs. Zheleznyakova\nDarya Zheleznyakova, DEC\nDarya😍mogs\n\nValentin vs. Leblanc\nRobert Valentin, SUB, R3\nLet’s get your first ufc win my Swiss Viking 😁\n\nSiraj vs. Yannis\nJamie Siraj, SUB, R2\nFinally Siraj gets the call up. One of the slowest starters in the game",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -684,11 +684,20 @@
       "authorUrl": "/profiles/dontsellmydata",
       "timestamp": "2026-04-10T02:54:00-05:00",
       "content": "[Predictions]\n\nBuzukja vs. Barbosa\nMárcio Barbosa, TKO, R1\nRIP my granny she got hit by a Buzukja",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1648849",
+      "author": "Eko David Rianto",
+      "authorUrl": "/profiles/eko%20david%20rianto",
+      "timestamp": "2026-04-10T22:21:00-05:00",
+      "content": "[Predictions]\n\nBurns vs. Malott\nMike Malott, DEC\nWIN",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-10T08:03:44.846320+00:00",
+  "scrapedAt": "2026-04-11T03:24:31.086130+00:00",
   "eventName": "UFC Fight Night: Burns vs. Malott",
   "eventDate": "April 18",
   "fightcenterUrl": "/fightcenter/events/139670-ufc-fight-night"
