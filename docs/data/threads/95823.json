@@ -1197,7 +1197,7 @@
       "authorUrl": "/profiles/kermit",
       "timestamp": "2026-03-24T16:32:00-05:00",
       "content": "Crazy Jeremy Stephens was getting arm barred by Din Thomas in the UFC in 2007 and yet here he still is.",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -1638,11 +1638,20 @@
       "authorUrl": "/profiles/spockling",
       "timestamp": "2026-04-10T11:43:00-05:00",
       "content": "[Predictions]\n\nJim got ts",
-      "upvotes": 0,
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1648886",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-04-10T23:48:00-05:00",
+      "content": "[Predictions]\n\nJim Miller vs Jared Gordon\nPick: Gordon via decision\n79% of Tapology users (86 users) are picking Gordon (88% decision)\nGordon is 5.0 years younger (37.7 vs 42.7)\nMiller has 3” reach edge (71” vs 68”)\nGordon has +1.50 strike differential/min vs -0.52\nGordon proj. +17.3 significant strikes attempted\nGordon proj. +14.4 significant strikes landed\nGordon proj. +14.4 head strikes landed\nMiller proj. 0.24 knockdowns vs 0.13\nGordon proj. 2.3 takedowns landed (5.6 attempts) vs 1.4 (3.3 attempts)\nMiller proj. 1.70 submission attempts vs 0.00\nMiller proj. 34.1% finish chance vs 21.0% and 44.9% decision",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-10T16:13:05.403017+00:00",
+  "scrapedAt": "2026-04-11T05:45:44.866190+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"
