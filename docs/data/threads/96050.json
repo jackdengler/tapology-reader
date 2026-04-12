@@ -442,7 +442,7 @@
       "timestamp": "2026-04-10T08:04:00-05:00",
       "content": "@Gilpin it was decent but just was pretty average.",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1648589",
@@ -460,7 +460,7 @@
       "timestamp": "2026-04-10T11:29:00-05:00",
       "content": "Payton Talbott vs Daniel Marcos\nMacy Chiasson vs Miesha Tate\nMarcin Tybura vs Vitor Petrino\nRob Font vs Ethyn Ewing\nElise Reed vs Shanelle Dyer\nUran Satybaldiev vs Alvin Hines",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1648596",
@@ -468,11 +468,20 @@
       "authorUrl": "/profiles/the%20giraffe",
       "timestamp": "2026-04-10T11:49:00-05:00",
       "content": "Food for thought:\n\nIf Evloev fought in July, it would represent the quickest turnaround of his UFC career.  If history can serve as a guide whatsoever, he won't fight again until January 2027.  It's been an average of 9+ months between fights for him.  He's coming off his first five rounder in almost 8 years where he got a little dinged up, and his next fight is the biggest of his career.",
+      "upvotes": 2,
+      "downvotes": 1
+    },
+    {
+      "id": "1650938",
+      "author": "jomarmma17",
+      "authorUrl": "/profiles/jomarmma17",
+      "timestamp": "2026-04-11T23:35:00-05:00",
+      "content": "Gable Steveson will be on this card",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-10T16:12:18.487391+00:00",
+  "scrapedAt": "2026-04-12T03:59:05.481098+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
