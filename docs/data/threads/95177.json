@@ -9,7 +9,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-10T19:49:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -198,7 +198,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-10T19:49:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -387,7 +387,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-10T19:49:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -576,7 +576,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-10T19:49:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -765,7 +765,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-10T19:49:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -936,7 +936,7 @@
       "authorUrl": "/profiles/grayerman",
       "timestamp": "2026-04-12T14:18:00-05:00",
       "content": "[Predictions]\n\nGolly this card blows",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -954,7 +954,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-10T19:49:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -972,7 +972,7 @@
       "authorUrl": "/profiles/grayerman",
       "timestamp": "2026-04-12T14:23:00-05:00",
       "content": "[Predictions]\n\nToo many Canadians",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -999,7 +999,7 @@
       "authorUrl": "/profiles/manlikeonyx",
       "timestamp": "2026-04-12T14:50:00-05:00",
       "content": "[Predictions]\n\nAbsolute hydrogen bomb vs coughing baby type matchup we got here on the Canada card prelims…😭😭",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -1010,9 +1010,18 @@
       "content": "@grayerman not enough Canadians",
       "upvotes": 2,
       "downvotes": 0
+    },
+    {
+      "id": "1651369",
+      "author": "Miguelpicks",
+      "authorUrl": "/profiles/miguelpicks",
+      "timestamp": "2026-04-12T15:31:00-05:00",
+      "content": "[Predictions]\n\n@ManLikeOnyx allan will easily sub Mitch.",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-12T19:09:07.123724+00:00",
+  "scrapedAt": "2026-04-12T19:53:05.708444+00:00",
   "eventName": "UFC Fight Night: Burns vs. Malott",
   "eventDate": "April 18",
   "fightcenterUrl": "/fightcenter/events/139670-ufc-fight-night"
