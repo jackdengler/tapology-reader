@@ -693,7 +693,7 @@
       "authorUrl": "/profiles/elitemmapicks",
       "timestamp": "2026-04-10T23:55:00-05:00",
       "content": "[Predictions]\n\nAngela Hill vs Jingnan Xiong\nPick: Xiong via decision\n86% of Tapology users (101 users) are picking Xiong (96% decision)\nXiong is 3.0 years younger (38.4 vs 41.4)\nBoth fighters have 64” reach\nHill is from USA, Xiong is from China (event is in China)\nHill has +0.35 strike differential/min in 29 UFC fights\nXiong proj. 29.1% finish chance vs 11.2% and 59.7% decision\nXiong has 10:0 KO win/loss ratio vs 5:0\nXiong is the safe play on Tapology\n\n* Edited at 04.11.2026, 12:03 AM ET *",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -711,12 +711,21 @@
       "authorUrl": "/profiles/swrs",
       "timestamp": "2026-04-11T20:08:00-05:00",
       "content": "[Predictions]\n\nAsakura vs. Smotherman\nKai Asakura, TKO, R2\nAsakura will finally get his first ufc win",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1651505",
+      "author": "AminMMA",
+      "authorUrl": "/profiles/aminmma",
+      "timestamp": "2026-04-13T07:08:00-05:00",
+      "content": "[Predictions]\n\nSalikhov vs. Matthews\nMuslim Salikhov, TKO, R1\nRIP Matthews.",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-12T03:59:26.216026+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-04-13T12:12:24.883200+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }
