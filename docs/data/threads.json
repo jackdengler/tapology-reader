@@ -1,12 +1,25 @@
 [
   {
+    "id": "95498",
+    "title": "UFC Fight Night: Sterling vs. Zalal",
+    "url": "/forum/threads/95498",
+    "isSticky": false,
+    "lastPostTime": "2026-04-14 12:42:35 -0400",
+    "replyCount": 83,
+    "snippet": "\" @CUZZ&nbsp;the guy he’s fighting is a nobody with 0 good wins..&nbsp;\"(39 minutes ago)",
+    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "eventName": "UFC Fight Night",
+    "eventDate": "August 29",
+    "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  },
+  {
     "id": "95177",
     "title": "UFC Fight Night: Burns vs. Malott",
     "url": "/forum/threads/95177",
     "isSticky": false,
-    "lastPostTime": "2026-04-14 11:32:08 -0400",
-    "replyCount": 255,
-    "snippet": "\" @James09&nbsp;Raposo is one of the luckiest, clearly favored, babied industr...\"(6 minutes ago)",
+    "lastPostTime": "2026-04-14 12:40:09 -0400",
+    "replyCount": 268,
+    "snippet": "\" @Kmath4&nbsp;Point deduction for Mayo! &nbsp;Lol&nbsp;\"(42 minutes ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC Fight Night: Burns vs. Malott",
     "eventDate": "April 18",
@@ -19,24 +32,11 @@
     "isSticky": false,
     "lastPostTime": "2026-04-14 05:53:36 -0400",
     "replyCount": 56,
-    "snippet": "\" I think many of us already knew this but we can take this booking as confirm...\"(5 hours ago)",
+    "snippet": "\" I think many of us already knew this but we can take this booking as confirm...\"(7 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night",
-    "eventDate": "August 29",
-    "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
-  },
-  {
-    "id": "95498",
-    "title": "UFC Fight Night: Sterling vs. Zalal",
-    "url": "/forum/threads/95498",
-    "isSticky": false,
-    "lastPostTime": "2026-04-14 05:41:50 -0400",
-    "replyCount": 82,
-    "snippet": "\" Co-main is a great example of how quickly consistently finishing fights will...\"(5 hours ago)",
-    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night: Sterling vs. Zalal",
-    "eventDate": "April 25",
-    "fightcenterUrl": "/fightcenter/events/140114-ufc-fight-night"
+    "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
+    "eventDate": "June  6",
+    "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
   },
   {
     "id": "96209",
@@ -45,11 +45,11 @@
     "isSticky": false,
     "lastPostTime": "2026-04-13 21:48:21 -0400",
     "replyCount": 29,
-    "snippet": "\"Yakhyaev vs. Walker Abdul Rakhman Yakhyaev, SUB, R1 Julius Walker will be get...\"(13 hours ago)",
+    "snippet": "\"Yakhyaev vs. Walker Abdul Rakhman Yakhyaev, SUB, R1 Julius Walker will be get...\"(15 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night: Allen vs. Costa",
-    "eventDate": "May 16",
-    "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
+    "eventName": "UFC Fight Night: Sterling vs. Zalal",
+    "eventDate": "April 25",
+    "fightcenterUrl": "/fightcenter/events/140114-ufc-fight-night"
   },
   {
     "id": "94911",
@@ -58,7 +58,7 @@
     "isSticky": false,
     "lastPostTime": "2026-04-13 21:37:27 -0400",
     "replyCount": 77,
-    "snippet": "\"Salikhov vs. Matthews Jake Matthews, SUB, R2 Jake Matthews will take his back...\"(14 hours ago)",
+    "snippet": "\"Salikhov vs. Matthews Jake Matthews, SUB, R2 Jake Matthews will take his back...\"(15 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC Fight Night: Song vs. Figueiredo",
     "eventDate": "May 30",
@@ -99,9 +99,9 @@
     "replyCount": 27,
     "snippet": "\" You know shara and izzy both used ro kickbox in china....\"(1 day ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
-    "eventDate": "June  6",
-    "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
+    "eventName": "UFC Fight Night: Allen vs. Costa",
+    "eventDate": "May 16",
+    "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
   },
   {
     "id": "96138",
