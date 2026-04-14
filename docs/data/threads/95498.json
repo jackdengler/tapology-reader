@@ -1,7 +1,7 @@
 {
   "id": "95498",
   "title": "UFC Fight NightUFC Fight Night: Sterling vs. Zalal",
-  "totalPages": 4,
+  "totalPages": 5,
   "posts": [
     {
       "id": "1623759",
@@ -758,9 +758,27 @@
       "content": "[Predictions]\n\nVieira vs. McConico\nRodolfo Vieira, SUB, R1\nthis feels too easy",
       "upvotes": 0,
       "downvotes": 1
+    },
+    {
+      "id": "1623759",
+      "author": "Tapology",
+      "authorUrl": "/profiles/tapology",
+      "timestamp": "2026-02-17T20:03:00-05:00",
+      "content": "The official Tapology discussion thread for the event!",
+      "upvotes": 3,
+      "downvotes": 0
+    },
+    {
+      "id": "1651741",
+      "author": "grayerman",
+      "authorUrl": "/profiles/grayerman",
+      "timestamp": "2026-04-13T23:45:00-05:00",
+      "content": "[Predictions]\n\ntheyre just reusing a Zuffa Boxing poster for this lmao",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-13T23:04:45.124703+00:00",
+  "scrapedAt": "2026-04-14T06:11:38.178990+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
