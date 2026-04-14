@@ -730,11 +730,20 @@
       "timestamp": "2026-04-13T21:37:00-05:00",
       "content": "[Predictions]\n\nSalikhov vs. Matthews\nJake Matthews, SUB, R2\nJake Matthews will take his back and get a rnc submission",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1651931",
+      "author": "CowboyKurt",
+      "authorUrl": "/profiles/cowboykurt",
+      "timestamp": "2026-04-14T14:14:00-05:00",
+      "content": "[Predictions]\n\nPavlovich vs. Teixeira\nSergei Pavlovich, TKO, R1\nThis is the last time I pick Sergei by KO if he goes the distance, thought he’d  KO Tom Volkov Jairzhino and Waldo",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-14T03:43:13.734374+00:00",
-  "eventName": "UFC Fight Night: Song vs. Figueiredo",
-  "eventDate": "May 30",
-  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
+  "scrapedAt": "2026-04-14T19:43:09.394549+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
