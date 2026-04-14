@@ -38,9 +38,18 @@
       "content": "Go Birds",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1651957",
+      "author": "Mothswords",
+      "authorUrl": "/profiles/mothswords",
+      "timestamp": "2026-04-14T16:02:00-05:00",
+      "content": "Philly ******* sucks buts its only an hour from me and the company I work for has box seats at the Xfinity arena.",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-14T19:41:37.248954+00:00",
+  "scrapedAt": "2026-04-14T21:09:49.130701+00:00",
   "eventName": "UFC 330",
   "eventDate": "August 15",
   "fightcenterUrl": "/fightcenter/events/142341-ufc-330"
