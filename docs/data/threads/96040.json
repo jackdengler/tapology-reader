@@ -522,12 +522,21 @@
       "authorUrl": "/profiles/theanalyzer",
       "timestamp": "2026-04-13T21:46:00-05:00",
       "content": "[Predictions]\n\nFares Ziam vs Tom Nolan is on this event per Big Marcel.\n\nhttps://x.com/bigmarcel24/status/2043861782507200900?s=46",
-      "upvotes": 1,
+      "upvotes": 2,
+      "downvotes": 0
+    },
+    {
+      "id": "1651781",
+      "author": "battousai",
+      "authorUrl": "/profiles/battousai",
+      "timestamp": "2026-04-14T05:53:00-05:00",
+      "content": "I think many of us already knew this but we can take this booking as confirmation that the UFC really, really likes Tom Nolan and absolutely loathes Fares Ziam.",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-14T03:42:52.914607+00:00",
-  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
-  "eventDate": "June  6",
-  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
+  "scrapedAt": "2026-04-14T11:21:16.915707+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
