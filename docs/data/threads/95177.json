@@ -27,7 +27,7 @@
       "authorUrl": "/profiles/crimson_aka_luke",
       "timestamp": "2026-02-11T17:39:00-05:00",
       "content": "[Predictions]\n\nFFS CAN WE STOP WITH THE APEX",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 9
     },
     {
@@ -2781,11 +2781,20 @@
       "authorUrl": "/profiles/ayylmaonnaise",
       "timestamp": "2026-04-15T11:36:00-05:00",
       "content": "[Predictions]\n\nAnyone missed me?",
-      "upvotes": 0,
-      "downvotes": 0
+      "upvotes": 2,
+      "downvotes": 5
+    },
+    {
+      "id": "1652210",
+      "author": "lovesong",
+      "authorUrl": "/profiles/lovesong",
+      "timestamp": "2026-04-15T12:07:00-05:00",
+      "content": "[Predictions]\n\nwas counting down the hours",
+      "upvotes": 2,
+      "downvotes": 2
     }
   ],
-  "scrapedAt": "2026-04-15T15:38:28.443028+00:00",
+  "scrapedAt": "2026-04-15T17:20:49.620904+00:00",
   "eventName": "UFC Fight Night: Burns vs. Malott",
   "eventDate": "April 18",
   "fightcenterUrl": "/fightcenter/events/139670-ufc-fight-night"
