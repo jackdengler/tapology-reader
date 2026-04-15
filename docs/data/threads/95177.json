@@ -1648,7 +1648,7 @@
       "timestamp": "2026-04-13T14:36:00-05:00",
       "content": "[Predictions]\n\nJasudavicius vs. Silva\nKarine Silva, SUB, R2\nsilva gewinnt zu 90% 40% durch submission 30% durch decision",
       "upvotes": 1,
-      "downvotes": 3
+      "downvotes": 4
     },
     {
       "id": "1651649",
@@ -2764,10 +2764,10 @@
       "timestamp": "2026-04-15T07:18:00-05:00",
       "content": "[Predictions]\n\nBurns vs. Malott\nGilbert Burns, DEC\nI don't believe Burns is completely done yet, he can still do some Neil Magny things to the Malotts of the world.",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-04-15T11:18:35.892449+00:00",
+  "scrapedAt": "2026-04-15T12:09:01.337522+00:00",
   "eventName": "UFC Fight Night: Burns vs. Malott",
   "eventDate": "April 18",
   "fightcenterUrl": "/fightcenter/events/139670-ufc-fight-night"
