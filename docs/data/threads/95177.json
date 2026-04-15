@@ -2907,7 +2907,7 @@
       "authorUrl": "/profiles/haskell",
       "timestamp": "2026-04-15T16:22:00-05:00",
       "content": "[Predictions]\n\nBurns vs. Malott\nGilbert Burns, TKO, R2\nI don't CARE how washed burns may be, I am NOT choosing someone who's best win is Kevin Holland.",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -2936,9 +2936,45 @@
       "content": "[Predictions]\n\n@flavorpacket just checked out this Leblanc dude and I would tend to agree.",
       "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1652306",
+      "author": "Josh7",
+      "authorUrl": "/profiles/josh7",
+      "timestamp": "2026-04-15T18:15:00-05:00",
+      "content": "[Predictions]\n\nBurns vs. Malott\nGilbert Burns, DEC\nBurns by decision. Burns is always fighting super hard opponents while Malott chill against middle opponents. I will ignore the age advantage for Malott and I will go with the underdog. (Underdog)\n\nPhillips vs. Jourdain\nCharles Jourdain, DEC\nIt would be really bad for Jourdain to lose this fight. Please win.\n\nNallo vs. Herbert\nMandel Nallo, TKO, R1\nNallo is ready to win in R1 again!\n\nMoisés vs. Young\nThiago Moisés, DEC\nYoung has age advantage. Young loses vs decent opponents. This can go either way but I'm going with Moisés by decision.\n\nBuzukja vs. Barbosa\nMárcio Barbosa, TKO, R1\nBarbosa is a GOAT. Guaranteed win. Enough said.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1652311",
+      "author": "cashmoneycash",
+      "authorUrl": "/profiles/cashmoneycash",
+      "timestamp": "2026-04-15T18:49:00-05:00",
+      "content": "[Predictions]\n\nidiots picking jourdain to win 😂 The Matrix is going to take that bum to school please stop being performative",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1652312",
+      "author": "Miguelpicks",
+      "authorUrl": "/profiles/miguelpicks",
+      "timestamp": "2026-04-15T18:59:00-05:00",
+      "content": "[Predictions]\n\n@cashmoneycash i picked him to win, and I am an idiot.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1652313",
+      "author": "cashmoneycash",
+      "authorUrl": "/profiles/cashmoneycash",
+      "timestamp": "2026-04-15T19:01:00-05:00",
+      "content": "[Predictions]\n\ngood at least you are honest about it",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-15T21:08:34.826817+00:00",
+  "scrapedAt": "2026-04-15T23:03:50.522166+00:00",
   "eventName": "UFC Fight Night: Burns vs. Malott",
   "eventDate": "April 18",
   "fightcenterUrl": "/fightcenter/events/139670-ufc-fight-night"
