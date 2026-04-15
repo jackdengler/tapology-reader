@@ -1,7 +1,7 @@
 {
   "id": "95823",
   "title": "UFC 328UFC 328: Chimaev vs. Strickland",
-  "totalPages": 9,
+  "totalPages": 10,
   "posts": [
     {
       "id": "1630161",
@@ -1692,7 +1692,7 @@
       "authorUrl": "/profiles/the%20duck",
       "timestamp": "2026-04-14T21:41:00-05:00",
       "content": "Guskov vs Blachovic winner can easily be fighting for an interim title, If it Guskov by KO. if be good for the light heavyweight division to promote Guskov by having the fight not buried on the prelims",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -1703,9 +1703,27 @@
       "content": "[Predictions]\n\nBrady vs. Buckley\nSean Brady, DEC\nbuckley being ranked #4 on tapology is the funniest **** to me",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1630161",
+      "author": "Tapology",
+      "authorUrl": "/profiles/tapology",
+      "timestamp": "2026-03-03T10:25:00-05:00",
+      "content": "The official Tapology discussion thread for the event!",
+      "upvotes": 9,
+      "downvotes": 0
+    },
+    {
+      "id": "1652003",
+      "author": "michaelsmith2005",
+      "authorUrl": "/profiles/michaelsmith2005",
+      "timestamp": "2026-04-15T06:31:00-05:00",
+      "content": "[Predictions]\n\nChimaev vs. Strickland\nSean Strickland, DEC\nStrickland has a really good chance",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-15T09:52:47.563289+00:00",
+  "scrapedAt": "2026-04-15T11:19:27.870875+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"
