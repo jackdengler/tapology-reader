@@ -9,7 +9,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 9,
+      "upvotes": 10,
       "downvotes": 0
     },
     {
@@ -198,7 +198,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 9,
+      "upvotes": 10,
       "downvotes": 0
     },
     {
@@ -387,7 +387,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 9,
+      "upvotes": 10,
       "downvotes": 0
     },
     {
@@ -576,7 +576,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 9,
+      "upvotes": 10,
       "downvotes": 0
     },
     {
@@ -765,7 +765,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 9,
+      "upvotes": 10,
       "downvotes": 0
     },
     {
@@ -954,7 +954,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 9,
+      "upvotes": 10,
       "downvotes": 0
     },
     {
@@ -1143,7 +1143,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 9,
+      "upvotes": 10,
       "downvotes": 0
     },
     {
@@ -1332,7 +1332,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 9,
+      "upvotes": 10,
       "downvotes": 0
     },
     {
@@ -1521,7 +1521,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 9,
+      "upvotes": 10,
       "downvotes": 0
     },
     {
@@ -1710,7 +1710,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 9,
+      "upvotes": 10,
       "downvotes": 0
     },
     {
@@ -1720,7 +1720,7 @@
       "timestamp": "2026-04-15T06:31:00-05:00",
       "content": "[Predictions]\n\nChimaev vs. Strickland\nSean Strickland, DEC\nStrickland has a really good chance",
       "upvotes": 2,
-      "downvotes": 2
+      "downvotes": 4
     },
     {
       "id": "1652159",
@@ -1737,11 +1737,20 @@
       "authorUrl": "/profiles/royalkickbeat",
       "timestamp": "2026-04-15T14:58:00-05:00",
       "content": "[Predictions]\n\nBłachowicz vs. Guskov ll\nIf Guskov can't knock down Błachowicz in this one I don't see him winning",
-      "upvotes": 2,
+      "upvotes": 3,
+      "downvotes": 0
+    },
+    {
+      "id": "1652305",
+      "author": "CowboyKurt",
+      "authorUrl": "/profiles/cowboykurt",
+      "timestamp": "2026-04-15T17:37:00-05:00",
+      "content": "[Predictions]\n\nBrady vs. Buckley\nSean Brady, SUB, R2\nSwitched my pick to Brady. Saw a video of Buckley laughing at a comment asking if he’s working on Jiu-Jitsu and wrestling. He said he’s not doing any of that and just working on his striking",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-15T19:45:20.723718+00:00",
+  "scrapedAt": "2026-04-15T22:05:47.101764+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"
