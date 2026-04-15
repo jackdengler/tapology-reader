@@ -10,7 +10,7 @@
       "timestamp": "2026-02-17T20:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 3,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1623783",
@@ -199,7 +199,7 @@
       "timestamp": "2026-02-17T20:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 3,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1627673",
@@ -388,7 +388,7 @@
       "timestamp": "2026-02-17T20:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 3,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1634628",
@@ -577,7 +577,7 @@
       "timestamp": "2026-02-17T20:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 3,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1644832",
@@ -766,7 +766,7 @@
       "timestamp": "2026-02-17T20:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 3,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1651741",
@@ -801,12 +801,21 @@
       "authorUrl": "/profiles/elitemmapicks",
       "timestamp": "2026-04-15T05:03:00-05:00",
       "content": "[Predictions]\n\nMax Griffin vs Victor Valenzuela\nPick: Valenzuela via decision\nValenzuela is -135 on BetOnline\n77% of Tapology users (463 users) are picking Valenzuela (45% decision)\nValenzuela is 8.2 years younger (32.2 vs 40.4)\nGriffin has 5” reach edge (76” vs 71”)\nGriffin has +0.06 strike differential/min vs -5.04\nGriffin proj. +38.7 significant strikes attempted\nGriffin proj. +36.3 significant strikes landed\nGriffin proj. +31.9 head strikes landed\nGriffin proj. 2.20 knockdowns vs 0.03\nGriffin proj. 2.2 takedowns landed (3.2 attempts) vs 0.0 (0.0 attempts)\nGriffin proj. 0.30 submission attempts vs 0.00\nValenzuela proj. 26.8% finish chance vs 25.1% and 48.1% decision\nGriffin not a bad upset play (Valenzuela is the safe play)",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1652296",
+      "author": "Haskell",
+      "authorUrl": "/profiles/haskell",
+      "timestamp": "2026-04-15T16:46:00-05:00",
+      "content": "[Predictions]\n\nson this poster got me crine 😭 😭 😭 😭",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-15T09:51:46.466150+00:00",
-  "eventName": "UFC Fight Night: Sterling vs. Zalal",
-  "eventDate": "April 25",
-  "fightcenterUrl": "/fightcenter/events/140114-ufc-fight-night"
+  "scrapedAt": "2026-04-15T21:07:11.119963+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
