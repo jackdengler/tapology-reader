@@ -55,7 +55,7 @@
       "timestamp": "2026-04-14T17:39:00-05:00",
       "content": "KHAMZAT vs. Carlos Ulberg\n\nISLAM MAKHACHEV vs. Kamaru Usman\n\nUMAR vs. Petr Yan",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 5
     },
     {
       "id": "1651969",
@@ -64,7 +64,7 @@
       "timestamp": "2026-04-14T17:41:00-05:00",
       "content": "VS",
       "upvotes": 1,
-      "downvotes": 1
+      "downvotes": 4
     },
     {
       "id": "1651970",
@@ -100,10 +100,19 @@
       "timestamp": "2026-04-14T19:12:00-05:00",
       "content": "Valentina or Dern are sure to defend their belts at some point right",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1651980",
+      "author": "Makhachev",
+      "authorUrl": "/profiles/makhachev",
+      "timestamp": "2026-04-14T21:08:00-05:00",
+      "content": "Islam vs morals\nBSD vs paddy pimblett\nkamaru Usman vs shafkat rakhmanov",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-14T23:59:41.023480+00:00",
+  "scrapedAt": "2026-04-15T03:41:16.093923+00:00",
   "eventName": "UFC 330",
   "eventDate": "August 15",
   "fightcenterUrl": "/fightcenter/events/142341-ufc-330"
