@@ -100,7 +100,7 @@
       "timestamp": "2026-03-13T14:21:00-05:00",
       "content": "[Predictions]\n\nMuhammad vs. Bonfim\nGabriel Bonfim, DEC\nBELAL SUCKS!!!",
       "upvotes": 3,
-      "downvotes": 10
+      "downvotes": 11
     },
     {
       "id": "1635075",
@@ -513,7 +513,7 @@
       "authorUrl": "/profiles/swrs",
       "timestamp": "2026-04-13T21:42:00-05:00",
       "content": "[Predictions]\n\nBaraniewski vs. Elekana\nIwo Baraniewski, TKO, R2\nI think Elekana will come out and win the first round but get sparked in the second round\n\nSchnell vs. Rodriguez\nImanol Rodriguez, TKO, R1\nRip Matt schnell",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -531,12 +531,21 @@
       "authorUrl": "/profiles/battousai",
       "timestamp": "2026-04-14T05:53:00-05:00",
       "content": "I think many of us already knew this but we can take this booking as confirmation that the UFC really, really likes Tom Nolan and absolutely loathes Fares Ziam.",
+      "upvotes": 1,
+      "downvotes": 1
+    },
+    {
+      "id": "1651999",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-04-15T04:55:00-05:00",
+      "content": "[Predictions]\n\nFares Ziam vs Tom Nolan\nPick: Ziam via decision\n89% of Tapology users (161 users) are picking Ziam (30% decision)\nNolan is 3.0 years younger (26.3 vs 29.2)\nZiam has 2” reach edge (75” vs 73”)\nZiam has +1.34 strike differential/min vs +1.14\nZiam has +2.01 strike differential/min @distance vs +1.00\nNolan proj. +21.0 significant strikes attempted\nZiam proj. +4.8 significant strikes landed\nZiam proj. +6.5 head strikes landed\nZiam has 42% head strike accuracy, 79% head strike defense\nNolan has 35% head strike accuracy, 63% head strike defense\nZiam proj. 0.43 knockdowns vs 0.21\nZiam proj. 1.5 takedowns landed (4.3 attempts) vs 0.9 (3.4 attempts)\nNolan proj. 1.90 submission attempts vs 0.50\nNolan proj. 34.1% finish chance vs 29.5% and 36.4% decision\nZiam will likely win distance striking, head striking",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-14T11:21:16.915707+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-04-15T09:52:01.821925+00:00",
+  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
+  "eventDate": "June  6",
+  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
 }
