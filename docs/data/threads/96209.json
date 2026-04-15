@@ -279,11 +279,20 @@
       "authorUrl": "/profiles/swrs",
       "timestamp": "2026-04-13T21:48:00-05:00",
       "content": "[Predictions]\n\nYakhyaev vs. Walker\nAbdul Rakhman Yakhyaev, SUB, R1\nJulius Walker will be getting destroyed",
-      "upvotes": 0,
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1652011",
+      "author": "Mazeflare",
+      "authorUrl": "/profiles/mazeflare",
+      "timestamp": "2026-04-15T08:37:00-05:00",
+      "content": "Another horrific matchmaking from Mr. Hunter Campbell, after:\nBrendan Allen vs Edmen Shahbazyan\nFares Ziam vs Tom Nolan\nNow, he gift us:\nBekzat Almakhan vs Jean Matsumoto\nits a excellent fight ... if Bezkat was not 1-2 after fighting absolute bums (irony, please) in Umar Nurmagomedov and Aleksandre Topuria, while freaking Tommy McMillen fights at guy on a 3 year layoff.\nI don't know what to say because Bekzat its a really good prospect but likely to get cut if he loses this (don't fancy his chances).",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-14T03:42:37.676845+00:00",
+  "scrapedAt": "2026-04-15T14:07:26.452335+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
