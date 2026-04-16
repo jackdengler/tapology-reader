@@ -297,11 +297,20 @@
       "authorUrl": "/profiles/grayerman",
       "timestamp": "2026-04-15T14:34:00-05:00",
       "content": "[Predictions]\n\nAlmakhan vs. Matsumoto\nJean Matsumoto, DEC\nmy pookie bear <3",
-      "upvotes": 0,
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1652628",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-04-16T18:47:00-05:00",
+      "content": "[Predictions]\n\nBekzat Almakhan vs Jean Matsumoto\nPick: Matsumoto via decison\n62% of Tapology users (118 users) are picking Matsumoto (91% decision)\nMatsumoto is 1.9 years younger (26.8 vs 28.7)\nBoth fighters have 68” reach\nMatsumoto has -0.04 strike differential/min vs -2.12\nMatsumoto proj. +34.9 significant strikes attempted\nMatsumoto proj. +26.9 significant strikes landed\nMatsumoto proj. +21.5 head strikes landed\nAlmakhan proj. 0.98 knockdowns vs 0.00\nAlmakhan has 2:0 knockdown ratio (4.0% knockdown rate)\nMatsumoto has 0:0 knockdown ratio\nMatsumoto proj. 3.3 takedowns landed (6.3 attempts) vs 0.0 (0.0 attempts)\nMatsumoto has 17:21 takedown ratio vs 0:7\nMatsumoto proj. 0.50 submission attempts vs 0.00\nAlmakhan proj. 36.7% finish chance vs 27.0% and 36.3% decision\nAlmakhan is unlikely to get finish if he loses striking and grappling",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-15T19:45:30.871288+00:00",
+  "scrapedAt": "2026-04-16T23:04:09.967948+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"

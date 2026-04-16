@@ -3276,7 +3276,7 @@
       "authorUrl": "/profiles/flavorpacket",
       "timestamp": "2026-04-16T16:34:00-05:00",
       "content": "[Predictions]\n\ntramenzo's top prospect ducking big nascimento",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -3294,8 +3294,8 @@
       "authorUrl": "/profiles/battousai",
       "timestamp": "2026-04-16T16:45:00-05:00",
       "content": "Nascimento pulled out of 3 fights in a row over the course of 30 months. Ducked 2 ranked (at the time) opponents in Su and Elliot before pulling out against Filho. He then finally shows up and beats Filho but misses weight.\n\nKarma is a *****, especially to weight bullies.",
-      "upvotes": 1,
-      "downvotes": 1
+      "upvotes": 2,
+      "downvotes": 2
     },
     {
       "id": "1652569",
@@ -3303,7 +3303,7 @@
       "authorUrl": "/profiles/miguelpicks",
       "timestamp": "2026-04-16T17:23:00-05:00",
       "content": "[Predictions]\n\n@battousai karma made mitch sick and pull out of the fight?",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -3312,8 +3312,8 @@
       "authorUrl": "/profiles/ayylmaonnaise",
       "timestamp": "2026-04-16T17:34:00-05:00",
       "content": "[Predictions]\n\n@Miguelpicks my sources are telling me Raposo tore his hymen practicing “bjj” with his coach",
-      "upvotes": 0,
-      "downvotes": 0
+      "upvotes": 3,
+      "downvotes": 1
     },
     {
       "id": "1652573",
@@ -3321,11 +3321,29 @@
       "authorUrl": "/profiles/ayylmaonnaise",
       "timestamp": "2026-04-16T17:34:00-05:00",
       "content": "[Predictions]\n\n@flavorpacket when TramenzoTheInspector’s locks aren’t losing they’re ducking smoke",
+      "upvotes": 2,
+      "downvotes": 1
+    },
+    {
+      "id": "1652593",
+      "author": "Miguelpicks",
+      "authorUrl": "/profiles/miguelpicks",
+      "timestamp": "2026-04-16T18:06:00-05:00",
+      "content": "[Predictions]\n\n@AyyLmaonnaise this is a family friendly forum.",
+      "upvotes": 2,
+      "downvotes": 0
+    },
+    {
+      "id": "1652638",
+      "author": "bornmenu",
+      "authorUrl": "/profiles/bornmenu",
+      "timestamp": "2026-04-16T18:58:00-05:00",
+      "content": "[Predictions]\n\nBig nas was gonna smoke 5 significant strikes a round raposo😢😭",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-16T22:00:49.985129+00:00",
+  "scrapedAt": "2026-04-16T23:03:59.713316+00:00",
   "eventName": "UFC Fight Night: Burns vs. Malott",
   "eventDate": "April 18",
   "fightcenterUrl": "/fightcenter/events/139670-ufc-fight-night"
