@@ -18,7 +18,7 @@
       "authorUrl": "/profiles/andyjamahalhill",
       "timestamp": "2026-04-14T14:13:00-05:00",
       "content": "joe pyfer feature fight or co main",
-      "upvotes": 1,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -55,7 +55,7 @@
       "timestamp": "2026-04-14T17:39:00-05:00",
       "content": "KHAMZAT vs. Carlos Ulberg\n\nISLAM MAKHACHEV vs. Kamaru Usman\n\nUMAR vs. Petr Yan",
       "upvotes": 0,
-      "downvotes": 6
+      "downvotes": 8
     },
     {
       "id": "1651969",
@@ -64,7 +64,7 @@
       "timestamp": "2026-04-14T17:41:00-05:00",
       "content": "VS",
       "upvotes": 1,
-      "downvotes": 6
+      "downvotes": 8
     },
     {
       "id": "1651970",
@@ -91,7 +91,7 @@
       "timestamp": "2026-04-14T18:08:00-05:00",
       "content": "Khamzat vs pyfer pyfer round. 3 ko",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1651974",
@@ -109,7 +109,7 @@
       "timestamp": "2026-04-14T21:08:00-05:00",
       "content": "Islam vs morals\nBSD vs paddy pimblett\nkamaru Usman vs shafkat rakhmanov",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1651991",
@@ -126,11 +126,38 @@
       "authorUrl": "/profiles/ntrsbob",
       "timestamp": "2026-04-15T23:32:00-05:00",
       "content": "@Mothswords Philly is the ****. You just said a lot about yourself.",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1652385",
+      "author": "Mothswords",
+      "authorUrl": "/profiles/mothswords",
+      "timestamp": "2026-04-16T08:39:00-05:00",
+      "content": "@ntrsbob philly ain't ****. Disgusting dirty city full of morons",
+      "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1652393",
+      "author": "ntrsbob",
+      "authorUrl": "/profiles/ntrsbob",
+      "timestamp": "2026-04-16T09:54:00-05:00",
+      "content": "@Mothswords Just as suspected.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1652395",
+      "author": "Dylanwhite098",
+      "authorUrl": "/profiles/dylanwhite098",
+      "timestamp": "2026-04-16T10:14:00-05:00",
+      "content": "@KHAMZAT_MAKHACHEV are you an idiot",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-16T03:46:52.983153+00:00",
+  "scrapedAt": "2026-04-16T14:26:31.497248+00:00",
   "eventName": "UFC 330",
   "eventDate": "August 15",
   "fightcenterUrl": "/fightcenter/events/142341-ufc-330"

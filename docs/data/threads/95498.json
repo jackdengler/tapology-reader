@@ -810,7 +810,7 @@
       "authorUrl": "/profiles/haskell",
       "timestamp": "2026-04-15T16:46:00-05:00",
       "content": "[Predictions]\n\nson this poster got me crine 😭 😭 😭 😭",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -821,9 +821,18 @@
       "content": "[Predictions]",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1652379",
+      "author": "ChrisSweeney",
+      "authorUrl": "/profiles/chrissweeney",
+      "timestamp": "2026-04-16T08:10:00-05:00",
+      "content": "[Predictions]\n\nNo way my favorite DWCS victim Victor Valenzuela made it to the UFC",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-16T03:47:19.022385+00:00",
+  "scrapedAt": "2026-04-16T14:28:28.526983+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
