@@ -335,9 +335,18 @@
       "content": "[Predictions]\n\nOleksiejczuk main event..\nGod help me",
       "upvotes": 0,
       "downvotes": 1
+    },
+    {
+      "id": "1652971",
+      "author": "Spockling",
+      "authorUrl": "/profiles/spockling",
+      "timestamp": "2026-04-17T13:34:00-05:00",
+      "content": "[Predictions]\n\nIdc if its a abus main event the undercard is insane",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-17T17:09:46.369283+00:00",
+  "scrapedAt": "2026-04-17T18:06:55.875218+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"

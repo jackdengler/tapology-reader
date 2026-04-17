@@ -18,7 +18,7 @@
       "authorUrl": "/profiles/socalryno89",
       "timestamp": "2026-03-13T10:25:00-05:00",
       "content": "Islam vs Garry  Usman vs Morales  Ankalaev vs Rountree   DDP vs Allen  Oezdemir vs Whittaker   Lewis vs Stevenson",
-      "upvotes": 10,
+      "upvotes": 11,
       "downvotes": 4
     },
     {
@@ -127,7 +127,7 @@
       "timestamp": "2026-03-18T19:13:00-05:00",
       "content": "KHAMZAT vs Alex Prerea\n\nPULYAEV vs Gotier 2",
       "upvotes": 0,
-      "downvotes": 10
+      "downvotes": 11
     },
     {
       "id": "1638306",
@@ -135,7 +135,7 @@
       "authorUrl": "/profiles/euphrates",
       "timestamp": "2026-03-19T13:26:00-05:00",
       "content": "volk vs lopez 3 main\nvettori vs dolidze 3 co main",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 1
     },
     {
@@ -432,7 +432,7 @@
       "authorUrl": "/profiles/skbwafenwoadj",
       "timestamp": "2026-04-07T07:49:00-05:00",
       "content": "If islam injury isn't that bad I see him fighting here\nIslam vs Ian\nVolk vs Movsar\nConor vs anyone (idk about this because conor is a bum who i dont ever see coming back)\nImamov vs DDP",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 1
     },
     {
@@ -442,7 +442,7 @@
       "timestamp": "2026-04-10T08:04:00-05:00",
       "content": "@Gilpin it was decent but just was pretty average.",
       "upvotes": 0,
-      "downvotes": 4
+      "downvotes": 5
     },
     {
       "id": "1648589",
@@ -513,11 +513,20 @@
       "authorUrl": "/profiles/zinaum",
       "timestamp": "2026-04-17T11:44:00-05:00",
       "content": "D Rod has said he was offered Leon Edwards. UFC announced that Gable Stevenson will debut here, and Paddy has confirmed on BBC that he'll be on the card.\n\nIn short: Leon Edwards vs Daniel Rodriguez\n\nPaddy Pimblett vs TBA\n\nGable Stevenson vs TBA",
-      "upvotes": 1,
+      "upvotes": 2,
+      "downvotes": 0
+    },
+    {
+      "id": "1652974",
+      "author": "grayerman",
+      "authorUrl": "/profiles/grayerman",
+      "timestamp": "2026-04-17T13:35:00-05:00",
+      "content": "Paddy vs Gable sounds good to me",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-17T16:16:55.404708+00:00",
+  "scrapedAt": "2026-04-17T18:06:45.889502+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
