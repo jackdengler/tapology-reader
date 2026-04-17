@@ -55,7 +55,7 @@
       "timestamp": "2026-04-14T17:39:00-05:00",
       "content": "KHAMZAT vs. Carlos Ulberg\n\nISLAM MAKHACHEV vs. Kamaru Usman\n\nUMAR vs. Petr Yan",
       "upvotes": 0,
-      "downvotes": 8
+      "downvotes": 9
     },
     {
       "id": "1651969",
@@ -81,7 +81,7 @@
       "authorUrl": "/profiles/socalryno89",
       "timestamp": "2026-04-14T17:58:00-05:00",
       "content": "Islam vs Garry\nPyfer vs Caio",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -136,7 +136,7 @@
       "timestamp": "2026-04-16T08:39:00-05:00",
       "content": "@ntrsbob philly ain't ****. Disgusting dirty city full of morons",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 3
     },
     {
       "id": "1652393",
@@ -144,7 +144,7 @@
       "authorUrl": "/profiles/ntrsbob",
       "timestamp": "2026-04-16T09:54:00-05:00",
       "content": "@Mothswords Just as suspected.",
-      "upvotes": 0,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -154,10 +154,19 @@
       "timestamp": "2026-04-16T10:14:00-05:00",
       "content": "@KHAMZAT_MAKHACHEV are you an idiot",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1652880",
+      "author": "battousai",
+      "authorUrl": "/profiles/battousai",
+      "timestamp": "2026-04-17T08:53:00-05:00",
+      "content": "Merab/Yan trilogy will be the main event.",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-16T14:26:31.497248+00:00",
+  "scrapedAt": "2026-04-17T13:59:44.768637+00:00",
   "eventName": "UFC 330",
   "eventDate": "August 15",
   "fightcenterUrl": "/fightcenter/events/142341-ufc-330"
