@@ -1,7 +1,7 @@
 {
   "id": "94911",
   "title": "UFC Fight NightUFC Fight Night: Song vs. Figueiredo",
-  "totalPages": 4,
+  "totalPages": 5,
   "posts": [
     {
       "id": "1619063",
@@ -9,7 +9,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-02T01:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -198,7 +198,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-02T01:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -387,7 +387,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-02T01:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -396,7 +396,7 @@
       "authorUrl": "/profiles/ayylmaonnaise",
       "timestamp": "2026-03-14T09:06:00-05:00",
       "content": "Big Su gonna shock the world",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -576,7 +576,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-02T01:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -738,7 +738,7 @@
       "authorUrl": "/profiles/cowboykurt",
       "timestamp": "2026-04-14T14:14:00-05:00",
       "content": "[Predictions]\n\nPavlovich vs. Teixeira\nSergei Pavlovich, TKO, R1\nThis is the last time I pick Sergei by KO if he goes the distance, thought he’d  KO Tom Volkov Jairzhino and Waldo",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -757,11 +757,29 @@
       "timestamp": "2026-04-15T00:07:00-05:00",
       "content": "[Predictions]\n\nSong vs. Figueiredo\nYadong Song, DEC\nThis will be a tough fight for Song, but he will be able to survive the danger of Figueiredo early and solidify some rounds in his favor to get the nod. This fight favors Figueiredo the longer it goes\n\nZhang vs. Menifield\nMingyang Zhang, TKO, R2\nZhang will be able to clip Menifield and get him out of there\n\nPavlovich vs. Teixeira\nSergei Pavlovich, TKO, R1\nPavlovich way too strong, hopefully he comes in to finish unlike his latest performances\n\nPerez vs. Sumudaerji\nSumudaerji, DEC\nSumudaerji has the chin to outlast, this is a theme for the card. (Also genuinely surprised they re-signed Perez)\n\nAsakura vs. Smotherman\nCameron Smotherman, DEC\nKai won't get subbed, but Smotherman will edge out the decision through the grappling\n\nSalikhov vs. Matthews\nJake Matthews, SUB, R3\nMatthews has the chin to withstand, before getting a submission on a tired Salikhov\n\nHill vs. Xiong\nJingnan Xiong, DEC\nXiong split decision...\n\nDias vs. Lee\nLuis Felipe Dias, SUB, R2\nDias will make this look easy. I expect a short grappling match after Dias catches Lee on the feet.\n\nTsuruya vs. Aguilar\nRei Tsuruya, DEC\nIf Tsuruya has improved in the striking, he will comfortably take the decision by outclassing on the ground and on the feet. Aguilar would be the champion at 115lbs\n\nLookboonmee vs. Amorim\nLoma Lookboonmee, DEC\nI rate Lookboonmee's competition higher than Amorim's. Lookboonmee will stuff the takedowns and edge out a decision.\n\nAoriqileng vs. Haddon\nCody Haddon, DEC\nHaddon is more consistent and beats Aoriqileng on the ground\n\nDing vs. Henrique\nMeng Ding, TKO, R2\nBetting Ding finds the shot over Henrique being perfect for 3 rounds.",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 2
+    },
+    {
+      "id": "1619063",
+      "author": "Tapology",
+      "authorUrl": "/profiles/tapology",
+      "timestamp": "2026-02-02T01:03:00-05:00",
+      "content": "The official Tapology discussion thread for the event!",
+      "upvotes": 5,
+      "downvotes": 0
+    },
+    {
+      "id": "1652809",
+      "author": "theglooper7",
+      "authorUrl": "/profiles/theglooper7",
+      "timestamp": "2026-04-16T21:49:00-05:00",
+      "content": "[Predictions]\n\nAsakura vs. Smotherman\nKai Asakura, TKO, R1\npower puncher vs dude who almost died at weigh ins bruh",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-15T06:11:23.798857+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-04-17T03:49:16.796450+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }

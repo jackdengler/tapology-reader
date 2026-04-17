@@ -414,12 +414,21 @@
       "authorUrl": "/profiles/elitemmapicks",
       "timestamp": "2026-04-15T05:18:00-05:00",
       "content": "[Predictions]\n\nChristian Rodriguez vs Hyder Amil\nPick: Rodriguez via decision\n45% of Tapology users (115 users) are picking Rodriguez (88% decision)\nRodriguez is 7.6 years younger (28.5 vs 36.1)\nRodriguez has 1” reach edge (71” vs 70”)\nAmil has +1.86 strike differential/min vs +1.00\nAmil has +4.80 strike differential/min @distance vs +1.17\nAmil proj. +14.2 significant strikes attempted\nAmil proj. +5.0 significant strikes landed\nRodriguez proj. +1.5 head strikes landed\nRodriguez has 48% head strike accuracy, 62% head strike defense\nAmil has 50% head strike accuracy, 59% head strike defense\nRodriguez proj. 0.15 knockdowns vs 0.10\nRodriguez proj. 1.6 takedowns landed (4.4 attempts) vs 0.8 (3.1 attempts)\nRodriguez proj. 1.10 submission attempts vs 0.80\nAmil proj. 30.0% finish chance vs 25.7% and 44.2% decision",
-      "upvotes": 0,
+      "upvotes": 1,
+      "downvotes": 1
+    },
+    {
+      "id": "1652797",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-04-16T21:31:00-05:00",
+      "content": "[Predictions]\n\nMitch Raposo vs Allan Nascimento\nPick: Nascimento via decision\n100% of Tapology users (8 users) are picking Nascimento (55% decision)\nRaposo is 7.1 years younger (27.5 vs 34.6)\nNascimento has 5” reach edge (69” vs 64”)\nRaposo is from USA, Nascimento is from Brazil (event is in Canada)\nNascimento has +0.53 strike differential/min vs -0.92\nNascimento has +2.76 strike differential/min @distance vs -1.89\nNascimento proj. +17.1 significant strikes attempted\nNascimento proj. +11.8 significant strikes landed\nRaposo proj. +4.3 head strikes landed\nRaposo proj. 3.4 takedowns landed (6.9 attempts) vs 1.7 (5.5 attempts)\nNascimento proj. 1.10 submission attempts vs 0.00\nNascimento proj. 34.2% finish chance vs 26.9% and 38.9% decision",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-15T09:51:21.011536+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-04-17T03:49:32.820948+00:00",
+  "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
+  "eventDate": "June 20",
+  "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
 }

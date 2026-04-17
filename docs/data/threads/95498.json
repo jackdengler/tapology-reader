@@ -684,7 +684,7 @@
       "authorUrl": "/profiles/elitemmapicks",
       "timestamp": "2026-04-12T21:17:00-05:00",
       "content": "[Predictions]\n\nMax Griffin vs Victor Valenzuela\nPick: Valenzuela via decision\nValenzuela is -135 on BetOnline\n78% of Tapology users (264 users) are picking Valenzuela (48% decision)\nValenzuela is 8.2 years younger (32.2 vs 40.4)\nGriffin has 4” reach edge (76” vs 72”)\nGriffin has +0.06 strike differential/min vs -1.27\nValenzuela proj. +6.1 significant strikes attempted\nValenzuela proj. +13.9 significant strikes landed\nValenzuela proj. +4.6 head strikes landed\nValenzuela proj. 0.01 knockdowns vs 0.00\nGriffin proj. 0.6 takedowns landed (3.2 attempts) vs 0.0 (0.0 attempts)\nGriffin proj. 0.30 submission attempts vs 0.00\nValenzuela proj. 26.8% finish chance vs 25.1% and 48.1% decision",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -801,7 +801,7 @@
       "authorUrl": "/profiles/elitemmapicks",
       "timestamp": "2026-04-15T05:03:00-05:00",
       "content": "[Predictions]\n\nMax Griffin vs Victor Valenzuela\nPick: Valenzuela via decision\nValenzuela is -135 on BetOnline\n77% of Tapology users (463 users) are picking Valenzuela (45% decision)\nValenzuela is 8.2 years younger (32.2 vs 40.4)\nGriffin has 5” reach edge (76” vs 71”)\nGriffin has +0.06 strike differential/min vs -5.04\nGriffin proj. +38.7 significant strikes attempted\nGriffin proj. +36.3 significant strikes landed\nGriffin proj. +31.9 head strikes landed\nGriffin proj. 2.20 knockdowns vs 0.03\nGriffin proj. 2.2 takedowns landed (3.2 attempts) vs 0.0 (0.0 attempts)\nGriffin proj. 0.30 submission attempts vs 0.00\nValenzuela proj. 26.8% finish chance vs 25.1% and 48.1% decision\nGriffin not a bad upset play (Valenzuela is the safe play)",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -820,7 +820,7 @@
       "timestamp": "2026-04-15T22:50:00-05:00",
       "content": "[Predictions]",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1652379",
@@ -829,10 +829,19 @@
       "timestamp": "2026-04-16T08:10:00-05:00",
       "content": "[Predictions]\n\nNo way my favorite DWCS victim Victor Valenzuela made it to the UFC",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1652825",
+      "author": "carloscanomx",
+      "authorUrl": "/profiles/carloscanomx",
+      "timestamp": "2026-04-16T23:20:00-05:00",
+      "content": "[Predictions]\n\nBuchecha vs. Spann\nRyan Spann, TKO, R1\nEsta pelea debería ser para Ryan Spann si logra conectar a Buchecha un peleador que le ha costado mucho el traicionar a la UFC, se ve tentativo y en ocasiones poco confiado en sus habilidades. Creo que Spann lo podrá bullera en el APEX. 7.5/10",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-16T14:28:28.526983+00:00",
+  "scrapedAt": "2026-04-17T03:46:11.789082+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
