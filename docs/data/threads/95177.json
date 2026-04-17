@@ -3511,7 +3511,7 @@
       "timestamp": "2026-04-17T00:30:00-05:00",
       "content": "[Predictions]\n\nvologdin will break castaneda, and bazooka will show barbosa levels",
       "upvotes": 1,
-      "downvotes": 7
+      "downvotes": 8
     },
     {
       "id": "1652853",
@@ -3609,7 +3609,7 @@
       "authorUrl": "/profiles/ayylmaonnaise",
       "timestamp": "2026-04-17T10:27:00-05:00",
       "content": "[Predictions]\n\nMoises Croden Castaneda the only ones left",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -3618,7 +3618,7 @@
       "authorUrl": "/profiles/grayerman",
       "timestamp": "2026-04-17T10:56:00-05:00",
       "content": "[Predictions]\n\nI don’t know what to make of Castaneda",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -3627,7 +3627,7 @@
       "authorUrl": "/profiles/aminmma",
       "timestamp": "2026-04-17T11:06:00-05:00",
       "content": "[Predictions]\n\nJasudavicius vs. Silva\nJasmine Jasudavicius, DEC\nThe fighting nerds…they have data scientists…\n\n* Edited at 04.17.2026, 11:07 AM ET *",
-      "upvotes": 0,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -3636,7 +3636,7 @@
       "authorUrl": "/profiles/ayylmaonnaise",
       "timestamp": "2026-04-17T11:10:00-05:00",
       "content": "[Predictions]\n\nCastaneda no showed weigh ins. Have to imagine that fight is scrapped\n\nWait nvm, they have an extra hour to weigh in. False alarm. Forgot Winnipeg is Central not EST time zone lol\n\n* Edited at 04.17.2026, 11:14 AM ET *",
-      "upvotes": 1,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -3645,7 +3645,7 @@
       "authorUrl": "/profiles/cashmoneycash",
       "timestamp": "2026-04-17T11:14:00-05:00",
       "content": "[Predictions]\n\nWhere are you watching the weigh ins from? is it being streamed",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -3654,11 +3654,47 @@
       "authorUrl": "/profiles/ayylmaonnaise",
       "timestamp": "2026-04-17T11:15:00-05:00",
       "content": "[Predictions]\n\n@cashmoneycash no stream, I’m going off of Aaron Bronseter’a tweets. He is there live tweeting the weigh ins with videos",
+      "upvotes": 2,
+      "downvotes": 1
+    },
+    {
+      "id": "1652921",
+      "author": "AyyLmaonnaise",
+      "authorUrl": "/profiles/ayylmaonnaise",
+      "timestamp": "2026-04-17T11:45:00-05:00",
+      "content": "[Predictions]\n\nCastaneda makes it with 20 minutes to spare\n\nNo weigh misses today\n\n* Edited at 04.17.2026, 11:45 AM ET *",
+      "upvotes": 4,
+      "downvotes": 0
+    },
+    {
+      "id": "1652925",
+      "author": "fortniteboy",
+      "authorUrl": "/profiles/fortniteboy",
+      "timestamp": "2026-04-17T12:03:00-05:00",
+      "content": "[Predictions]\n\nAldrich vs. Horth\nJamey-Lyn Horth, DEC\nhorth gewinnt zu 60% 80% durch decision",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1652932",
+      "author": "cashmoneycash",
+      "authorUrl": "/profiles/cashmoneycash",
+      "timestamp": "2026-04-17T12:14:00-05:00",
+      "content": "[Predictions]\n\nAnyone else taking Yannis, he has decent head movement and nice striking great power too Siraj has been battling Injuries majority of his career and he has been submitting nothing but cans also got slept by a 40yr old Brandao lol",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1652934",
+      "author": "lovesong",
+      "authorUrl": "/profiles/lovesong",
+      "timestamp": "2026-04-17T12:16:00-05:00",
+      "content": "[Predictions]\n\n@cashmoneycash if were talking abt sos yannis best win is a guy who got choked out by pre raoni barcelos payton talbott",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-17T15:17:16.407047+00:00",
+  "scrapedAt": "2026-04-17T16:16:40.243344+00:00",
   "eventName": "UFC Fight Night: Burns vs. Malott",
   "eventDate": "April 18",
   "fightcenterUrl": "/fightcenter/events/139670-ufc-fight-night"
