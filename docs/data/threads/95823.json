@@ -1773,7 +1773,7 @@
       "authorUrl": "/profiles/mothswords",
       "timestamp": "2026-04-16T21:31:00-05:00",
       "content": "[Predictions]\n\nDamn I didn't realize how good this card was top to bottom",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -1784,9 +1784,18 @@
       "content": "[Predictions]\n\nDawson vs. Rębecki\nMateusz Rębecki, TKO, R2\nDawson strikes like he's underwater",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1653151",
+      "author": "bigboi9092",
+      "authorUrl": "/profiles/bigboi9092",
+      "timestamp": "2026-04-17T16:35:00-05:00",
+      "content": "[Predictions]\n\nVolkov vs. Cortes-Acosta\nAlexander Volkov, DEC\nrealistically volkov will use his length/jab to beat WCA to a decision, but hes pushing 38 and waldo's on a nice run.. who knows\n\nGreen vs. Stephens\nKing Green, TKO, R2\njeremy stephens has 10 fights and 1 win in the last 8 years, i CANNOT pick him",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-17T03:48:50.254817+00:00",
+  "scrapedAt": "2026-04-17T21:07:20.510330+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"
