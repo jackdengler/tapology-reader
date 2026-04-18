@@ -1801,7 +1801,7 @@
       "timestamp": "2026-04-18T00:35:00-05:00",
       "content": "[Predictions]\n\nTaira rd 2 sub\n\nThis won’t be a competitive fight whatsoever. Van has not proven himself to be a champ level fighter after going life and death against a chinny Royval. This fight is literally Pantoja vs Asakura but in different skins.",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1653352",
@@ -1828,10 +1828,19 @@
       "timestamp": "2026-04-18T07:20:00-05:00",
       "content": "[Predictions]\n\nI hope Jan finally retires. He’s wayyyyy too old to be fighting at 43 and its not like he’ll be fighting in a title contender bout anytime soon.",
       "upvotes": 0,
+      "downvotes": 2
+    },
+    {
+      "id": "1653473",
+      "author": "Vitaly_bgd",
+      "authorUrl": "/profiles/vitaly_bgd",
+      "timestamp": "2026-04-18T14:12:00-05:00",
+      "content": "Baraniewski vs Guskov maybe?",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-18T11:50:26.598118+00:00",
+  "scrapedAt": "2026-04-18T19:13:47.645663+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"
