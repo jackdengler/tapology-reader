@@ -819,7 +819,7 @@
       "authorUrl": "/profiles/lettmma",
       "timestamp": "2026-04-15T22:50:00-05:00",
       "content": "[Predictions]",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -848,10 +848,28 @@
       "content": "[Predictions]\n\ngonna be a boatload of decisions here",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1653284",
+      "author": "carloscanomx",
+      "authorUrl": "/profiles/carloscanomx",
+      "timestamp": "2026-04-17T21:05:00-05:00",
+      "content": "[Predictions]\n\nGarcía vs. Hernandez\nAlexander Hernandez, DEC\nEsta pelea será una delas mejores de la cartelera, mucha violencia pero creo que Alexander Hernandez es un 15-25% mejor que Rafa en el mismo kill set, osea solamente creo que esta un poco por encima digamos que es su ventaja física la que genera ese pequeña diferencia. Aunque Rafa entrenando en Colorado me llama la atención, me llamaba la idea de PDLG, pero creo que es muy temprano para decidir. 7.5/10",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1653342",
+      "author": "DamienHouse",
+      "authorUrl": "/profiles/damienhouse",
+      "timestamp": "2026-04-17T23:26:00-05:00",
+      "content": "[Predictions]\n\nLucas Rocha vs Jafel Filho is off. Rocha is out.\nhttps://x.com/AgFight/status/2045332898354692313?s=20",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-17T22:04:09.557468+00:00",
-  "eventName": "UFC Fight Night: Sterling vs. Zalal",
-  "eventDate": "April 25",
-  "fightcenterUrl": "/fightcenter/events/140114-ufc-fight-night"
+  "scrapedAt": "2026-04-18T03:33:47.088258+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }

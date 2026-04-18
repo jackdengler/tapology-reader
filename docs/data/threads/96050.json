@@ -397,7 +397,7 @@
       "timestamp": "2026-04-06T11:43:00-05:00",
       "content": "Please book morales vs Islam",
       "upvotes": 0,
-      "downvotes": 7
+      "downvotes": 8
     },
     {
       "id": "1647722",
@@ -513,7 +513,7 @@
       "authorUrl": "/profiles/zinaum",
       "timestamp": "2026-04-17T11:44:00-05:00",
       "content": "D Rod has said he was offered Leon Edwards. UFC announced that Gable Stevenson will debut here, and Paddy has confirmed on BBC that he'll be on the card.\n\nIn short: Leon Edwards vs Daniel Rodriguez\n\nPaddy Pimblett vs TBA\n\nGable Stevenson vs TBA",
-      "upvotes": 2,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -523,10 +523,19 @@
       "timestamp": "2026-04-17T13:35:00-05:00",
       "content": "Paddy vs Gable sounds good to me",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1653300",
+      "author": "DamienHouse",
+      "authorUrl": "/profiles/damienhouse",
+      "timestamp": "2026-04-17T21:41:00-05:00",
+      "content": "Cesar Almeida vs Damian Pinas has been added.\nhttps://x.com/Grabaka_Hitman/status/2045293497293381749?s=20",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-17T18:06:45.889502+00:00",
+  "scrapedAt": "2026-04-18T03:34:02.010886+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
