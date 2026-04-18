@@ -1773,7 +1773,7 @@
       "authorUrl": "/profiles/mothswords",
       "timestamp": "2026-04-16T21:31:00-05:00",
       "content": "[Predictions]\n\nDamn I didn't realize how good this card was top to bottom",
-      "upvotes": 1,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -1783,7 +1783,7 @@
       "timestamp": "2026-04-16T21:50:00-05:00",
       "content": "[Predictions]\n\nDawson vs. Rębecki\nMateusz Rębecki, TKO, R2\nDawson strikes like he's underwater",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1653151",
@@ -1791,11 +1791,29 @@
       "authorUrl": "/profiles/bigboi9092",
       "timestamp": "2026-04-17T16:35:00-05:00",
       "content": "[Predictions]\n\nVolkov vs. Cortes-Acosta\nAlexander Volkov, DEC\nrealistically volkov will use his length/jab to beat WCA to a decision, but hes pushing 38 and waldo's on a nice run.. who knows\n\nGreen vs. Stephens\nKing Green, TKO, R2\njeremy stephens has 10 fights and 1 win in the last 8 years, i CANNOT pick him",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1653350",
+      "author": "McFarlanders",
+      "authorUrl": "/profiles/mcfarlanders",
+      "timestamp": "2026-04-18T00:35:00-05:00",
+      "content": "[Predictions]\n\nTaira rd 2 sub\n\nThis won’t be a competitive fight whatsoever. Van has not proven himself to be a champ level fighter after going life and death against a chinny Royval. This fight is literally Pantoja vs Asakura but in different skins.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1653352",
+      "author": "tepid55",
+      "authorUrl": "/profiles/tepid55",
+      "timestamp": "2026-04-18T01:12:00-05:00",
+      "content": "[Predictions]\n\nChimaev vs. Strickland\nKhamzat Chimaev, DEC\nKhamzat Chimaev is the best wrestler in the history of the UFC middleweight division, enough said.\n\nVan vs. Taira\nTatsuro Taira, SUB, R2\nI think Tatsuro Taira will get the submission win in the second round.\n\nVolkov vs. Cortes-Acosta\nAlexander Volkov, DEC\nAlexander Volkov is the much better fighter in this match.\n\nGautier vs. Diaz\nAteba Gautier, TKO, R1\nEasy knockout for Ateba Gautier.",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-17T21:07:20.510330+00:00",
+  "scrapedAt": "2026-04-18T05:54:59.320094+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"
