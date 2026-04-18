@@ -46,7 +46,7 @@
       "timestamp": "2026-03-14T00:32:00-05:00",
       "content": "[Predictions]\n\nVolk vs Evloev/Murphy winner main event",
       "upvotes": 2,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1635268",
@@ -542,9 +542,18 @@
       "content": "[Predictions]\n\nDamian Pinas vs Cesar Almeida\nPick: Pinas via round 1 KO\n93% of Tapology users (43 users) are picking Pinas (87% KO)\nPinas is 14.0 years younger (24.3 vs 38.3)\nPinas has 5” reach edge (79” vs 74”)\nPinas has +3.75 strike differential/min vs +1.43\nPinas proj. +20.0 significant strikes attempted\nPinas proj. +15.3 significant strikes landed\nPinas proj. +24.0 head strikes landed\nPinas proj. 3.82 knockdowns vs 0.11\nBoth fighters proj. for 0.0 takedowns landed and 0.0 attempts\nBoth fighters proj. for 0.00 submission attempts\nPinas proj. 45.0% finish chance vs 27.8% and 27.2% decision\n9/9 wins for Pinas via finish (7/9 in round 1)\nPinas has 8:0 KO win/loss ratio (6/8 KO’s in round 1, 2/8 in round 2)\nAlmeida has 5:0 KO win/loss ratio",
       "upvotes": 0,
       "downvotes": 1
+    },
+    {
+      "id": "1653408",
+      "author": "SWRS",
+      "authorUrl": "/profiles/swrs",
+      "timestamp": "2026-04-18T10:17:00-05:00",
+      "content": "[Predictions]\n\nPinas vs. Almeida\nDamian Pinas, TKO, R2\nThis is a good step up but Damien should still win this but it is a tough fight",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-18T13:39:28.904037+00:00",
+  "scrapedAt": "2026-04-18T15:01:12.075487+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
