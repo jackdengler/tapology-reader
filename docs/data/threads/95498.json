@@ -847,7 +847,7 @@
       "timestamp": "2026-04-17T06:10:00-05:00",
       "content": "[Predictions]\n\ngonna be a boatload of decisions here",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1653284",
@@ -855,7 +855,7 @@
       "authorUrl": "/profiles/carloscanomx",
       "timestamp": "2026-04-17T21:05:00-05:00",
       "content": "[Predictions]\n\nGarcía vs. Hernandez\nAlexander Hernandez, DEC\nEsta pelea será una delas mejores de la cartelera, mucha violencia pero creo que Alexander Hernandez es un 15-25% mejor que Rafa en el mismo kill set, osea solamente creo que esta un poco por encima digamos que es su ventaja física la que genera ese pequeña diferencia. Aunque Rafa entrenando en Colorado me llama la atención, me llamaba la idea de PDLG, pero creo que es muy temprano para decidir. 7.5/10",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -875,9 +875,18 @@
       "content": "[Predictions]\n\nSterling vs. Zalal\nAljamain Sterling, DEC\nI think Sterling will win by decision in a competitive fight.\n\nDumont vs. Edwards\nNorma Dumont, DEC\nNorma Dumont wins a decision with her grappling.\n\nBuchecha vs. Spann\nRyan Spann, TKO, R1\nI think Ryan Spann will win by brutal knockout.",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1653402",
+      "author": "BANJOSANDWITCH",
+      "authorUrl": "/profiles/banjosandwitch",
+      "timestamp": "2026-04-18T09:25:00-05:00",
+      "content": "[Predictions]\n\n* Edited at 04.18.2026,  9:25 AM ET *",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-18T05:54:07.981030+00:00",
+  "scrapedAt": "2026-04-18T13:39:13.356562+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
