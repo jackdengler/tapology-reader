@@ -9,7 +9,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 10,
+      "upvotes": 11,
       "downvotes": 0
     },
     {
@@ -73,7 +73,7 @@
       "timestamp": "2026-03-03T17:58:00-05:00",
       "content": "Gaethje vs Poirier 3\n\nStrickland vs Khamzat\n\nBryce Mitchell vs Umar Nurmagomedov",
       "upvotes": 0,
-      "downvotes": 5
+      "downvotes": 6
     },
     {
       "id": "1630251",
@@ -198,7 +198,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 10,
+      "upvotes": 11,
       "downvotes": 0
     },
     {
@@ -387,7 +387,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 10,
+      "upvotes": 11,
       "downvotes": 0
     },
     {
@@ -576,7 +576,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 10,
+      "upvotes": 11,
       "downvotes": 0
     },
     {
@@ -765,7 +765,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 10,
+      "upvotes": 11,
       "downvotes": 0
     },
     {
@@ -954,7 +954,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 10,
+      "upvotes": 11,
       "downvotes": 0
     },
     {
@@ -1143,7 +1143,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 10,
+      "upvotes": 11,
       "downvotes": 0
     },
     {
@@ -1332,7 +1332,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 10,
+      "upvotes": 11,
       "downvotes": 0
     },
     {
@@ -1521,7 +1521,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 10,
+      "upvotes": 11,
       "downvotes": 0
     },
     {
@@ -1710,7 +1710,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-03T10:25:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 10,
+      "upvotes": 11,
       "downvotes": 0
     },
     {
@@ -1801,7 +1801,7 @@
       "timestamp": "2026-04-18T00:35:00-05:00",
       "content": "[Predictions]\n\nTaira rd 2 sub\n\nThis won’t be a competitive fight whatsoever. Van has not proven himself to be a champ level fighter after going life and death against a chinny Royval. This fight is literally Pantoja vs Asakura but in different skins.",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1653352",
@@ -1810,7 +1810,7 @@
       "timestamp": "2026-04-18T01:12:00-05:00",
       "content": "[Predictions]\n\nChimaev vs. Strickland\nKhamzat Chimaev, DEC\nKhamzat Chimaev is the best wrestler in the history of the UFC middleweight division, enough said.\n\nVan vs. Taira\nTatsuro Taira, SUB, R2\nI think Tatsuro Taira will get the submission win in the second round.\n\nVolkov vs. Cortes-Acosta\nAlexander Volkov, DEC\nAlexander Volkov is the much better fighter in this match.\n\nGautier vs. Diaz\nAteba Gautier, TKO, R1\nEasy knockout for Ateba Gautier.",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1653363",
@@ -1818,11 +1818,20 @@
       "authorUrl": "/profiles/gspgoat123",
       "timestamp": "2026-04-18T04:20:00-05:00",
       "content": "[Predictions]\n\nJan is out of his fight",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1653378",
+      "author": "McFarlanders",
+      "authorUrl": "/profiles/mcfarlanders",
+      "timestamp": "2026-04-18T07:20:00-05:00",
+      "content": "[Predictions]\n\nI hope Jan finally retires. He’s wayyyyy too old to be fighting at 43 and its not like he’ll be fighting in a title contender bout anytime soon.",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-18T09:09:08.496378+00:00",
+  "scrapedAt": "2026-04-18T11:50:26.598118+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"
