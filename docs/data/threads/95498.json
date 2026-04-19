@@ -63,7 +63,7 @@
       "authorUrl": "/profiles/grayerman",
       "timestamp": "2026-02-22T15:31:00-05:00",
       "content": "[Predictions]\n\nBuckley got dominated on the ground by 40 year old Usman but Sean has the striking defense of a scarecrow",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -72,7 +72,7 @@
       "authorUrl": "/profiles/prismshapes",
       "timestamp": "2026-02-22T17:10:00-05:00",
       "content": "[Predictions]\n\nThis is a great main event because we get to see who was committed to improving there game more. Did Buckley commit to improving his TDD, did Brady commit to improving his TD",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -108,7 +108,7 @@
       "authorUrl": "/profiles/cohrcive",
       "timestamp": "2026-02-23T18:28:00-05:00",
       "content": "Buckley is going to beat the breaks off Brady, please go rewatch rd 5, if Buck starts this fight like that he will dominate Brady. Also not to mention Marty is miles better of a fighter than sean",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -234,7 +234,7 @@
       "authorUrl": "/profiles/grayerman",
       "timestamp": "2026-03-03T00:21:00-05:00",
       "content": "[Predictions]\n\nroad to Adrian Luna sliming Chito\n\nthey’re both Ecuadorian that can’t be allowed\n\n* Edited at 03.03.2026, 12:22 AM ET *",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -990,7 +990,7 @@
       "authorUrl": "/profiles/madamma",
       "timestamp": "2026-04-19T09:28:00-05:00",
       "content": "[Predictions]\n\n@Miguelpicks congrats on the ranking bro, top 100!",
-      "upvotes": 0,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -1001,9 +1001,27 @@
       "content": "[Predictions]\n\nPick % between Alencar and Polastri should be flipped.",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1655074",
+      "author": "Miguelpicks",
+      "authorUrl": "/profiles/miguelpicks",
+      "timestamp": "2026-04-19T09:56:00-05:00",
+      "content": "[Predictions]\n\n@madaMMA thanks I just found out reading your post! I'm stoked to be up here finally.",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1655075",
+      "author": "AyyLmaonnaise",
+      "authorUrl": "/profiles/ayylmaonnaise",
+      "timestamp": "2026-04-19T10:04:00-05:00",
+      "content": "[Predictions]\n\n@Fast_Tulip i heard from some people that he came into fight week injured. That’s why the line kept crashing in on MJ the entire week\n\n* Edited at 04.19.2026, 10:04 AM ET *",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-19T13:45:06.212285+00:00",
+  "scrapedAt": "2026-04-19T14:59:08.880522+00:00",
   "eventName": "UFC Fight Night: Sterling vs. Zalal",
   "eventDate": "April 25",
   "fightcenterUrl": "/fightcenter/events/140114-ufc-fight-night"
