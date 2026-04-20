@@ -28,7 +28,7 @@
       "timestamp": "2026-03-03T11:31:00-05:00",
       "content": "why are we feeding Gautier another can for him to crush",
       "upvotes": 4,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1630185",
@@ -73,7 +73,7 @@
       "timestamp": "2026-03-03T17:58:00-05:00",
       "content": "Gaethje vs Poirier 3\n\nStrickland vs Khamzat\n\nBryce Mitchell vs Umar Nurmagomedov",
       "upvotes": 0,
-      "downvotes": 6
+      "downvotes": 7
     },
     {
       "id": "1630251",
@@ -1719,7 +1719,7 @@
       "authorUrl": "/profiles/michaelsmith2005",
       "timestamp": "2026-04-15T06:31:00-05:00",
       "content": "[Predictions]\n\nChimaev vs. Strickland\nSean Strickland, DEC\nStrickland has a really good chance",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 4
     },
     {
@@ -1782,7 +1782,7 @@
       "authorUrl": "/profiles/theglooper7",
       "timestamp": "2026-04-16T21:50:00-05:00",
       "content": "[Predictions]\n\nDawson vs. Rębecki\nMateusz Rębecki, TKO, R2\nDawson strikes like he's underwater",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -1800,7 +1800,7 @@
       "authorUrl": "/profiles/mcfarlanders",
       "timestamp": "2026-04-18T00:35:00-05:00",
       "content": "[Predictions]\n\nTaira rd 2 sub\n\nThis won’t be a competitive fight whatsoever. Van has not proven himself to be a champ level fighter after going life and death against a chinny Royval. This fight is literally Pantoja vs Asakura but in different skins.",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 2
     },
     {
@@ -1828,7 +1828,7 @@
       "timestamp": "2026-04-18T07:20:00-05:00",
       "content": "[Predictions]\n\nI hope Jan finally retires. He’s wayyyyy too old to be fighting at 43 and its not like he’ll be fighting in a title contender bout anytime soon.",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1653473",
@@ -1846,10 +1846,19 @@
       "timestamp": "2026-04-19T21:40:00-05:00",
       "content": "[Predictions]\n\nMiller vs. Gordon\nJared Gordon, TKO\nJim Miller went life and death with chase hooper. Gordon by Ko",
       "upvotes": 0,
+      "downvotes": 2
+    },
+    {
+      "id": "1655282",
+      "author": "TBAG",
+      "authorUrl": "/profiles/tbag",
+      "timestamp": "2026-04-20T13:01:00-05:00",
+      "content": "@Vitaly_bgd Iwo accepted the fight but Guskov backed out",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-20T03:54:22.951586+00:00",
+  "scrapedAt": "2026-04-20T17:21:35.549463+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"

@@ -1188,11 +1188,38 @@
       "authorUrl": "/profiles/grayerman",
       "timestamp": "2026-04-20T10:55:00-05:00",
       "content": "[Predictions]\n\nWe will all be up at 3am for this",
+      "upvotes": 2,
+      "downvotes": 0
+    },
+    {
+      "id": "1655278",
+      "author": "flavorpacket",
+      "authorUrl": "/profiles/flavorpacket",
+      "timestamp": "2026-04-20T12:52:00-05:00",
+      "content": "[Predictions]\n\ni'm trying to get to a colby thicknesse pick but it's really hard. he barely beat musasa in a sketchy fight and vince morales has solid grappling to counter colby's best attribute. vince morales gave elijah smith some real problems in their fight and elijah smith is a way better prospect than thicknesse. i'm not saying morales is anything special either but he keeps stealing rounds from prospects way better than thicknesse. right now i'm leaning towards the fight playing out extremely close and the judges probably give thicknesse the decision anyway.\n\n* Edited at 04.20.2026,  1:11 PM ET *",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1655280",
+      "author": "TBAG",
+      "authorUrl": "/profiles/tbag",
+      "timestamp": "2026-04-20T13:00:00-05:00",
+      "content": "@Sidemount467an Jdm is a lock",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1655285",
+      "author": "flavorpacket",
+      "authorUrl": "/profiles/flavorpacket",
+      "timestamp": "2026-04-20T13:16:00-05:00",
+      "content": "[Predictions]\n\nfight i'm most interested in is pericic vs. shamil. it's kind of a weird one with shamil going into enemy territory off a loss to fight an interesting prospect. feels like it could be a setup fight to fast track pericic into the rankings. but at the same time shamil is potentially good enough to give pericic some real problems in this fight especially if shamil is able to get his grappling going. will we see shamil feast or famine?",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-20T15:45:12.635348+00:00",
+  "scrapedAt": "2026-04-20T17:19:53.705279+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
