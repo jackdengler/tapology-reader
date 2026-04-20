@@ -810,7 +810,7 @@
       "authorUrl": "/profiles/furiousdad",
       "timestamp": "2026-03-13T06:32:00-05:00",
       "content": "Morning in the UK, so just found out the card for this event.\n\nNo disrespect to Strickland, he's a great fighter and a former champion. But has anyone else noticed that he's following the trend of Cyril Gane and Diego Lopes? i.e. the constant cycle of:\n\nLose title fight => win next fight => get title fight => lose title fight => win next fight => get title fight, etc ad nauseum\n\nI thought Imavov would be next, but it seems the UFC are giving constant title shots to the fighters with the most followers on social media. Probably cynical of me, but let me know your views!",
-      "upvotes": 7,
+      "upvotes": 8,
       "downvotes": 0
     },
     {
@@ -1818,7 +1818,7 @@
       "authorUrl": "/profiles/gspgoat123",
       "timestamp": "2026-04-18T04:20:00-05:00",
       "content": "[Predictions]\n\nJan is out of his fight",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -1836,11 +1836,20 @@
       "authorUrl": "/profiles/vitaly_bgd",
       "timestamp": "2026-04-18T14:12:00-05:00",
       "content": "Baraniewski vs Guskov maybe?",
+      "upvotes": 3,
+      "downvotes": 0
+    },
+    {
+      "id": "1655171",
+      "author": "Kurtcobainshotgun",
+      "authorUrl": "/profiles/kurtcobainshotgun",
+      "timestamp": "2026-04-19T21:40:00-05:00",
+      "content": "[Predictions]\n\nMiller vs. Gordon\nJared Gordon, TKO\nJim Miller went life and death with chase hooper. Gordon by Ko",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-18T19:13:47.645663+00:00",
+  "scrapedAt": "2026-04-20T03:54:22.951586+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"
