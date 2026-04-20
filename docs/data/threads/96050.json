@@ -1,7 +1,7 @@
 {
   "id": "96050",
   "title": "UFC 329UFC 329",
-  "totalPages": 3,
+  "totalPages": 4,
   "posts": [
     {
       "id": "1634973",
@@ -27,7 +27,7 @@
       "authorUrl": "/profiles/rpadilla149",
       "timestamp": "2026-03-13T20:31:00-05:00",
       "content": "Charles vs Armen 2. Ilia beats Gaethje in June and vacates to move up to fight Islam. Vacant lightweight belt on the line",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 0
     },
     {
@@ -99,7 +99,7 @@
       "authorUrl": "/profiles/socalryno89",
       "timestamp": "2026-03-17T20:38:00-05:00",
       "content": "[Predictions]\n\nBSD vs Paddy",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 3
     },
     {
@@ -117,7 +117,7 @@
       "authorUrl": "/profiles/qqqqqq",
       "timestamp": "2026-03-18T18:50:00-05:00",
       "content": "Mcgregor",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -161,7 +161,7 @@
       "author": "ddpfan305",
       "authorUrl": "/profiles/ddpfan305",
       "timestamp": "2026-03-24T08:42:00-05:00",
-      "content": "i seriously hope conor doesnt return just to fight ian garry\n\n* Edited at 03.24.2026,  8:42 AM ET *",
+      "content": "[Predictions]\n\ni seriously hope conor doesnt return just to fight ian garry\n\n* Edited at 03.24.2026,  8:42 AM ET *",
       "upvotes": 0,
       "downvotes": 2
     },
@@ -567,11 +567,29 @@
       "authorUrl": "/profiles/oso1",
       "timestamp": "2026-04-20T13:01:00-05:00",
       "content": "Conor Vs Max\nPaddy VS Bsd/Arman\nAaron Pico vs TBA\nGable steveson VS TBA\nBSD Vs TBA\nManuel torres",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1634973",
+      "author": "Tapology",
+      "authorUrl": "/profiles/tapology",
+      "timestamp": "2026-03-13T09:54:00-05:00",
+      "content": "The official Tapology discussion thread for the event!",
+      "upvotes": 5,
+      "downvotes": 0
+    },
+    {
+      "id": "1655345",
+      "author": "gavdaddydeluxe",
+      "authorUrl": "/profiles/gavdaddydeluxe",
+      "timestamp": "2026-04-20T18:01:00-05:00",
+      "content": "[Predictions]\n\nPinas vs. Almeida\nDamian Pinas, DEC\nThink it's gonna be one of those fights where the young prospect looks worse as the fight goes on but still does enough early on to win",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-20T17:21:50.675633+00:00",
+  "scrapedAt": "2026-04-20T23:05:15.261207+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
