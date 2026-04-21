@@ -27,7 +27,7 @@
       "authorUrl": "/profiles/madamma",
       "timestamp": "2026-03-12T21:47:00-05:00",
       "content": "[Predictions]\n\nMuhammad vs. Bonfim\nBelal Muhammad, DEC\nIf Dalby can do it belal can too",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 1
     },
     {
@@ -153,7 +153,7 @@
       "authorUrl": "/profiles/aminmma",
       "timestamp": "2026-03-18T16:17:00-05:00",
       "content": "[Predictions]\n\nBelal is going to hurt him",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 2
     },
     {
@@ -540,12 +540,21 @@
       "authorUrl": "/profiles/elitemmapicks",
       "timestamp": "2026-04-15T04:55:00-05:00",
       "content": "[Predictions]\n\nFares Ziam vs Tom Nolan\nPick: Ziam via decision\n89% of Tapology users (161 users) are picking Ziam (30% decision)\nNolan is 3.0 years younger (26.3 vs 29.2)\nZiam has 2” reach edge (75” vs 73”)\nZiam has +1.34 strike differential/min vs +1.14\nZiam has +2.01 strike differential/min @distance vs +1.00\nNolan proj. +21.0 significant strikes attempted\nZiam proj. +4.8 significant strikes landed\nZiam proj. +6.5 head strikes landed\nZiam has 42% head strike accuracy, 79% head strike defense\nNolan has 35% head strike accuracy, 63% head strike defense\nZiam proj. 0.43 knockdowns vs 0.21\nZiam proj. 1.5 takedowns landed (4.3 attempts) vs 0.9 (3.4 attempts)\nNolan proj. 1.90 submission attempts vs 0.50\nNolan proj. 34.1% finish chance vs 29.5% and 36.4% decision\nZiam will likely win distance striking, head striking",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1655506",
+      "author": "zeddhero",
+      "authorUrl": "/profiles/zeddhero",
+      "timestamp": "2026-04-21T15:30:00-05:00",
+      "content": "[Predictions]\n\nBryce Mitchell vs Victor Henry has also been added\nhttps://x.com/ufc/status/2046637448990781844?s=20\n\n* Edited at 04.21.2026,  3:30 PM ET *",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-15T09:52:01.821925+00:00",
-  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
-  "eventDate": "June  6",
-  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
+  "scrapedAt": "2026-04-21T19:37:45.308108+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
