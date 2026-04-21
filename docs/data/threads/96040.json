@@ -549,12 +549,21 @@
       "authorUrl": "/profiles/zeddhero",
       "timestamp": "2026-04-21T15:30:00-05:00",
       "content": "[Predictions]\n\nBryce Mitchell vs Victor Henry has also been added\nhttps://x.com/ufc/status/2046637448990781844?s=20\n\n* Edited at 04.21.2026,  3:30 PM ET *",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1655508",
+      "author": "flavorpacket",
+      "authorUrl": "/profiles/flavorpacket",
+      "timestamp": "2026-04-21T15:42:00-05:00",
+      "content": "[Predictions]\n\nbully b mafia needs a W here badly",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-21T19:37:45.308108+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-04-21T21:10:22.736339+00:00",
+  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
+  "eventDate": "June  6",
+  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
 }
