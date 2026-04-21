@@ -1719,7 +1719,7 @@
       "authorUrl": "/profiles/michaelsmith2005",
       "timestamp": "2026-04-15T06:31:00-05:00",
       "content": "[Predictions]\n\nChimaev vs. Strickland\nSean Strickland, DEC\nStrickland has a really good chance",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 4
     },
     {
@@ -1836,7 +1836,7 @@
       "authorUrl": "/profiles/vitaly_bgd",
       "timestamp": "2026-04-18T14:12:00-05:00",
       "content": "Baraniewski vs Guskov maybe?",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -1845,8 +1845,8 @@
       "authorUrl": "/profiles/kurtcobainshotgun",
       "timestamp": "2026-04-19T21:40:00-05:00",
       "content": "[Predictions]\n\nMiller vs. Gordon\nJared Gordon, TKO\nJim Miller went life and death with chase hooper. Gordon by Ko",
-      "upvotes": 0,
-      "downvotes": 2
+      "upvotes": 1,
+      "downvotes": 5
     },
     {
       "id": "1655282",
@@ -1855,10 +1855,19 @@
       "timestamp": "2026-04-20T13:01:00-05:00",
       "content": "@Vitaly_bgd Iwo accepted the fight but Guskov backed out",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1655431",
+      "author": "CherylReacts",
+      "authorUrl": "/profiles/cherylreacts",
+      "timestamp": "2026-04-21T08:58:00-05:00",
+      "content": "[Predictions]\n\nVan vs. Taira\nJoshua Van, DEC\ni think the extra month will actually be more favorable for taira but i still think van will win the decision i dont see taira being able to really big body van or technical enough on the feet to set up a nice shot at a takedown, with that being said if this fight happened 2 weeks ago i would had van by finish but i think the extra month to polish up the striking will help taira survive the technical boxing for 5 rounds\n\n* Edited at 04.21.2026,  9:09 AM ET *",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-20T17:21:35.549463+00:00",
+  "scrapedAt": "2026-04-21T14:10:57.018554+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"
