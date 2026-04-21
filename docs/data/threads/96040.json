@@ -1,7 +1,7 @@
 {
   "id": "96040",
   "title": "UFC Fight NightUFC Fight Night: Muhammad vs. Bonfim",
-  "totalPages": 3,
+  "totalPages": 4,
   "posts": [
     {
       "id": "1634816",
@@ -549,7 +549,7 @@
       "authorUrl": "/profiles/zeddhero",
       "timestamp": "2026-04-21T15:30:00-05:00",
       "content": "[Predictions]\n\nBryce Mitchell vs Victor Henry has also been added\nhttps://x.com/ufc/status/2046637448990781844?s=20\n\n* Edited at 04.21.2026,  3:30 PM ET *",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -560,10 +560,46 @@
       "content": "[Predictions]\n\nbully b mafia needs a W here badly",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1655554",
+      "author": "AminMMA",
+      "authorUrl": "/profiles/aminmma",
+      "timestamp": "2026-04-21T19:17:00-05:00",
+      "content": "[Predictions]\n\nMuhammad vs. Bonfim\nBelal Muhammad, TKO, R4\nMuhammad is genuinely going to hurt this kid. I fear for Bonfim’s life, way too young to take this damage.",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1634816",
+      "author": "Tapology",
+      "authorUrl": "/profiles/tapology",
+      "timestamp": "2026-03-12T21:38:00-05:00",
+      "content": "The official Tapology discussion thread for the event!",
+      "upvotes": 3,
+      "downvotes": 0
+    },
+    {
+      "id": "1655555",
+      "author": "AminMMA",
+      "authorUrl": "/profiles/aminmma",
+      "timestamp": "2026-04-21T19:18:00-05:00",
+      "content": "[Predictions]\n\nI expect bonfim to remain unconscious and unresponsive for several minutes",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1655556",
+      "author": "flavorpacket",
+      "authorUrl": "/profiles/flavorpacket",
+      "timestamp": "2026-04-21T19:29:00-05:00",
+      "content": "[Predictions]\n\ndalby gave us the blueprint",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-21T21:10:22.736339+00:00",
-  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
-  "eventDate": "June  6",
-  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
+  "scrapedAt": "2026-04-21T23:52:08.025484+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
