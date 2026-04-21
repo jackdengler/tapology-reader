@@ -1,7 +1,7 @@
 {
   "id": "96209",
   "title": "UFC Fight NightUFC Fight Night",
-  "totalPages": 2,
+  "totalPages": 3,
   "posts": [
     {
       "id": "1638206",
@@ -351,7 +351,7 @@
       "authorUrl": "/profiles/wxckd",
       "timestamp": "2026-04-17T16:37:00-05:00",
       "content": "LMAOOOOOOO ABUS VS MICHAL MAIN EVENT DANA IS PATHETIC",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 3
     },
     {
@@ -371,10 +371,37 @@
       "content": "[Predictions]\n\nKevin on X: \"🚨FIGHT NEWS🚨 Abus Magomedov vs Michal Oleksiejczuk on June 27th at #UFCBaku 📰: @leoguimaraesmma https://t.co/GEG4v5Inzz\" / X\n\nApparently it is not the main event",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1655370",
+      "author": "Mothswords",
+      "authorUrl": "/profiles/mothswords",
+      "timestamp": "2026-04-20T19:25:00-05:00",
+      "content": "[Predictions]\n\nIdc what anyone says. Abus vs Oleksiejczuk will 100% not be the main event.",
+      "upvotes": 2,
+      "downvotes": 0
+    },
+    {
+      "id": "1638206",
+      "author": "Tapology",
+      "authorUrl": "/profiles/tapology",
+      "timestamp": "2026-03-18T21:01:00-05:00",
+      "content": "The official Tapology discussion thread for the event!",
+      "upvotes": 3,
+      "downvotes": 0
+    },
+    {
+      "id": "1655372",
+      "author": "qqqqqq",
+      "authorUrl": "/profiles/qqqqqq",
+      "timestamp": "2026-04-20T19:53:00-05:00",
+      "content": "MCKINNEY vs Rafael Fizev\n\nMOTTA vs Sadikhov 2",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-18T09:08:17.647693+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-04-20T23:58:52.204562+00:00",
+  "eventName": "UFC Fight Night: Sterling vs. Zalal",
+  "eventDate": "April 25",
+  "fightcenterUrl": "/fightcenter/events/140114-ufc-fight-night"
 }
