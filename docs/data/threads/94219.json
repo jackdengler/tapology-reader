@@ -18,7 +18,7 @@
       "authorUrl": "/profiles/chems",
       "timestamp": "2026-01-01T18:52:00-05:00",
       "content": "Dern vs zhang",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 2
     },
     {
@@ -263,10 +263,19 @@
       "content": "You know shara and izzy both used ro kickbox in china....",
       "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1655730",
+      "author": "CowboyKurt",
+      "authorUrl": "/profiles/cowboykurt",
+      "timestamp": "2026-04-22T15:19:00-05:00",
+      "content": "Surely they do Dern VS Weili right?",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-22T15:43:39.054969+00:00",
-  "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
-  "eventDate": "June 20",
-  "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
+  "scrapedAt": "2026-04-22T19:38:52.970539+00:00",
+  "eventName": "UFC Fight Night: Sterling vs. Zalal",
+  "eventDate": "April 25",
+  "fightcenterUrl": "/fightcenter/events/140114-ufc-fight-night"
 }
