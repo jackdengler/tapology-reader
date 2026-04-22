@@ -1,12 +1,25 @@
 [
   {
+    "id": "96040",
+    "title": "UFC Fight Night: Muhammad vs. Bonfim",
+    "url": "/forum/threads/96040",
+    "isSticky": false,
+    "lastPostTime": "2026-04-22 13:37:49 -0400",
+    "replyCount": 69,
+    "snippet": "\" Crazy good card for apex\"(36 minutes ago)",
+    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "eventName": "UFC Fight Night",
+    "eventDate": "August 29",
+    "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  },
+  {
     "id": "95498",
     "title": "UFC Fight Night: Sterling vs. Zalal",
     "url": "/forum/threads/95498",
     "isSticky": false,
-    "lastPostTime": "2026-04-22 13:06:56 -0400",
-    "replyCount": 318,
-    "snippet": "\"Dumont vs. Edwards Norma Dumont, DEC Edwards is good  Filho vs. Durden Jafel ...\"(8 minutes ago)",
+    "lastPostTime": "2026-04-22 13:19:03 -0400",
+    "replyCount": 320,
+    "snippet": "\" @JeanSilvaEnjoyer&nbsp;I agree with you on all of this pretty much! Im not v...\"(55 minutes ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC Fight Night: Sterling vs. Zalal",
     "eventDate": "April 25",
@@ -19,11 +32,11 @@
     "isSticky": false,
     "lastPostTime": "2026-04-22 10:39:13 -0400",
     "replyCount": 46,
-    "snippet": "\" @SWRS&nbsp;after hyders fight with emmers this fight seems tailor made to ge...\"(2 hours ago)",
+    "snippet": "\" @SWRS&nbsp;after hyders fight with emmers this fight seems tailor made to ge...\"(3 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night",
-    "eventDate": "August 29",
-    "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+    "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
+    "eventDate": "June 20",
+    "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
   },
   {
     "id": "96050",
@@ -32,24 +45,11 @@
     "isSticky": false,
     "lastPostTime": "2026-04-22 10:08:06 -0400",
     "replyCount": 67,
-    "snippet": "\" The king of rio finishes or dominates cory\"(3 hours ago)",
+    "snippet": "\" The king of rio finishes or dominates cory\"(4 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC 329",
     "eventDate": "July 11",
     "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
-  },
-  {
-    "id": "96040",
-    "title": "UFC Fight Night: Muhammad vs. Bonfim",
-    "url": "/forum/threads/96040",
-    "isSticky": false,
-    "lastPostTime": "2026-04-22 02:03:10 -0400",
-    "replyCount": 68,
-    "snippet": "\"Muhammad vs. Bonfim Belal Muhammad, DEC Belal via cardio and grappling. If Da...\"(11 hours ago)",
-    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
-    "eventDate": "June  6",
-    "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
   },
   {
     "id": "97171",
@@ -58,7 +58,7 @@
     "isSticky": false,
     "lastPostTime": "2026-04-21 23:53:39 -0400",
     "replyCount": 3,
-    "snippet": "\" I will probably be at this card, recently relocated to OKC for work. What lu...\"(13 hours ago)",
+    "snippet": "\" I will probably be at this card, recently relocated to OKC for work. What lu...\"(14 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC Fight Night: Allen vs. Costa",
     "eventDate": "May 16",
@@ -112,8 +112,8 @@
     "replyCount": 27,
     "snippet": "\" You know shara and izzy both used ro kickbox in china....\"(1 week ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
-    "eventDate": "June 20",
-    "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
+    "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
+    "eventDate": "June  6",
+    "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
   }
 ]
