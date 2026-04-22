@@ -521,7 +521,7 @@
       "author": "grayerman",
       "authorUrl": "/profiles/grayerman",
       "timestamp": "2026-04-17T13:35:00-05:00",
-      "content": "Paddy vs Gable sounds good to me",
+      "content": "[Predictions]\n\nPaddy vs Gable sounds good to me",
       "upvotes": 0,
       "downvotes": 4
     },
@@ -595,7 +595,7 @@
       "timestamp": "2026-04-20T21:45:00-05:00",
       "content": "[Predictions]\n\n@Gilpin just my 2 cents, i think Garry should've gotten the shot any way you slice it, just prates and morales winning big in November kind of makes everything blurry",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1655522",
@@ -603,11 +603,29 @@
       "authorUrl": "/profiles/cheeseintheclinch",
       "timestamp": "2026-04-21T16:11:00-05:00",
       "content": "Sandhagen vs Bautista 2",
+      "upvotes": 4,
+      "downvotes": 0
+    },
+    {
+      "id": "1655570",
+      "author": "Gilpin",
+      "authorUrl": "/profiles/gilpin",
+      "timestamp": "2026-04-21T21:39:00-05:00",
+      "content": "@novaCMMA Ian Garry had a bigger win than both of them in November over Belal",
       "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1655572",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-04-21T21:55:00-05:00",
+      "content": "[Predictions]\n\nCory Sandhagen vs Mario Bautista\nPick: Sandhagen via decision\n82% of Tapology users (22 users) are picking Sandhagen (94% decision)\nBautista is 1.2 years younger (33.0 vs 34.2)\nSandhagen has 1” reach edge (70” vs 69”)\nSandhagen has +1.39 strike differential/min vs +1.32\nSandhagen proj. +3.9 significant strikes attempted\nSandhagen proj. +1.1 significant strikes landed\nSandhagen proj. +4.6 head strikes landed\nSandhagen proj. 0.23 knockdowns vs 0.13\nBautista proj. 2.1 takedowns landed (5.0 attempts) vs 1.3 takedowns landed (3.4 attempts)\nSandhagen proj. 3.0 mins of control time vs 2.4 mins\nBautista proj. 0.80 submission attempts vs 0.20\nSandhagen proj. 27.9% finish chance vs 27.1% and 45.0% decision",
+      "upvotes": 2,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-21T21:10:07.103679+00:00",
+  "scrapedAt": "2026-04-22T03:44:08.769602+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
