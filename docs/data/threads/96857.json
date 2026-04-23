@@ -9,7 +9,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-04-14T14:05:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -18,7 +18,7 @@
       "authorUrl": "/profiles/andyjamahalhill",
       "timestamp": "2026-04-14T14:13:00-05:00",
       "content": "joe pyfer feature fight or co main",
-      "upvotes": 3,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -27,7 +27,7 @@
       "authorUrl": "/profiles/vinnigan",
       "timestamp": "2026-04-14T14:17:00-05:00",
       "content": "hopefully islam vs garry or morales, and then pyfer on the card fasho",
-      "upvotes": 1,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -36,7 +36,7 @@
       "authorUrl": "/profiles/grayerman",
       "timestamp": "2026-04-14T15:32:00-05:00",
       "content": "Go Birds",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -46,7 +46,7 @@
       "timestamp": "2026-04-14T16:02:00-05:00",
       "content": "Philly ******* sucks buts its only an hour from me and the company I work for has box seats at the Xfinity arena.",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1651968",
@@ -55,7 +55,7 @@
       "timestamp": "2026-04-14T17:39:00-05:00",
       "content": "KHAMZAT vs. Carlos Ulberg\n\nISLAM MAKHACHEV vs. Kamaru Usman\n\nUMAR vs. Petr Yan",
       "upvotes": 0,
-      "downvotes": 9
+      "downvotes": 11
     },
     {
       "id": "1651969",
@@ -64,7 +64,7 @@
       "timestamp": "2026-04-14T17:41:00-05:00",
       "content": "VS",
       "upvotes": 1,
-      "downvotes": 8
+      "downvotes": 9
     },
     {
       "id": "1651970",
@@ -81,7 +81,7 @@
       "authorUrl": "/profiles/socalryno89",
       "timestamp": "2026-04-14T17:58:00-05:00",
       "content": "Islam vs Garry\nPyfer vs Caio",
-      "upvotes": 2,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -91,7 +91,7 @@
       "timestamp": "2026-04-14T18:08:00-05:00",
       "content": "Khamzat vs pyfer pyfer round. 3 ko",
       "upvotes": 0,
-      "downvotes": 3
+      "downvotes": 5
     },
     {
       "id": "1651974",
@@ -99,7 +99,7 @@
       "authorUrl": "/profiles/grayerman",
       "timestamp": "2026-04-14T19:12:00-05:00",
       "content": "Valentina or Dern are sure to defend their belts at some point right",
-      "upvotes": 1,
+      "upvotes": 5,
       "downvotes": 1
     },
     {
@@ -109,7 +109,7 @@
       "timestamp": "2026-04-14T21:08:00-05:00",
       "content": "Islam vs morals\nBSD vs paddy pimblett\nkamaru Usman vs shafkat rakhmanov",
       "upvotes": 0,
-      "downvotes": 3
+      "downvotes": 5
     },
     {
       "id": "1651991",
@@ -136,7 +136,7 @@
       "timestamp": "2026-04-16T08:39:00-05:00",
       "content": "@ntrsbob philly ain't ****. Disgusting dirty city full of morons",
       "upvotes": 0,
-      "downvotes": 3
+      "downvotes": 5
     },
     {
       "id": "1652393",
@@ -153,7 +153,7 @@
       "authorUrl": "/profiles/dylanwhite098",
       "timestamp": "2026-04-16T10:14:00-05:00",
       "content": "@KHAMZAT_MAKHACHEV are you an idiot",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -162,11 +162,20 @@
       "authorUrl": "/profiles/battousai",
       "timestamp": "2026-04-17T08:53:00-05:00",
       "content": "Merab/Yan trilogy will be the main event.",
-      "upvotes": 0,
+      "upvotes": 2,
+      "downvotes": 1
+    },
+    {
+      "id": "1655758",
+      "author": "Gilpin",
+      "authorUrl": "/profiles/gilpin",
+      "timestamp": "2026-04-22T19:58:00-05:00",
+      "content": "@battousai Its heavily rumored that Islam will headline this card so I doubt they'd do that, I think Yan vs. Merab is gonna be IFW and this card will be Islam vs. Garry and a womens championship",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-17T13:59:44.768637+00:00",
+  "scrapedAt": "2026-04-23T00:01:07.268891+00:00",
   "eventName": "UFC 330",
   "eventDate": "August 15",
   "fightcenterUrl": "/fightcenter/events/142341-ufc-330"
