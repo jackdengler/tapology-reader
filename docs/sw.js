@@ -1,6 +1,6 @@
 /* Service Worker - Tapology Forum Reader */
 
-const CACHE_VERSION = 'tapforum-v3';
+const CACHE_VERSION = 'tapforum-v4';
 const SHELL_FILES = [
   './',
   './index.html',

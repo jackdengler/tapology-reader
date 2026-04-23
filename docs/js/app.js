@@ -29,16 +29,50 @@ const App = {
     this.refreshBtn = document.getElementById('refresh-btn');
     this.headerTitle = document.getElementById('header-title');
     this.lastUpdated = document.getElementById('last-updated');
+    this.offlineBanner = document.getElementById('offline-banner');
 
     this.backBtn.addEventListener('click', () => {
-      location.hash = '';
+      // Prefer real browser back so we restore scroll position / history state,
+      // fall back to clearing the hash if we got here directly.
+      if (history.length > 1 && document.referrer.includes(location.host)) {
+        history.back();
+      } else {
+        location.hash = '';
+      }
     });
 
     this.refreshBtn.addEventListener('click', () => {
-      this.route();
+      this.refreshBtn.classList.add('spinning');
+      this.loadMeta();
+      this.route({ force: true });
+      setTimeout(() => this.refreshBtn.classList.remove('spinning'), 600);
+    });
+
+    // Tap the header title to scroll back to top
+    this.headerTitle.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // Global keyboard shortcuts
+    document.addEventListener('keydown', (e) => {
+      if (e.target.matches('input, textarea')) return;
+      if (e.key === '/') {
+        const search = document.getElementById('search-input');
+        if (search && !this.listView.hidden) {
+          e.preventDefault();
+          search.focus();
+        }
+      } else if (e.key === 'Escape' && !this.detailView.hidden) {
+        this.backBtn.click();
+      } else if (e.key === 'r' && !e.metaKey && !e.ctrlKey) {
+        this.refreshBtn.click();
+      }
     });
 
     window.addEventListener('hashchange', () => this.route());
+    window.addEventListener('online', () => this.setOnline(true));
+    window.addEventListener('offline', () => this.setOnline(false));
+    this.setOnline(navigator.onLine);
 
     this.loadMeta();
 
@@ -52,21 +86,26 @@ const App = {
     this.startAutoRefresh();
   },
 
+  setOnline(isOnline) {
+    this.offlineBanner.hidden = isOnline;
+  },
+
   startAutoRefresh() {
     if (this._refreshTimer) clearInterval(this._refreshTimer);
     this._refreshTimer = setInterval(() => {
+      // Only refresh the list view silently — don't yank the user mid-scroll
+      // on a thread detail.
       this.loadMeta();
-      this.route();
+      if (!this.listView.hidden) this.route({ silent: true });
     }, this.AUTO_REFRESH_MS);
 
-    // Pause when tab is hidden, resume when visible
     document.addEventListener('visibilitychange', () => {
       if (document.hidden) {
         clearInterval(this._refreshTimer);
         this._refreshTimer = null;
       } else {
         this.loadMeta();
-        this.route();
+        if (!this.listView.hidden) this.route({ silent: true });
         this.startAutoRefresh();
       }
     });
@@ -84,30 +123,30 @@ const App = {
     }
   },
 
-  route() {
+  route(opts = {}) {
     const hash = location.hash.slice(1);
     const threadMatch = hash.match(/^thread\/(\d+)/);
 
     if (threadMatch) {
-      this.showDetail(threadMatch[1]);
+      this.showDetail(threadMatch[1], opts);
     } else {
-      this.showList();
+      this.showList(opts);
     }
   },
 
-  showList() {
+  showList(opts = {}) {
     this.listView.hidden = false;
     this.detailView.hidden = true;
     this.backBtn.hidden = true;
     this.headerTitle.textContent = 'Tapology Forums';
-    ThreadList.load();
+    ThreadList.load(opts);
   },
 
-  showDetail(threadId) {
+  showDetail(threadId, opts = {}) {
     this.listView.hidden = true;
     this.detailView.hidden = false;
     this.backBtn.hidden = false;
-    ThreadDetail.load(threadId);
+    ThreadDetail.load(threadId, opts);
   },
 
   // Always display in Pacific Time
@@ -121,7 +160,6 @@ const App = {
     };
 
     const now = new Date();
-    // Compare dates in PT
     const todayPT = now.toLocaleDateString('en-US', { timeZone: 'America/Los_Angeles' });
     const datePT = date.toLocaleDateString('en-US', { timeZone: 'America/Los_Angeles' });
 
