@@ -8,15 +8,28 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: tapology-scrape
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ runner.os }}-v1
 
       - name: Install dependencies
         run: |
@@ -24,12 +37,21 @@ jobs:
           playwright install chromium --with-deps
 
       - name: Run scraper
-        run: python scraper/scraper.py
+        run: python scraper/scraper.py -v
 
       - name: Commit and push data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/data/
-          git diff --staged --quiet || git commit -m "Update forum data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git push
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Update forum data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            for attempt in 1 2 3; do
+              if git push; then break; fi
+              echo "Push failed (attempt $attempt), pulling and retrying..."
+              git pull --rebase
+              sleep $((attempt * 2))
+            done
+          fi

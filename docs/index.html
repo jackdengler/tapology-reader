@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="Mobile-friendly, offline-first reader for UFC event forum threads on Tapology.">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="TapForum">
@@ -14,27 +15,35 @@
 </head>
 <body>
   <header id="app-header">
-    <button id="back-btn" class="header-btn" hidden aria-label="Back">&larr;</button>
+    <button id="back-btn" class="header-btn" hidden aria-label="Back to thread list">&larr;</button>
     <h1 id="header-title">Tapology Forums</h1>
-    <button id="refresh-btn" class="header-btn" aria-label="Refresh">&#8635;</button>
+    <button id="refresh-btn" class="header-btn" aria-label="Refresh" title="Refresh">&#8635;</button>
   </header>
+
+  <div id="offline-banner" class="offline-banner" hidden role="status">
+    You're offline — showing cached threads.
+  </div>
 
   <div id="thread-list-view" class="view">
     <div class="search-bar">
-      <input type="search" id="search-input" placeholder="Search threads..." autocomplete="off">
+      <label class="search-input-wrap">
+        <span class="visually-hidden">Search threads</span>
+        <input type="search" id="search-input" placeholder="Search threads" autocomplete="off" enterkeyhint="search" inputmode="search">
+        <button type="button" id="search-clear" class="search-clear" hidden aria-label="Clear search">&times;</button>
+      </label>
     </div>
-    <div class="sort-bar">
-      <button class="sort-btn active" data-sort="latest">Latest</button>
-      <button class="sort-btn" data-sort="replies">Most Replies</button>
+    <div class="sort-bar" role="tablist" aria-label="Sort threads">
+      <button class="sort-btn active" role="tab" aria-selected="true" data-sort="latest">Latest</button>
+      <button class="sort-btn" role="tab" aria-selected="false" data-sort="replies">Most replies</button>
     </div>
     <div id="thread-list" class="thread-list"></div>
-    <div id="list-status" class="status-msg"></div>
+    <div id="list-status" class="status-msg" aria-live="polite"></div>
   </div>
 
   <div id="thread-detail-view" class="view" hidden>
     <div id="thread-header" class="thread-header"></div>
     <div id="post-list" class="post-list"></div>
-    <div id="detail-status" class="status-msg"></div>
+    <div id="detail-status" class="status-msg" aria-live="polite"></div>
   </div>
 
   <footer id="app-footer">
