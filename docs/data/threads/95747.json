@@ -1352,9 +1352,27 @@
       "content": "Erceg should not be -400.",
       "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1655854",
+      "author": "royalkickbeat",
+      "authorUrl": "/profiles/royalkickbeat",
+      "timestamp": "2026-04-23T11:48:00-04:00",
+      "content": "[Predictions]\n\nWelp this card is starting to look sad now... hopefully they find replacements",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1655856",
+      "author": "AminMMA",
+      "authorUrl": "/profiles/aminmma",
+      "timestamp": "2026-04-23T11:49:00-04:00",
+      "content": "[Predictions]\n\nErceg and Thicknesse will look clueless",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-23T14:12:45.870583+00:00",
+  "scrapedAt": "2026-04-23T16:09:27.414363+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
