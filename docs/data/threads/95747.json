@@ -1360,7 +1360,7 @@
       "timestamp": "2026-04-23T11:48:00-04:00",
       "content": "[Predictions]\n\nWelp this card is starting to look sad now... hopefully they find replacements",
       "upvotes": 1,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1655856",
@@ -1377,7 +1377,7 @@
       "authorUrl": "/profiles/eliporter",
       "timestamp": "2026-04-23T18:03:00-04:00",
       "content": "Ufc better add some fights quick times to this card like for like they did for zalal versus Sterling card. 11 fights for this card is unsatisfactory",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -1424,9 +1424,18 @@
       "content": "[Predictions]\n\nHave any of you seen the TYT Sports video about Carlos Prates?",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1655962",
+      "author": "flavorpacket",
+      "authorUrl": "/profiles/flavorpacket",
+      "timestamp": "2026-04-24T01:23:00-04:00",
+      "content": "[Predictions]\n\n@tepid55 drop the link bro",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-24T03:50:51.618067+00:00",
+  "scrapedAt": "2026-04-24T06:23:03.653265+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
