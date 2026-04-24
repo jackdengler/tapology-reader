@@ -1449,11 +1449,20 @@
       "authorUrl": "/profiles/finncampbell",
       "timestamp": "2026-04-24T05:51:00-04:00",
       "content": "[Predictions]\n\nTai Tuivasa v Louie Sutherland announced, this may (should) be it for Tai, can see a grapple-smush gameplan from Sutherland here just to stay in the UFC",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1655989",
+      "author": "tepid55",
+      "authorUrl": "/profiles/tepid55",
+      "timestamp": "2026-04-24T07:11:00-04:00",
+      "content": "[Predictions]\n\n@flavorpacket\n\nLook in the MMA playlist.  The video is titled MMA Fighter Tells MAGA To Shove It.",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-24T10:45:41.414132+00:00",
+  "scrapedAt": "2026-04-24T12:08:26.065382+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
