@@ -684,12 +684,30 @@
       "authorUrl": "/profiles/spockling",
       "timestamp": "2026-04-24T13:31:00-04:00",
       "content": "[Predictions]\n\nCard is pretty good for apex",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1656078",
+      "author": "battousai",
+      "authorUrl": "/profiles/battousai",
+      "timestamp": "2026-04-24T15:21:00-04:00",
+      "content": "Marcus McGhee went from being ranked #12 to not being ranked at all after losing to the current champ. Next fight is a prelim fight in the Apex against an unranked guy.\n\nMeanwhile Chito Vera hasn't won a fight in 3 years, has gotten 3 ranked opponents since losing to the (at the time) champion in OMalley, and is still (somehow) ranked in the top 10 despite losing every one of those fights.\n\nI got nothing.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1656083",
+      "author": "The Giraffe",
+      "authorUrl": "/profiles/the%20giraffe",
+      "timestamp": "2026-04-24T15:36:00-04:00",
+      "content": "Vera should have been 15 before the most recent loss, and gone afterwards.  Marcus McGhee should never have been ranked.  The whole \"you beat X you take their spot\" way of doing things is hot garbage, and inferior to other methods, like a points-based system.  My $0.02.\n\n/Ted Talk",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-24T18:01:43.350642+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-04-24T20:01:34.479889+00:00",
+  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
+  "eventDate": "June  6",
+  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
 }
