@@ -677,10 +677,19 @@
       "content": "[Predictions]\n\nMcGhee vs. Wikłacz\nJakub Wikłacz, TKO, R3\nMy glorious King Marcus McGhee took the current champion to a robbery split decision and is going to conquer Poland.",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1656050",
+      "author": "Spockling",
+      "authorUrl": "/profiles/spockling",
+      "timestamp": "2026-04-24T13:31:00-04:00",
+      "content": "[Predictions]\n\nCard is pretty good for apex",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-24T17:16:17.701214+00:00",
-  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
-  "eventDate": "June  6",
-  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
+  "scrapedAt": "2026-04-24T18:01:43.350642+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
