@@ -1530,7 +1530,7 @@
       "authorUrl": "/profiles/lovesong",
       "timestamp": "2026-04-24T15:33:00-04:00",
       "content": "@Sexy Beefer because it's in australia?",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -1539,7 +1539,7 @@
       "authorUrl": "/profiles/cheeseintheclinch",
       "timestamp": "2026-04-24T15:49:00-04:00",
       "content": "[Predictions]\n\n@Sexy Beefer stay in school kid\n\n* Edited at 04.24.2026,  3:49 PM ET *",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -1550,9 +1550,18 @@
       "content": "[Predictions]\n\nLil bro does not know what a time zone is",
       "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1656104",
+      "author": "qqqqqq",
+      "authorUrl": "/profiles/qqqqqq",
+      "timestamp": "2026-04-24T18:09:00-04:00",
+      "content": "Bum austraoalia card 😂😂😂",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-04-24T21:08:52.197245+00:00",
+  "scrapedAt": "2026-04-24T23:01:08.001746+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
