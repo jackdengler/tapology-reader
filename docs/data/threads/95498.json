@@ -4014,7 +4014,7 @@
       "authorUrl": "/profiles/shilo_primetime",
       "timestamp": "2026-04-25T02:11:00-04:00",
       "content": "[Predictions]\n\nSomeone ******* ban that guys forum privileges",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 3
     },
     {
@@ -4023,7 +4023,7 @@
       "authorUrl": "/profiles/shilo_primetime",
       "timestamp": "2026-04-25T02:12:00-04:00",
       "content": "[Predictions]\n\nMods give him a timeout 🤓☝️",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 3
     },
     {
@@ -4068,7 +4068,7 @@
       "authorUrl": "/profiles/maxbyko",
       "timestamp": "2026-04-25T03:48:00-04:00",
       "content": "[Predictions]\n\nDumas vs. McVey\nSedriques Dumas, TKO\ntrust",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -4077,7 +4077,7 @@
       "authorUrl": "/profiles/maxbyko",
       "timestamp": "2026-04-25T03:48:00-04:00",
       "content": "[Predictions]\n\nBueno Silva vs. Montague\nMichelle Montague, SUB, R2\ntrust",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -4133,9 +4133,18 @@
       "content": "[Predictions]\n\nSterling vs. Zalal\nYoussef Zalal\nBy majority decision",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1656178",
+      "author": "AyyLmaonnaise",
+      "authorUrl": "/profiles/ayylmaonnaise",
+      "timestamp": "2026-04-25T06:14:00-04:00",
+      "content": "[Predictions]\n\n@Barzoverjoke zalal was never gassed in that fight. Kattar started to cut the cage off and be aggressive, and Zalal knowing he was up two decided to cruise and just survive to win the fight",
+      "upvotes": 3,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-25T10:07:11.525988+00:00",
+  "scrapedAt": "2026-04-25T11:05:35.415852+00:00",
   "eventName": "UFC Fight Night: Sterling vs. Zalal",
   "eventDate": "April 25",
   "fightcenterUrl": "/fightcenter/events/140114-ufc-fight-night"
