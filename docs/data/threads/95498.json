@@ -3825,7 +3825,7 @@
       "authorUrl": "/profiles/user5",
       "timestamp": "2026-04-24T15:05:00-04:00",
       "content": "[Predictions]\n\nThis will ultimately come down to who can circle faster\n\n* Edited at 04.24.2026,  3:06 PM ET *",
-      "upvotes": 7,
+      "upvotes": 8,
       "downvotes": 0
     },
     {
@@ -4141,10 +4141,28 @@
       "timestamp": "2026-04-25T06:14:00-04:00",
       "content": "[Predictions]\n\n@Barzoverjoke zalal was never gassed in that fight. Kattar started to cut the cage off and be aggressive, and Zalal knowing he was up two decided to cruise and just survive to win the fight",
       "upvotes": 3,
+      "downvotes": 1
+    },
+    {
+      "id": "1656187",
+      "author": "battousai",
+      "authorUrl": "/profiles/battousai",
+      "timestamp": "2026-04-25T07:47:00-04:00",
+      "content": "@AyyLmaonnaise\nOh ok Zalal was just pretending. Thanks for clearing that up for everybody.",
+      "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1656188",
+      "author": "AyyLmaonnaise",
+      "authorUrl": "/profiles/ayylmaonnaise",
+      "timestamp": "2026-04-25T07:52:00-04:00",
+      "content": "[Predictions]\n\n@foppa420 it’s pretty clear he wasn’t gassed in that fight yet people keep pushing that narrative. I am merely pointing out it’s false",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-25T11:05:35.415852+00:00",
+  "scrapedAt": "2026-04-25T11:56:18.783869+00:00",
   "eventName": "UFC Fight Night: Sterling vs. Zalal",
   "eventDate": "April 25",
   "fightcenterUrl": "/fightcenter/events/140114-ufc-fight-night"
