@@ -56,10 +56,19 @@
       "content": "[Predictions]\n\ni agree with grayerman smith vs ko is better than smith vs saygid",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1656172",
+      "author": "yusufff",
+      "authorUrl": "/profiles/yusufff",
+      "timestamp": "2026-04-25T03:50:00-04:00",
+      "content": "Dern vs Weili\nTalbott vs Basharat\nTorres vs Hernandez\nSmith vs Soriano\nRibas vs Kline\nCannonier vs Duncan",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-24T23:01:12.939757+00:00",
-  "eventName": "UFC Fight Night: Allen vs. Costa",
-  "eventDate": "May 16",
-  "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
+  "scrapedAt": "2026-04-25T09:11:48.374556+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
