@@ -639,7 +639,7 @@
       "authorUrl": "/profiles/patrickmoore_1",
       "timestamp": "2026-04-22T10:08:00-04:00",
       "content": "[Predictions]\n\nThe king of rio finishes or dominates cory",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 2
     },
     {
@@ -657,11 +657,20 @@
       "authorUrl": "/profiles/gavdaddydeluxe",
       "timestamp": "2026-04-24T12:04:00-04:00",
       "content": "[Predictions]\n\nSandhagen vs. Bautista II\nCory Sandhagen, DEC\nGonna be really entertaining",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1656209",
+      "author": "qqqqqq",
+      "authorUrl": "/profiles/qqqqqq",
+      "timestamp": "2026-04-25T09:31:00-04:00",
+      "content": "Main event:\nHOLLOWAY vs Mcgregor 2\n\nCo main:\nROYVAL vs Joshua can\n\nFeatured fight:\nMASVIDAL vs Lion Edwards",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-24T17:15:57.042584+00:00",
+  "scrapedAt": "2026-04-25T13:41:28.884772+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
