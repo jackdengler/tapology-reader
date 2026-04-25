@@ -1531,7 +1531,7 @@
       "timestamp": "2026-04-24T15:33:00-04:00",
       "content": "@Sexy Beefer because it's in australia?",
       "upvotes": 4,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1656084",
@@ -1540,7 +1540,7 @@
       "timestamp": "2026-04-24T15:49:00-04:00",
       "content": "[Predictions]\n\n@Sexy Beefer stay in school kid\n\n* Edited at 04.24.2026,  3:49 PM ET *",
       "upvotes": 2,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1656085",
@@ -1549,7 +1549,7 @@
       "timestamp": "2026-04-24T16:04:00-04:00",
       "content": "[Predictions]\n\nLil bro does not know what a time zone is",
       "upvotes": 1,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1656104",
@@ -1559,9 +1559,27 @@
       "content": "Bum austraoalia card 😂😂😂",
       "upvotes": 0,
       "downvotes": 1
+    },
+    {
+      "id": "1656121",
+      "author": "Xion",
+      "authorUrl": "/profiles/xion",
+      "timestamp": "2026-04-24T20:21:00-04:00",
+      "content": "[Predictions]\n\nTuivasa vs. Sutherland\nTai Tuivasa, TKO, R1\nFREE BAM BAM WIN SURELY",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1656136",
+      "author": "Sexy Beefer",
+      "authorUrl": "/profiles/sexy%20beefer",
+      "timestamp": "2026-04-24T23:08:00-04:00",
+      "content": "[Predictions]\n\nI know that. I mean when a UFC show takes place in Australia, it usually doesn't take until 4 in the ******* morning!\n\nOr I guess everyone collectively just forgot about that.\n\n******s......\n\n* Edited at 04.24.2026, 11:09 PM ET *",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-24T23:01:08.001746+00:00",
+  "scrapedAt": "2026-04-25T03:34:47.121295+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
