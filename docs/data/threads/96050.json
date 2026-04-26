@@ -685,10 +685,19 @@
       "timestamp": "2026-04-25T21:11:00-04:00",
       "content": "[Predictions]\n\nmainevent should be for interim lhw title between jiri prochazka vs magomed ankalaev comain volk defending against evloev, mcgregor vs holloway, bsd vs paddy, dana vs eddie hearn",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 2
+    },
+    {
+      "id": "1657738",
+      "author": "B7L7",
+      "authorUrl": "/profiles/b7l7",
+      "timestamp": "2026-04-26T02:40:00-04:00",
+      "content": "[Predictions]\n\n@Khabib is the goat Jiri doesn’t deserve another title shot after the ****show we just saw. It would just be Diego Lopes 2.0",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-26T04:03:35.638668+00:00",
+  "scrapedAt": "2026-04-26T08:45:52.469523+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
