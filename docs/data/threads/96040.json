@@ -693,7 +693,7 @@
       "authorUrl": "/profiles/battousai",
       "timestamp": "2026-04-24T15:21:00-04:00",
       "content": "Marcus McGhee went from being ranked #12 to not being ranked at all after losing to the current champ. Next fight is a prelim fight in the Apex against an unranked guy.\n\nMeanwhile Chito Vera hasn't won a fight in 3 years, has gotten 3 ranked opponents since losing to the (at the time) champion in OMalley, and is still (somehow) ranked in the top 10 despite losing every one of those fights.\n\nI got nothing.",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -702,8 +702,8 @@
       "authorUrl": "/profiles/the%20giraffe",
       "timestamp": "2026-04-24T15:36:00-04:00",
       "content": "Vera should have been 15 before the most recent loss, and gone afterwards.  Marcus McGhee should never have been ranked.  The whole \"you beat X you take their spot\" way of doing things is hot garbage, and inferior to other methods, like a points-based system.  My $0.02.\n\n/Ted Talk",
-      "upvotes": 1,
-      "downvotes": 0
+      "upvotes": 2,
+      "downvotes": 1
     },
     {
       "id": "1656217",
@@ -713,10 +713,19 @@
       "content": "[Predictions]\n\nSchnell vs. Rodriguez\nImanol Rodriguez, TKO, R1\nSchnell is cooked\n\nMcGhee vs. Wikłacz\nJakub Wikłacz, DEC\nTylko zwycięstwo!!",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1657702",
+      "author": "Gregory",
+      "authorUrl": "/profiles/gregory",
+      "timestamp": "2026-04-25T23:39:00-04:00",
+      "content": "@The Giraffe knows what he's talking about",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-25T15:02:33.270055+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-04-26T04:03:10.415584+00:00",
+  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
+  "eventDate": "June  6",
+  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
 }
