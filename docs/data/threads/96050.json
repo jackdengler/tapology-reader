@@ -693,11 +693,20 @@
       "authorUrl": "/profiles/b7l7",
       "timestamp": "2026-04-26T02:40:00-04:00",
       "content": "[Predictions]\n\n@Khabib is the goat Jiri doesn’t deserve another title shot after the ****show we just saw. It would just be Diego Lopes 2.0",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1657834",
+      "author": "Khabib is the goat",
+      "authorUrl": "/profiles/khabib%20is%20the%20goat",
+      "timestamp": "2026-04-26T17:28:00-04:00",
+      "content": "[Predictions]\n\n@B7L7 i agree actually neither does big ank so theres not really another good contender for that maybe costa vs reyes",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-26T08:45:52.469523+00:00",
+  "scrapedAt": "2026-04-26T21:56:40.133959+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
