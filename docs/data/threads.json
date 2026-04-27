@@ -1,12 +1,25 @@
 [
   {
+    "id": "97171",
+    "title": "UFC Fight Night",
+    "url": "/forum/threads/97171",
+    "isSticky": false,
+    "lastPostTime": "2026-04-27 14:13:46 -0400",
+    "replyCount": 8,
+    "snippet": "\" Hines title run starts now\"(5 minutes ago)",
+    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "eventName": "UFC Fight Night: Allen vs. Costa",
+    "eventDate": "May 16",
+    "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
+  },
+  {
     "id": "95747",
     "title": "UFC Fight Night: Della Maddalena vs. Prates",
     "url": "/forum/threads/95747",
     "isSticky": false,
-    "lastPostTime": "2026-04-27 12:55:03 -0400",
-    "replyCount": 260,
-    "snippet": "\"Steele vs. Mar Fan Dom Mar Fan, DEC FOTN incoming! Creo que arrancamos con un...\"(12 seconds ago)",
+    "lastPostTime": "2026-04-27 13:52:25 -0400",
+    "replyCount": 264,
+    "snippet": "\"Micallef vs. Gorimbo Jonathan Micallef, TKO, R2 Me gusta el matchamking para ...\"(27 minutes ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC Fight Night",
     "eventDate": "August 29",
@@ -19,11 +32,11 @@
     "isSticky": false,
     "lastPostTime": "2026-04-27 12:51:15 -0400",
     "replyCount": 3,
-    "snippet": "\" lets ******* goooooooooooooooooooo\"(4 minutes ago)",
+    "snippet": "\" lets ******* goooooooooooooooooooo\"(1 hour ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night: Allen vs. Costa",
-    "eventDate": "May 16",
-    "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
+    "eventName": "UFC Fight Night: Song vs. Figueiredo",
+    "eventDate": "May 30",
+    "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
   },
   {
     "id": "95823",
@@ -32,7 +45,7 @@
     "isSticky": false,
     "lastPostTime": "2026-04-27 08:21:17 -0400",
     "replyCount": 210,
-    "snippet": "\"Miller vs. Gordon Jim Miller, DEC \"that calf-\" - joe rogan  \"(4 hours ago)",
+    "snippet": "\"Miller vs. Gordon Jim Miller, DEC \"that calf-\" - joe rogan  \"(5 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC 328: Chimaev vs. Strickland",
     "eventDate": "May  9",
@@ -45,7 +58,7 @@
     "isSticky": false,
     "lastPostTime": "2026-04-27 01:04:57 -0400",
     "replyCount": 75,
-    "snippet": "\" @Khabib is the goat&nbsp;the UFC are clearly moving away from interim belts,...\"(11 hours ago)",
+    "snippet": "\" @Khabib is the goat&nbsp;the UFC are clearly moving away from interim belts,...\"(13 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC 329",
     "eventDate": "July 11",
@@ -58,7 +71,7 @@
     "isSticky": false,
     "lastPostTime": "2026-04-26 17:37:18 -0400",
     "replyCount": 19,
-    "snippet": "\" @Gilpin&nbsp;i think the main will be islam vs morales and comain yan vs mer...\"(19 hours ago)",
+    "snippet": "\" @Gilpin&nbsp;i think the main will be islam vs morales and comain yan vs mer...\"(20 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC 330",
     "eventDate": "August 15",
@@ -89,18 +102,5 @@
     "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
     "eventDate": "June  6",
     "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
-  },
-  {
-    "id": "97171",
-    "title": "UFC Fight Night",
-    "url": "/forum/threads/97171",
-    "isSticky": false,
-    "lastPostTime": "2026-04-25 23:03:09 -0400",
-    "replyCount": 7,
-    "snippet": "\" Definitely not important, but it's called the Paycom Center now.&nbsp;  And ...\"(1 day ago)",
-    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night: Song vs. Figueiredo",
-    "eventDate": "May 30",
-    "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
   }
 ]
