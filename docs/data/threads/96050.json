@@ -28,7 +28,7 @@
       "timestamp": "2026-03-13T20:31:00-04:00",
       "content": "Charles vs Armen 2. Ilia beats Gaethje in June and vacates to move up to fight Islam. Vacant lightweight belt on the line",
       "upvotes": 7,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1635169",
@@ -704,9 +704,18 @@
       "content": "[Predictions]\n\n@B7L7 i agree actually neither does big ank so theres not really another good contender for that maybe costa vs reyes",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1657880",
+      "author": "B7L7",
+      "authorUrl": "/profiles/b7l7",
+      "timestamp": "2026-04-27T01:04:00-04:00",
+      "content": "[Predictions]\n\n@Khabib is the goat the UFC are clearly moving away from interim belts, they can just make a title eliminator as one of the featured fights of the main card. Plus, this is IFW, no way the main event is an interim LHW title fight.",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-26T21:56:40.133959+00:00",
+  "scrapedAt": "2026-04-27T06:42:06.413489+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
