@@ -667,7 +667,7 @@
       "timestamp": "2026-04-25T09:31:00-04:00",
       "content": "Main event:\nHOLLOWAY vs Mcgregor 2\n\nCo main:\nROYVAL vs Joshua can\n\nFeatured fight:\nMASVIDAL vs Lion Edwards",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1656435",
@@ -685,7 +685,7 @@
       "timestamp": "2026-04-25T21:11:00-04:00",
       "content": "[Predictions]\n\nmainevent should be for interim lhw title between jiri prochazka vs magomed ankalaev comain volk defending against evloev, mcgregor vs holloway, bsd vs paddy, dana vs eddie hearn",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 4
     },
     {
       "id": "1657738",
@@ -711,11 +711,20 @@
       "authorUrl": "/profiles/b7l7",
       "timestamp": "2026-04-27T01:04:00-04:00",
       "content": "[Predictions]\n\n@Khabib is the goat the UFC are clearly moving away from interim belts, they can just make a title eliminator as one of the featured fights of the main card. Plus, this is IFW, no way the main event is an interim LHW title fight.",
+      "upvotes": 3,
+      "downvotes": 0
+    },
+    {
+      "id": "1658011",
+      "author": "chems",
+      "authorUrl": "/profiles/chems",
+      "timestamp": "2026-04-27T19:56:00-04:00",
+      "content": "[Predictions]\n\nBSD sending this english bum back to PFL get ready to learn Chinese bud",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-27T06:42:06.413489+00:00",
+  "scrapedAt": "2026-04-28T00:06:30.697634+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
