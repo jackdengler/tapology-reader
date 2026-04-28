@@ -450,7 +450,7 @@
       "authorUrl": "/profiles/swrs",
       "timestamp": "2026-04-25T16:22:00-04:00",
       "content": "[Predictions]\n\nCutelaba vs. Stirling\nNavajo Stirling, DEC\n30-27 masterclass",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -459,7 +459,7 @@
       "authorUrl": "/profiles/bloodspraying",
       "timestamp": "2026-04-25T20:37:00-04:00",
       "content": "[Predictions]\n\nKape vs. Horiguchi II\nKyoji Horiguchi, DEC\nclear decision for the ***** or he gets sadly chinned",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -468,11 +468,20 @@
       "authorUrl": "/profiles/elitemmapicks",
       "timestamp": "2026-04-26T10:54:00-04:00",
       "content": "[Predictions]\n\nIon Cutelaba vs Navajo Stirling\nPick: Stirling via decision\n74% of Tapology users (108 users) are picking Stirling (81% decision)\nStirling is 3.9 years younger (28.6 vs 32.5)\nStirling has 4” reach edge (79” vs 75”)\nStirling has +3.58 strike differential/min vs +0.95\nStirling proj. +15.1 significant strikes attempted\nStirling proj. +20.1 significant strikes landed\nStirling proj. +10.1 head strikes landed\nStirling proj. 0.50 knockdowns vs 0.08\nCutelaba proj. 2.6 takedowns landed (7.7 attempts) vs 0.9 (3.5 attempts)\nCutelaba proj. 0.20 submission attempts vs 0.00\nStirling proj. 38.4% finish chance vs 25.8% and 35.9% decision",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1658144",
+      "author": "B7L7",
+      "authorUrl": "/profiles/b7l7",
+      "timestamp": "2026-04-28T15:55:00-04:00",
+      "content": "[Predictions]\n\nApparently ***** is out of this fight. Sucks to see, this would be such a banger and a fight where the winner would cement himself as the next title challenger. I reckon Kape vs Kavanagh or just pull Kape from this card and give him a title shot as soon as the champ is ready (if Pantoja’s not yet ready to come back at that time). If Pantoja will get the next shot, then Kape vs Van/Taira loser.\n\n* Edited at 04.28.2026,  3:55 PM ET *",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-26T15:02:03.266979+00:00",
+  "scrapedAt": "2026-04-28T20:42:15.249392+00:00",
   "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
   "eventDate": "June 20",
   "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"

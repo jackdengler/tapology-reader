@@ -36,7 +36,7 @@
       "authorUrl": "/profiles/grayerman",
       "timestamp": "2026-04-14T15:32:00-04:00",
       "content": "Go Birds",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 2
     },
     {
@@ -46,7 +46,7 @@
       "timestamp": "2026-04-14T16:02:00-04:00",
       "content": "Philly ******* sucks buts its only an hour from me and the company I work for has box seats at the Xfinity arena.",
       "upvotes": 1,
-      "downvotes": 3
+      "downvotes": 5
     },
     {
       "id": "1651968",
@@ -55,7 +55,7 @@
       "timestamp": "2026-04-14T17:39:00-04:00",
       "content": "KHAMZAT vs. Carlos Ulberg\n\nISLAM MAKHACHEV vs. Kamaru Usman\n\nUMAR vs. Petr Yan",
       "upvotes": 1,
-      "downvotes": 13
+      "downvotes": 14
     },
     {
       "id": "1651969",
@@ -64,7 +64,7 @@
       "timestamp": "2026-04-14T17:41:00-04:00",
       "content": "VS",
       "upvotes": 2,
-      "downvotes": 12
+      "downvotes": 13
     },
     {
       "id": "1651970",
@@ -91,7 +91,7 @@
       "timestamp": "2026-04-14T18:08:00-04:00",
       "content": "Khamzat vs pyfer pyfer round. 3 ko",
       "upvotes": 0,
-      "downvotes": 7
+      "downvotes": 8
     },
     {
       "id": "1651974",
@@ -154,7 +154,7 @@
       "timestamp": "2026-04-16T10:14:00-04:00",
       "content": "@KHAMZAT_MAKHACHEV are you an idiot",
       "upvotes": 1,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1652880",
@@ -181,10 +181,19 @@
       "timestamp": "2026-04-26T17:37:00-04:00",
       "content": "@Gilpin i think the main will be islam vs morales and comain yan vs merab 3",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1658143",
+      "author": "Zinaum",
+      "authorUrl": "/profiles/zinaum",
+      "timestamp": "2026-04-28T15:19:00-04:00",
+      "content": "Islam vs Ian Garry\nMerab vs Yan III",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-26T21:55:24.676293+00:00",
+  "scrapedAt": "2026-04-28T20:42:20.238798+00:00",
   "eventName": "UFC 330",
   "eventDate": "August 15",
   "fightcenterUrl": "/fightcenter/events/142341-ufc-330"
