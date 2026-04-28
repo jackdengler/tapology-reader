@@ -667,7 +667,7 @@
       "timestamp": "2026-04-25T09:31:00-04:00",
       "content": "Main event:\nHOLLOWAY vs Mcgregor 2\n\nCo main:\nROYVAL vs Joshua can\n\nFeatured fight:\nMASVIDAL vs Lion Edwards",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1656435",
@@ -693,7 +693,7 @@
       "authorUrl": "/profiles/b7l7",
       "timestamp": "2026-04-26T02:40:00-04:00",
       "content": "[Predictions]\n\n@Khabib is the goat Jiri doesn’t deserve another title shot after the ****show we just saw. It would just be Diego Lopes 2.0",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -720,11 +720,29 @@
       "authorUrl": "/profiles/chems",
       "timestamp": "2026-04-27T19:56:00-04:00",
       "content": "[Predictions]\n\nBSD sending this english bum back to PFL get ready to learn Chinese bud",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1658028",
+      "author": "GSPGOAT123",
+      "authorUrl": "/profiles/gspgoat123",
+      "timestamp": "2026-04-27T22:15:00-04:00",
+      "content": "[Predictions]\n\nI've been hearing lots of stuff about McGregor vs Holloway on this card.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1658036",
+      "author": "tepid55",
+      "authorUrl": "/profiles/tepid55",
+      "timestamp": "2026-04-27T23:05:00-04:00",
+      "content": "[Predictions]\n\n@GSPGOAT123\n\nIf that fight happens, McGregor is getting knocked out.",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-28T00:06:30.697634+00:00",
+  "scrapedAt": "2026-04-28T04:06:44.289766+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
