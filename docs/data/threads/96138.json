@@ -486,7 +486,7 @@
       "authorUrl": "/profiles/b7l7",
       "timestamp": "2026-04-29T01:02:00-04:00",
       "content": "[Predictions]\n\nAnd it seems it's not true so I've been baited by ******* Muhammad Mokaev. God I hate that guy.",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -495,12 +495,21 @@
       "authorUrl": "/profiles/qqqqqq",
       "timestamp": "2026-04-29T06:20:00-04:00",
       "content": "Silly Russians never tell the truth. This is why I only believe American news.",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1658414",
+      "author": "razzles6",
+      "authorUrl": "/profiles/razzles6",
+      "timestamp": "2026-04-29T18:57:00-04:00",
+      "content": "Murtazali Magomedov vs Melsik Baghdasaryan added",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-29T11:56:35.678320+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-04-29T23:12:52.594375+00:00",
+  "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
+  "eventDate": "June 20",
+  "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
 }
