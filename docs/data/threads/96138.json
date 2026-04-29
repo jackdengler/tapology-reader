@@ -478,7 +478,7 @@
       "timestamp": "2026-04-28T15:55:00-04:00",
       "content": "[Predictions]\n\nApparently ***** is out of this fight. Sucks to see, this would be such a banger and a fight where the winner would cement himself as the next title challenger. I reckon Kape vs Kavanagh or just pull Kape from this card and give him a title shot as soon as the champ is ready (if Pantoja’s not yet ready to come back at that time). If Pantoja will get the next shot, then Kape vs Van/Taira loser.\n\n* Edited at 04.28.2026,  3:55 PM ET *",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1658209",
@@ -487,11 +487,20 @@
       "timestamp": "2026-04-29T01:02:00-04:00",
       "content": "[Predictions]\n\nAnd it seems it's not true so I've been baited by ******* Muhammad Mokaev. God I hate that guy.",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1658249",
+      "author": "qqqqqq",
+      "authorUrl": "/profiles/qqqqqq",
+      "timestamp": "2026-04-29T06:20:00-04:00",
+      "content": "Silly Russians never tell the truth. This is why I only believe American news.",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-29T06:40:09.237752+00:00",
-  "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
-  "eventDate": "June 20",
-  "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
+  "scrapedAt": "2026-04-29T11:56:35.678320+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
