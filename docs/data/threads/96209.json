@@ -397,7 +397,7 @@
       "timestamp": "2026-04-20T19:53:00-04:00",
       "content": "MCKINNEY vs Rafael Fizev\n\nMOTTA vs Sadikhov 2",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1655375",
@@ -441,11 +441,20 @@
       "authorUrl": "/profiles/spockling",
       "timestamp": "2026-04-28T19:26:00-04:00",
       "content": "[Predictions]\n\nBro wants talbott and whittaker to die live on paramount\n\n* Edited at 04.28.2026,  7:26 PM ET *",
+      "upvotes": 2,
+      "downvotes": 0
+    },
+    {
+      "id": "1658204",
+      "author": "crankmanz",
+      "authorUrl": "/profiles/crankmanz",
+      "timestamp": "2026-04-28T22:56:00-04:00",
+      "content": "@Spockling talbott has a decent chance to win plus who in the division is umar gonna fight right now",
       "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-29T00:09:06.222320+00:00",
+  "scrapedAt": "2026-04-29T04:05:19.132216+00:00",
   "eventName": "UFC Fight Night: Allen vs. Costa",
   "eventDate": "May 16",
   "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
