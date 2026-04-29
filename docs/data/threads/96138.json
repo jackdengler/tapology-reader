@@ -99,7 +99,7 @@
       "authorUrl": "/profiles/cheeseintheclinch",
       "timestamp": "2026-03-24T21:41:00-04:00",
       "content": "BANGER ALERTTTTTT",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -108,7 +108,7 @@
       "authorUrl": "/profiles/cheeseintheclinch",
       "timestamp": "2026-03-24T21:42:00-04:00",
       "content": "This means Kavanagh vs Royval will happen at some point this year",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -479,9 +479,18 @@
       "content": "[Predictions]\n\nApparently ***** is out of this fight. Sucks to see, this would be such a banger and a fight where the winner would cement himself as the next title challenger. I reckon Kape vs Kavanagh or just pull Kape from this card and give him a title shot as soon as the champ is ready (if Pantoja’s not yet ready to come back at that time). If Pantoja will get the next shot, then Kape vs Van/Taira loser.\n\n* Edited at 04.28.2026,  3:55 PM ET *",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1658209",
+      "author": "B7L7",
+      "authorUrl": "/profiles/b7l7",
+      "timestamp": "2026-04-29T01:02:00-04:00",
+      "content": "[Predictions]\n\nAnd it seems it's not true so I've been baited by ******* Muhammad Mokaev. God I hate that guy.",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-28T20:42:15.249392+00:00",
+  "scrapedAt": "2026-04-29T06:40:09.237752+00:00",
   "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
   "eventDate": "June 20",
   "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
