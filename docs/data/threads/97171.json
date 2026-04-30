@@ -46,7 +46,7 @@
       "timestamp": "2026-04-24T18:03:00-04:00",
       "content": "[Predictions]\n\ni think the mainevent should be aljamain sterling vs arnold allen, comain jacobe smith vs saygid izagakhmaev 5 rounds, featured bout jared cannonier vs cld, maincard 4 geoff neal vs kevin holland, maincard 5 derrick lewis vs tyrell fortune, maincard opener amanda ribas vs fatima kline, featured prelim zach reese vs kelvin gastelum",
       "upvotes": 0,
-      "downvotes": 3
+      "downvotes": 4
     },
     {
       "id": "1656103",
@@ -101,9 +101,18 @@
       "content": "Brad Tavares vs Marc-Andre Barriault added",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1658462",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-04-30T05:15:00-04:00",
+      "content": "[Predictions]\n\nAlvin Hines vs Allen Frye Jr.\nPick: Hines via round 2 KO\n91% of Tapology users (168 users) are picking Hines (75% KO)\nFrye Jr. is 6.5 years younger (28.3 vs 34.8)\nFrye Jr. has 6” reach edge (80” vs 74”)\nHines has -2.00 strike differential/min vs -2.07\nHines proj. +48.6 significant strikes attempted\nHines proj. +19.7 significant strikes landed\nHines proj. +20.2 head strikes landed\nBoth fighters proj. for 0.00 knockdowns\nHines proj. 0.5 takedowns landed (10.0 attempts) vs 0.0 (0.0 attempts)\nBoth fighters proj. for 0.00 submission attempts\nFrye Jr. proj. 42.9% finish chance vs 37.5% and 19.6% decision\nHines has 3:0 KO win/loss ratio (1/3 KO’s in round 1, 1/3 in round 2, 1/3 in round 3)\nHines has 3:0 submission win/loss ratio (1/3 subs in round 1, 2/3 subs in round 2)\nFrye Jr. has 6:0 KO win/loss ratio\nFrye Jr. has 0:0 submission win/loss ratio",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-29T23:12:57.612437+00:00",
+  "scrapedAt": "2026-04-30T09:26:47.328149+00:00",
   "eventName": "UFC Fight Night: Allen vs. Costa",
   "eventDate": "May 16",
   "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
