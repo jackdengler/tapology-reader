@@ -2043,7 +2043,7 @@
       "authorUrl": "/profiles/razzles6",
       "timestamp": "2026-04-29T13:58:00-04:00",
       "content": "finally a title fight with some actual beef behind it, when's the last time we had one of these",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -2053,10 +2053,19 @@
       "timestamp": "2026-04-29T14:55:00-04:00",
       "content": "[Predictions]\n\nThey better add one more fight to this card!",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1658417",
+      "author": "carloscanomx",
+      "authorUrl": "/profiles/carloscanomx",
+      "timestamp": "2026-04-29T19:15:00-04:00",
+      "content": "[Predictions]\n\nSabatini vs. Gomis\nPat Sabatini, SUB, R2\nEsta pelea me gusta para el de Pennsylvania, es un peleador que sabe controlar la pelea y el ritmo de esta, creo que una derrota por KO contra Lopes no define su carrera y otra contra Damon Jackson. Gomis ha batallado para dominar sus peleas y ese KO Power que se pensaba que podía tener, no ha relucido en la UFC. Sabatini debería ser favorito pagando -200 approx. 8.5/10",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-29T20:23:47.059010+00:00",
+  "scrapedAt": "2026-04-30T00:08:46.499017+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"
