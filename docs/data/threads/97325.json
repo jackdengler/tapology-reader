@@ -118,10 +118,19 @@
       "timestamp": "2026-04-30T07:41:00-04:00",
       "content": "Oktagon's Vlasto Cepo rumoured to be on this card as he signed with Iridium.",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1658590",
+      "author": "DamienHouse",
+      "authorUrl": "/profiles/damienhouse",
+      "timestamp": "2026-04-30T18:47:00-04:00",
+      "content": "Johnny Walker vs Ante Delija might be on this card, according to mmamania.",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-30T11:56:04.922762+00:00",
+  "scrapedAt": "2026-04-30T23:09:41.359151+00:00",
   "eventName": "UFC Fight Night: Allen vs. Costa",
   "eventDate": "May 16",
   "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
