@@ -55,7 +55,7 @@
       "timestamp": "2026-03-24T16:42:00-04:00",
       "content": "[Predictions]\n\nKape by murder",
       "upvotes": 2,
-      "downvotes": 5
+      "downvotes": 6
     },
     {
       "id": "1641868",
@@ -64,7 +64,7 @@
       "timestamp": "2026-03-24T16:55:00-04:00",
       "content": "[Predictions]\n\nKape vs. Horiguchi II\nKyoji Horiguchi, DEC\nThe Manel Kape hype train ends here.  I also want Kape to lose because he is a despicable human being.",
       "upvotes": 1,
-      "downvotes": 7
+      "downvotes": 8
     },
     {
       "id": "1641869",
@@ -515,9 +515,18 @@
       "content": "[Predictions]\n\nMesquita vs. Mullins\nBia Mesquita, TKO, R3\nEasy win",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1658553",
+      "author": "AminMMA",
+      "authorUrl": "/profiles/aminmma",
+      "timestamp": "2026-04-30T14:51:00-04:00",
+      "content": "[Predictions]\n\nLmfao you guys know Horiguchi is absolutely screwed right? 63/37 for Horiguchi is diabolical",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-04-30T18:48:24.816108+00:00",
+  "scrapedAt": "2026-04-30T20:22:17.190706+00:00",
   "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
   "eventDate": "June 20",
   "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
