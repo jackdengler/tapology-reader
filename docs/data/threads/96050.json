@@ -900,11 +900,29 @@
       "authorUrl": "/profiles/biscuit%20boy",
       "timestamp": "2026-05-01T15:00:00-04:00",
       "content": "[Predictions]\n\nWonder why the UFC still hasn't officially announced the main card yet. Seems like we're getting pretty close to it and for a card this big it seems like it should be announced sooner",
-      "upvotes": 1,
+      "upvotes": 3,
       "downvotes": 1
+    },
+    {
+      "id": "1658779",
+      "author": "Socalryno89",
+      "authorUrl": "/profiles/socalryno89",
+      "timestamp": "2026-05-01T15:56:00-04:00",
+      "content": "[Predictions]\n\n@Biscuit boy @Biscuit boy I totally agree they’ve been doing that lot lately it’s dumb",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1658787",
+      "author": "patrickmoore_1",
+      "authorUrl": "/profiles/patrickmoore_1",
+      "timestamp": "2026-05-01T16:20:00-04:00",
+      "content": "[Predictions]\n\nWhy are so many picking against reese? Was gandra spamming hooks on the punching bag jose medina that moving? I feel like Reese is a lot more proven and he arguably should be coming off of a win over michel pereira",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-01T19:41:03.740777+00:00",
+  "scrapedAt": "2026-05-01T21:10:29.795471+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
