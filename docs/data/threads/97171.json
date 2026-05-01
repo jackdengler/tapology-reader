@@ -99,8 +99,8 @@
       "authorUrl": "/profiles/razzles6",
       "timestamp": "2026-04-29T18:40:00-04:00",
       "content": "Brad Tavares vs Marc-Andre Barriault added",
-      "upvotes": 0,
-      "downvotes": 0
+      "upvotes": 1,
+      "downvotes": 1
     },
     {
       "id": "1658462",
@@ -119,10 +119,28 @@
       "content": "[Predictions]\n\nDione Barbosa vs Veronica Hardy\nPick: Barbosa via decision\n33% of Tapology users (39 users) are picking blank (100% decision)\nHardy is 3.5 years younger (30.7 vs 34.2)\nBarbosa has 2” reach edge (66” vs 64”)\nHardy has -0.18 strike differential/min vs -0.19\nHardy proj. +15.6 significant strikes attempted\nBoth fighters proj. for 40 significant strikes landed\nBarbosa proj. +1.4 head strikes landed\nHardy proj. 0.06 knockdowns vs 0.00\nBarbosa proj. 2.5 takedowns landed (5.5 attempts) vs 0.8 (2.0 attempts)\nBarbosa has 11:8 takedown ratio\nHardy has 7:15 takedown ratio\nBarbosa proj. 4.1 mins of control time vs 3.1 mins\nBarbosa proj. 1.70 submission attempts vs 0.30\nBarbosa has 8:2 submission attempt ratio (25% converted, 0% conceded)\nHardy has 3:6 submission attempt ratio (33% converted, 17% conceded)\nBarbosa proj. 21.6% finish chance vs 13.2% and 65.1% decision",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1658617",
+      "author": "JReynolds47",
+      "authorUrl": "/profiles/jreynolds47",
+      "timestamp": "2026-04-30T23:38:00-04:00",
+      "content": "[Predictions]\n\nBarbosa vs. Hardy\nVeronica Hardy, DEC\nWhy does she beat all the hot chicks. This **** ends here",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1658623",
+      "author": "Josh7",
+      "authorUrl": "/profiles/josh7",
+      "timestamp": "2026-05-01T00:09:00-04:00",
+      "content": "Is it confirmed or just rumor?\n\n* Edited at 05.01.2026, 12:09 AM ET *",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-30T11:56:10.253001+00:00",
-  "eventName": "UFC Fight Night: Song vs. Figueiredo",
-  "eventDate": "May 30",
-  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
+  "scrapedAt": "2026-05-01T04:16:43.673183+00:00",
+  "eventName": "UFC Fight Night: Allen vs. Costa",
+  "eventDate": "May 16",
+  "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
 }

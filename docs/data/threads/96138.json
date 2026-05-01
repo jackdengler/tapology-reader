@@ -54,7 +54,7 @@
       "authorUrl": "/profiles/spockling",
       "timestamp": "2026-03-24T16:42:00-04:00",
       "content": "[Predictions]\n\nKape by murder",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 6
     },
     {
@@ -72,7 +72,7 @@
       "authorUrl": "/profiles/shavkatsbelt",
       "timestamp": "2026-03-24T16:59:00-04:00",
       "content": "love how they put this in the apex instead of putting this in japan",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -522,7 +522,7 @@
       "authorUrl": "/profiles/aminmma",
       "timestamp": "2026-04-30T14:51:00-04:00",
       "content": "[Predictions]\n\nLmfao you guys know Horiguchi is absolutely screwed right? 63/37 for Horiguchi is diabolical",
-      "upvotes": 0,
+      "upvotes": 2,
       "downvotes": 2
     },
     {
@@ -542,10 +542,19 @@
       "content": "[Predictions]\n\nYes, that's him.",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1658599",
+      "author": "cashmoneycash",
+      "authorUrl": "/profiles/cashmoneycash",
+      "timestamp": "2026-04-30T20:33:00-04:00",
+      "content": "At long last the goat Baghdasaryan is back he will make this look easy",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-04-30T23:09:56.486021+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-05-01T04:20:05.107861+00:00",
+  "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
+  "eventDate": "June 20",
+  "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
 }
