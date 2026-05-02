@@ -1,7 +1,7 @@
 {
   "id": "95747",
   "title": "UFC Fight NightUFC Fight Night: Della Maddalena vs. Prates",
-  "totalPages": 89,
+  "totalPages": 90,
   "posts": [
     {
       "id": "1628621",
@@ -16823,9 +16823,27 @@
       "content": "Predictions: 4 of 7 Winners, 2 Perfect, 290 Points\n|\nTied for 7437th\n\nJust how monstrous was Shavkat?",
       "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1628621",
+      "author": "Tapology",
+      "authorUrl": "/profiles/tapology",
+      "timestamp": "2026-02-28T20:23:00-05:00",
+      "content": "The official Tapology discussion thread for the event!",
+      "upvotes": 31,
+      "downvotes": 3
+    },
+    {
+      "id": "1660214",
+      "author": "Mussauer",
+      "authorUrl": "/profiles/mussauer",
+      "timestamp": "2026-05-02T17:17:00-04:00",
+      "content": "Predictions: 9 of 12 Winners, 7 Perfect, 715 Points\n|\nTied for 1369th\n\nJust one thing…\n“Cigarlos” Prates just smoked JDM",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-02T21:07:30.395016+00:00",
+  "scrapedAt": "2026-05-02T22:06:34.987054+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
