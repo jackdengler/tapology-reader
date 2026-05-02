@@ -108,7 +108,7 @@
       "authorUrl": "/profiles/blinked",
       "timestamp": "2026-03-05T03:26:00-05:00",
       "content": "[Predictions]\n\nateba vs ozzy is horrible matchmaking what the ****",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -1565,7 +1565,7 @@
       "author": "AyyLmaonnaise",
       "authorUrl": "/profiles/ayylmaonnaise",
       "timestamp": "2026-04-08T10:27:00-04:00",
-      "content": "Rip mezzy",
+      "content": "[Predictions]\n\nRip mezzy",
       "upvotes": 2,
       "downvotes": 3
     },
@@ -2106,7 +2106,7 @@
       "authorUrl": "/profiles/msherrera15",
       "timestamp": "2026-05-01T11:40:00-04:00",
       "content": "[Predictions]\n\nChimaev vs. Strickland\nSean Strickland, TKO, R5\nChimaev definitely dominating early, probably winning 3-4 rounds. Strickland will need a finish and pull it out at the end\n\nGreen vs. Stephens\nKing Green, TKO, R3\nW fight",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -2124,11 +2124,20 @@
       "authorUrl": "/profiles/eko%20david%20rianto",
       "timestamp": "2026-05-02T05:41:00-04:00",
       "content": "[Predictions]\n\nChimaev vs. Strickland\nKhamzat Chimaev, SUB, R3\nKhamzat Chimaev Win...",
+      "upvotes": 1,
+      "downvotes": 1
+    },
+    {
+      "id": "1660141",
+      "author": "Miguelpicks",
+      "authorUrl": "/profiles/miguelpicks",
+      "timestamp": "2026-05-02T11:01:00-04:00",
+      "content": "[Predictions]\n\nSo Sean is doing a good job of selling this fight but he was genuinely happy to just be able to hang with khamzat in some sessions and not get completely obliterated. He is purposely avoiding answering the direct or implied question of \"did you get beat up during training\" even though he did and all their training partners know this. Hopefully the open the over/under at 4.5 and they give a nice plus number for the under.",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-02T10:16:33.288159+00:00",
+  "scrapedAt": "2026-05-02T15:14:23.817910+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"

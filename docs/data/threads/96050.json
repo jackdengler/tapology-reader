@@ -927,7 +927,7 @@
       "authorUrl": "/profiles/zinaum",
       "timestamp": "2026-05-01T20:39:00-04:00",
       "content": "[Predictions]\n\nWhittaker vs Krylov added as Rob debut in 205",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -937,10 +937,19 @@
       "timestamp": "2026-05-01T21:50:00-04:00",
       "content": "Durden vs Osbourne, the fight literally nobody asked for, especially during IFW. Not at all meaningful for the rankings, not an entertainment fight, so why put it on this card and not a fight night?",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
+    },
+    {
+      "id": "1660118",
+      "author": "Richmond1724",
+      "authorUrl": "/profiles/richmond1724",
+      "timestamp": "2026-05-02T10:16:00-04:00",
+      "content": "Cody Durden vs. Ode Osbourne On a numbered card the ufc are so smart",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-02T03:53:34.280168+00:00",
+  "scrapedAt": "2026-05-02T15:14:52.572057+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
