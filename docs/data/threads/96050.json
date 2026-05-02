@@ -900,7 +900,7 @@
       "authorUrl": "/profiles/biscuit%20boy",
       "timestamp": "2026-05-01T15:00:00-04:00",
       "content": "[Predictions]\n\nWonder why the UFC still hasn't officially announced the main card yet. Seems like we're getting pretty close to it and for a card this big it seems like it should be announced sooner",
-      "upvotes": 3,
+      "upvotes": 5,
       "downvotes": 1
     },
     {
@@ -909,7 +909,7 @@
       "authorUrl": "/profiles/socalryno89",
       "timestamp": "2026-05-01T15:56:00-04:00",
       "content": "[Predictions]\n\n@Biscuit boy @Biscuit boy I totally agree they’ve been doing that lot lately it’s dumb",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -919,10 +919,28 @@
       "timestamp": "2026-05-01T16:20:00-04:00",
       "content": "[Predictions]\n\nWhy are so many picking against reese? Was gandra spamming hooks on the punching bag jose medina that moving? I feel like Reese is a lot more proven and he arguably should be coming off of a win over michel pereira",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1658847",
+      "author": "Zinaum",
+      "authorUrl": "/profiles/zinaum",
+      "timestamp": "2026-05-01T20:39:00-04:00",
+      "content": "[Predictions]\n\nWhittaker vs Krylov added as Rob debut in 205",
+      "upvotes": 1,
+      "downvotes": 1
+    },
+    {
+      "id": "1658858",
+      "author": "rpadilla149",
+      "authorUrl": "/profiles/rpadilla149",
+      "timestamp": "2026-05-01T21:50:00-04:00",
+      "content": "Durden vs Osbourne, the fight literally nobody asked for, especially during IFW. Not at all meaningful for the rankings, not an entertainment fight, so why put it on this card and not a fight night?",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-01T21:10:29.795471+00:00",
+  "scrapedAt": "2026-05-02T03:53:34.280168+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
