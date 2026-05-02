@@ -2178,11 +2178,38 @@
       "authorUrl": "/profiles/pflynn8",
       "timestamp": "2026-05-02T14:18:00-04:00",
       "content": "[Predictions]\n\nKhamzat getting a finish",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
+    },
+    {
+      "id": "1660191",
+      "author": "Miguelpicks",
+      "authorUrl": "/profiles/miguelpicks",
+      "timestamp": "2026-05-02T15:29:00-04:00",
+      "content": "[Predictions]\n\n@Pflynn8 i think so.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1660196",
+      "author": "jeffferson",
+      "authorUrl": "/profiles/jeffferson",
+      "timestamp": "2026-05-02T15:46:00-04:00",
+      "content": "[Predictions]\n\nBrady, Sabatini, Dawson. Elite wrestlers with paper chins all on the same card",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1660202",
+      "author": "Miguelpicks",
+      "authorUrl": "/profiles/miguelpicks",
+      "timestamp": "2026-05-02T15:58:00-04:00",
+      "content": "[Predictions]\n\n@jeffferson i think ml and ko hedge combos",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-02T19:18:13.593645+00:00",
+  "scrapedAt": "2026-05-02T20:01:55.666909+00:00",
   "eventName": "UFC 328: Chimaev vs. Strickland",
   "eventDate": "May  9",
   "fightcenterUrl": "/fightcenter/events/140614-ufc-328"
