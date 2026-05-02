@@ -522,7 +522,7 @@
       "authorUrl": "/profiles/aminmma",
       "timestamp": "2026-04-30T14:51:00-04:00",
       "content": "[Predictions]\n\nLmfao you guys know Horiguchi is absolutely screwed right? 63/37 for Horiguchi is diabolical",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 2
     },
     {
@@ -550,10 +550,19 @@
       "timestamp": "2026-04-30T20:33:00-04:00",
       "content": "At long last the goat Baghdasaryan is back he will make this look easy",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
+    },
+    {
+      "id": "1660159",
+      "author": "SWRS",
+      "authorUrl": "/profiles/swrs",
+      "timestamp": "2026-05-02T12:04:00-04:00",
+      "content": "[Predictions]\n\nBaghdasaryan vs. Magomedov\nMurtazali Magomedov, TKO, R1\nLate first round ko",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-01T04:20:05.107861+00:00",
+  "scrapedAt": "2026-05-02T17:16:56.608397+00:00",
   "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
   "eventDate": "June 20",
   "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
