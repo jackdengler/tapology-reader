@@ -549,7 +549,7 @@
       "authorUrl": "/profiles/cashmoneycash",
       "timestamp": "2026-04-30T20:33:00-04:00",
       "content": "At long last the goat Baghdasaryan is back he will make this look easy",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -560,9 +560,18 @@
       "content": "[Predictions]\n\nBaghdasaryan vs. Magomedov\nMurtazali Magomedov, TKO, R1\nLate first round ko",
       "upvotes": 0,
       "downvotes": 1
+    },
+    {
+      "id": "1660366",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-05-03T01:22:00-04:00",
+      "content": "[Predictions]\n\nMelsik Baghdasaryan vs Murtazali Magomedov\nPick: Magomedov via round 1 KO\n95% of Tapology users (207 users) are picking Magomedov (75% KO)\nMagomedov is 7.6 years younger (26.8 vs 34.4)\nBoth fighters have 70” reach\nMagomedov has +3.71 strike differential/min vs +1.90\nMagomedov proj. +6.7 significant strikes attempted\nMagomedov proj. +9.6 significant strikes landed\nMagomedov proj. +36.7 head strikes landed\nMagomedov proj. 3.85 knockdowns vs 0.09\nBoth fighters proj. for 0.0 takedowns landed and attempted\nBoth fighters proj. for 0.00 submission attempts\nMagomedov proj. 63.6% finish chance vs 22.7% and 13.6% decision\n10/10 wins for Magomedov via finish\nMagomedov has 5:0 KO win/loss ratio (3/5 KO’s in round 1)\nMagomedov has 5:0 submission win loss ratio (3/5 subs in round 1)\nBaghdasaryan has 5:1 KO win/loss ratio (only time KO’d was in round 1 vs Jean Silva)\nBaghdasaryan has 0:2 submission win/loss ratio (1/2 times subbed in round 1, 1/2 in round 2)",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-02T17:16:56.608397+00:00",
+  "scrapedAt": "2026-05-03T06:40:38.364590+00:00",
   "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
   "eventDate": "June 20",
   "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
