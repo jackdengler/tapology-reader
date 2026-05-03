@@ -945,7 +945,7 @@
       "authorUrl": "/profiles/richmond1724",
       "timestamp": "2026-05-02T10:16:00-04:00",
       "content": "Cody Durden vs. Ode Osbourne On a numbered card the ufc are so smart",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -981,11 +981,29 @@
       "authorUrl": "/profiles/swrs",
       "timestamp": "2026-05-02T12:20:00-04:00",
       "content": "[Predictions]\n\nGandra vs. Reese\nRyan Gandra, TKO, R2\nZach Reese is a can\n\nDurden vs. Osbourne\nCody Durden, DEC\nCody durden honestly wins all 3 rounds pretty easily",
-      "upvotes": 1,
+      "upvotes": 2,
+      "downvotes": 0
+    },
+    {
+      "id": "1660371",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-05-03T02:57:00-04:00",
+      "content": "[Predictions]\n\nRyan Gandra vs Zach Reese\nPick: Gandra via round 1 KO\n84% of Tapology users (226 users) are picking Gandra (97% KO)\nGandra is 1.1 years younger (31.2 vs 32.3)\nReese has 3” reach edge (77” vs 74”)\nGandra has +1.32 strike differential/min vs +0.56\nReese proj. +32.4 significant strikes attempted\nGandra proj. +4.6 significant strikes landed\nGandra proj. +12.6 head strikes landed\nGandra proj. 1.11 knockdowns vs 0.09\nReese proj. 1.4 takedowns landed (4.6 attempts) vs 0.0 (0.0 attempts)\nReese proj. 1.30 submission attempts vs 0.00\nGandra proj. 42.1% finish chance vs 33.6% and 24.3% decision\n7/9 wins for Gandra via finish\nGandra has 5:1 KO win/loss ratio (4/5 KO’s in round 1, 1/5 in round 2)\nGandra has 2:0 submission win/loss ratio (2/2 subs in round 1)\nReese has 5:2 KO win/loss ratio (2/2 times KO’d in round 1)\nReese has 3:0 submission win/loss ratio",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1660372",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-05-03T03:04:00-04:00",
+      "content": "[Predictions]\n\nCody Durden vs Ode Osbourne\nPick: Durden via decision\n67% of Tapology users (151 users) are picking Durden (93% decision)\nOsbourne is 0.8 years younger (34.5 vs 35.3)\nOsbourne has 6” reach edge (73” vs 67”)\nOsbourne has -0.30 strike differential/min vs -0.70\nOsbourne proj. +11.4 significant strikes attempted\nOsbourne proj. +2.5 significant strikes landed\nOsbourne proj. +2.1 head strikes landed\nOsbourne proj. 0.46 knockdowns vs 0.20\nDurden proj. 3.4 takedowns landed (8.1 attempts) vs 1.2 (3.2 attempts)\nDurden proj. 0.70 submission attempts vs 0.40\nDurden proj. 33.2% finish chance vs 32.9% and 33.9% decision",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-02T17:16:23.699994+00:00",
+  "scrapedAt": "2026-05-03T08:59:35.918269+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
