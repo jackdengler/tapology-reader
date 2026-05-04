@@ -1,7 +1,7 @@
 {
   "id": "96857",
   "title": "UFC 330UFC 330",
-  "totalPages": 1,
+  "totalPages": 2,
   "posts": [
     {
       "id": "1651928",
@@ -18,7 +18,7 @@
       "authorUrl": "/profiles/andyjamahalhill",
       "timestamp": "2026-04-14T14:13:00-04:00",
       "content": "joe pyfer feature fight or co main",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 0
     },
     {
@@ -36,7 +36,7 @@
       "authorUrl": "/profiles/grayerman",
       "timestamp": "2026-04-14T15:32:00-04:00",
       "content": "Go Birds",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 2
     },
     {
@@ -55,7 +55,7 @@
       "timestamp": "2026-04-14T17:39:00-04:00",
       "content": "KHAMZAT vs. Carlos Ulberg\n\nISLAM MAKHACHEV vs. Kamaru Usman\n\nUMAR vs. Petr Yan",
       "upvotes": 1,
-      "downvotes": 14
+      "downvotes": 15
     },
     {
       "id": "1651969",
@@ -81,7 +81,7 @@
       "authorUrl": "/profiles/socalryno89",
       "timestamp": "2026-04-14T17:58:00-04:00",
       "content": "Islam vs Garry\nPyfer vs Caio",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -91,7 +91,7 @@
       "timestamp": "2026-04-14T18:08:00-04:00",
       "content": "Khamzat vs pyfer pyfer round. 3 ko",
       "upvotes": 0,
-      "downvotes": 8
+      "downvotes": 10
     },
     {
       "id": "1651974",
@@ -136,7 +136,7 @@
       "timestamp": "2026-04-16T08:39:00-04:00",
       "content": "@ntrsbob philly ain't ****. Disgusting dirty city full of morons",
       "upvotes": 1,
-      "downvotes": 6
+      "downvotes": 7
     },
     {
       "id": "1652393",
@@ -189,11 +189,29 @@
       "authorUrl": "/profiles/zinaum",
       "timestamp": "2026-04-28T15:19:00-04:00",
       "content": "Islam vs Ian Garry\nMerab vs Yan III",
-      "upvotes": 0,
+      "upvotes": 4,
       "downvotes": 0
+    },
+    {
+      "id": "1651928",
+      "author": "Tapology",
+      "authorUrl": "/profiles/tapology",
+      "timestamp": "2026-04-14T14:05:00-04:00",
+      "content": "The official Tapology discussion thread for the event!",
+      "upvotes": 2,
+      "downvotes": 0
+    },
+    {
+      "id": "1660533",
+      "author": "skbwafenwoadj",
+      "authorUrl": "/profiles/skbwafenwoadj",
+      "timestamp": "2026-05-04T08:00:00-04:00",
+      "content": "Can yall stop being mugs\nIt will be\nIslam vs Ian\nVolk vs Movsar (Merab won't be fighting against yan yet)\nPossibly Morales vs Usman\nUmar vs Martinez\n\nThis is a good card and I think rhese all get booked on this card.",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-04-28T20:42:20.238798+00:00",
+  "scrapedAt": "2026-05-04T12:57:40.425371+00:00",
   "eventName": "UFC 330",
   "eventDate": "August 15",
   "fightcenterUrl": "/fightcenter/events/142341-ufc-330"
