@@ -1008,11 +1008,20 @@
       "authorUrl": "/profiles/richmond1724",
       "timestamp": "2026-05-03T10:21:00-04:00",
       "content": "@rpadilla149 ufc always do this its so dumb this fight should be hidden on prelims of a apex the fight is the definition of a nothing fight\n\n* Edited at 05.03.2026, 10:22 AM ET *",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1660491",
+      "author": "lolucasio",
+      "authorUrl": "/profiles/lolucasio",
+      "timestamp": "2026-05-03T20:08:00-04:00",
+      "content": "Islam Makhachev vs Ian Machado Garry\nAlexander Volkanovski vs Lerone Murphy",
+      "upvotes": 0,
+      "downvotes": 2
     }
   ],
-  "scrapedAt": "2026-05-03T15:07:29.149274+00:00",
+  "scrapedAt": "2026-05-04T04:18:05.897322+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
