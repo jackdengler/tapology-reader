@@ -414,7 +414,7 @@
       "authorUrl": "/profiles/xlorenzoufcx",
       "timestamp": "2026-04-21T07:58:00-04:00",
       "content": "@battousai Soriano vs. Orolbai?! Dog, Punahele would get eaten alive, don't do that to him lmao.",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 2
     },
     {
@@ -423,7 +423,7 @@
       "authorUrl": "/profiles/battousai",
       "timestamp": "2026-04-24T12:55:00-04:00",
       "content": "@xLorenzoUFCx\nBut Baku would love it, and that's the point.\n\nInterestingly enough, the UFC already gave Colbys ranking to Amosov since I wrote that post.",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -433,7 +433,7 @@
       "timestamp": "2026-04-28T19:21:00-04:00",
       "content": "Ankalaev vs whittaker\nUmar vs talbott\nI hoppppeeee",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1658175",
@@ -477,8 +477,8 @@
       "authorUrl": "/profiles/elitemmapicks",
       "timestamp": "2026-05-03T02:10:00-04:00",
       "content": "[Predictions]\n\nRizvan Kuniev vs Tyrell Fortune\nPick: Kuniev via decision\n85% of Tapology users (105 users) are picking Kuniev (83% decision)\nKuniev is 1.7 years younger (34.3 vs 36.0)\nKuniev has 1” reach edge (76” vs 75”)\nKuniev has +1.61 strike differential/min vs -1.13\nKuniev proj. +45.7 significant strikes attempted\nKuniev proj. +20.6 significant strikes landed\nKuniev proj. +7.9 head strikes landed\nKuniev proj. 0.16 knockdowns vs 0.00\nFortune proj. 1.7 takedowns landed (5.0 attempts) vs 0.5 (1.3 attempts)\nBoth fighters proj. for 0.00 submission attempts\nKuniev proj. 26.6% finish chance vs 26.1% and 47.3% decision",
-      "upvotes": 0,
-      "downvotes": 0
+      "upvotes": 1,
+      "downvotes": 1
     },
     {
       "id": "1660369",
@@ -486,7 +486,7 @@
       "authorUrl": "/profiles/elitemmapicks",
       "timestamp": "2026-05-03T02:18:00-04:00",
       "content": "[Predictions]\n\nDaniil Donchenko vs Andreas Gustafsson\nPick: Donchenko via round 2 KO\n89% of Tapology users (192 users) are picking Donchenko (79% KO)\nDonchenko is 10.5 years younger (24.9 vs 35.4)\nGustafsson has 2” reach edge (73” vs 71”)\nDonchenko has +4.58 strike differential/min vs +2.19\nDonchenko proj. +8.6 significant strikes attempted\nDonchenko proj. +15.3 significant strikes landed\nGustafsson proj. +2.9 head strikes landed\nDonchenko proj. 0.56 knockdowns vs 0.23\nGustafsson proj. 4.4 takedowns landed (10.7 attempts) vs 0.4 (2.3 attempts)\nGustafsson has 10:0 takedown ratio vs 1:1\nBoth fighters proj. for 0.00 submission attempts\nDonchenko proj. 37.7% finish chance vs 33.3% and 29.0% decision\n10/13 wins for Donchenko via finish\nDonchenko has 8:0 KO win/loss ratio (3/8 KO’s in round 1, 5/8 KO’s in round 2)\nGustafsson has 8:1 KO win/loss ratio (only time KO’d was in round 1)\nGustafsson got KO’d by Rinat Fakhretdinov in 0:54 last fight",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -495,11 +495,20 @@
       "authorUrl": "/profiles/elitemmapicks",
       "timestamp": "2026-05-03T02:26:00-04:00",
       "content": "[Predictions]\n\nNazim Sadykhov vs Matheus Camilo\nPick: Sadykhov via round 2 KO\n93% of Tapology users (40 users) are picking Sadykhov (79% KO)\nCamilo is 6.6 years younger (25.5 vs 32.1)\nBoth fighters have 69” reach\nSadykhov has -0.70 strike differential/min vs -1.06\nSadykhov proj. +22.1 significant strikes attempted\nSadykhov proj. +4.0 significant strikes landed\nSadykhov proj. +3.3 head strikes landed\nSadykhov proj. 0.27 knockdowns vs 0.22\nCamilo proj. 3.4 takedowns landed (8.4 attempts) vs 1.8 (2.4 attempts)\nCamilo proj. 0.60 submission attempts vs 0.20\nSadykhov proj. 47.3% finish chance vs 30.2% and 22.5% decision\n10/11 wins for Sadykhov via finish\nSadykhov has 8:1 KO win/loss ratio (4/8 KO’s in round 1, 1/8 in round 2, 3/8 in round 3)\nSadykhov has 2:1 submission win/loss ratio (1/2 subs in round 2, 1/2 in round 3)\nCamilo has 4:0 KO win/loss ratio\nCamilo has 2:3 submission win loss ratio (1/3 times subbed in round 1, 2/3 in round 2)",
+      "upvotes": 1,
+      "downvotes": 1
+    },
+    {
+      "id": "1660557",
+      "author": "gavdaddydeluxe",
+      "authorUrl": "/profiles/gavdaddydeluxe",
+      "timestamp": "2026-05-04T10:17:00-04:00",
+      "content": "[Predictions]\n\nSadykhov vs. Camilo\nNazim Sadykhov, DEC\nCamilo's gonna get his ass beat but will survive",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-03T06:40:22.048795+00:00",
+  "scrapedAt": "2026-05-04T15:22:36.305967+00:00",
   "eventName": "UFC Fight Night: Allen vs. Costa",
   "eventDate": "May 16",
   "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
