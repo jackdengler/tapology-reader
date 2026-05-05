@@ -594,11 +594,29 @@
       "authorUrl": "/profiles/funnypee",
       "timestamp": "2026-05-05T17:57:00-04:00",
       "content": "[Predictions]\n\nEwing said he fighting farid Basharat on this card",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1660841",
+      "author": "Spockling",
+      "authorUrl": "/profiles/spockling",
+      "timestamp": "2026-05-05T18:19:00-04:00",
+      "content": "[Predictions]\n\n@FunnyPee Ho ly **** what a fight",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1660848",
+      "author": "razzles6",
+      "authorUrl": "/profiles/razzles6",
+      "timestamp": "2026-05-05T19:01:00-04:00",
+      "content": "Michael Aswell vs Gaston Bolanos at FW added",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-05T22:14:24.900455+00:00",
+  "scrapedAt": "2026-05-05T23:14:09.001492+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
