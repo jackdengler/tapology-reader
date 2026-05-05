@@ -432,7 +432,7 @@
       "authorUrl": "/profiles/crankmanz",
       "timestamp": "2026-04-28T19:21:00-04:00",
       "content": "Ankalaev vs whittaker\nUmar vs talbott\nI hoppppeeee",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -459,7 +459,7 @@
       "authorUrl": "/profiles/royalkickbeat",
       "timestamp": "2026-04-29T13:11:00-04:00",
       "content": "Rafael Fizev vs Manuel Torres is in the works of being the main event of this card, I'm understanding",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 1
     },
     {
@@ -558,8 +558,8 @@
       "authorUrl": "/profiles/fentymix",
       "timestamp": "2026-05-05T10:59:00-04:00",
       "content": "[Predictions]\n\nDonchenko vs. Gustafsson\nDaniil Donchenko, TKO, R1\nGustafsson genuinely has no chin",
-      "upvotes": 1,
-      "downvotes": 0
+      "upvotes": 2,
+      "downvotes": 1
     },
     {
       "id": "1660757",
@@ -567,7 +567,7 @@
       "authorUrl": "/profiles/cowboykurt",
       "timestamp": "2026-05-05T11:18:00-04:00",
       "content": "[Predictions]\n\nFiziev vs. Torres\nManuel Torres, DEC\nI think Torres gets it done Fiziev doesn’t have the best chin and is coming off another ACL injury",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -587,9 +587,18 @@
       "content": "[Predictions]\n\nSo excited for this card",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1660801",
+      "author": "novaCMMA",
+      "authorUrl": "/profiles/novacmma",
+      "timestamp": "2026-05-05T15:00:00-04:00",
+      "content": "[Predictions]\n\n@crankmanz amazing fight but they might throw it on as a featured of a ppv",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-05T18:48:47.326616+00:00",
+  "scrapedAt": "2026-05-05T20:22:26.245777+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
