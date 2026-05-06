@@ -594,7 +594,7 @@
       "authorUrl": "/profiles/funnypee",
       "timestamp": "2026-05-05T17:57:00-04:00",
       "content": "[Predictions]\n\nEwing said he fighting farid Basharat on this card",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -603,7 +603,7 @@
       "authorUrl": "/profiles/spockling",
       "timestamp": "2026-05-05T18:19:00-04:00",
       "content": "[Predictions]\n\n@FunnyPee Ho ly **** what a fight",
-      "upvotes": 1,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -621,12 +621,21 @@
       "authorUrl": "/profiles/crimemaster%20mma",
       "timestamp": "2026-05-06T03:13:00-04:00",
       "content": "[Predictions]\n\nCutelaba vs. Stirling\nIon Cutelaba, TKO, R2\nNavajo overrated",
-      "upvotes": 1,
+      "upvotes": 2,
+      "downvotes": 1
+    },
+    {
+      "id": "1660982",
+      "author": "Zinaum",
+      "authorUrl": "/profiles/zinaum",
+      "timestamp": "2026-05-06T15:40:00-04:00",
+      "content": "[Predictions]\n\nOliveira is winning a decision against Chikadze, I truly believe he'll have a nice run at FW",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-06T09:40:23.208948+00:00",
-  "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
-  "eventDate": "June 20",
-  "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
+  "scrapedAt": "2026-05-06T20:49:01.224359+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
