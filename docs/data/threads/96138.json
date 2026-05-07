@@ -46,7 +46,7 @@
       "timestamp": "2026-03-24T15:47:00-04:00",
       "content": "[Predictions]\n\nKape vs. Horiguchi II\nManel Kape, TKO, R1\nPretty easy",
       "upvotes": 5,
-      "downvotes": 8
+      "downvotes": 9
     },
     {
       "id": "1641861",
@@ -612,7 +612,7 @@
       "authorUrl": "/profiles/razzles6",
       "timestamp": "2026-05-05T19:01:00-04:00",
       "content": "Michael Aswell vs Gaston Bolanos at FW added",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -630,11 +630,20 @@
       "authorUrl": "/profiles/zinaum",
       "timestamp": "2026-05-06T15:40:00-04:00",
       "content": "[Predictions]\n\nOliveira is winning a decision against Chikadze, I truly believe he'll have a nice run at FW",
-      "upvotes": 0,
+      "upvotes": 1,
+      "downvotes": 2
+    },
+    {
+      "id": "1661208",
+      "author": "SWRS",
+      "authorUrl": "/profiles/swrs",
+      "timestamp": "2026-05-07T18:00:00-04:00",
+      "content": "[Predictions]\n\nChikadze vs. Oliveira\nVinicius Oliveira, TKO, R3\nChikadze is terrible Oliveira will dominate",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-06T20:49:01.224359+00:00",
+  "scrapedAt": "2026-05-07T22:18:58.150354+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
