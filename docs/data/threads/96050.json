@@ -10,7 +10,7 @@
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 5,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1634977",
@@ -199,7 +199,7 @@
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 5,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1643823",
@@ -388,7 +388,7 @@
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 5,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1647625",
@@ -577,7 +577,7 @@
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 5,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1655345",
@@ -766,7 +766,7 @@
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 5,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1658081",
@@ -955,7 +955,7 @@
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 5,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1660151",
@@ -1099,7 +1099,7 @@
       "timestamp": "2026-05-07T20:55:00-04:00",
       "content": "[Predictions]\n\nI completely lost all hope for McGregor coming back, with Max implying he didn't have a fight booked earlier this week and Islam saying he had started training camp, I can only assume Makhachev v. Garry is the main event for this card\nPrediction-\nMakhachev v. Garry\nDDP v. Usman / Borralho\nPaddy v. BSD\nWhittaker v. Krylov\nSandhagen v. Bautista",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 2
     },
     {
       "id": "1661253",
@@ -1107,7 +1107,7 @@
       "authorUrl": "/profiles/gilpin",
       "timestamp": "2026-05-07T21:34:00-04:00",
       "content": "[Predictions]\n\nNevermind. Just saw a clip of Dana saying that Conor would be fighting this summer. We are so back its frankly unbelievable",
-      "upvotes": 0,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -1118,9 +1118,18 @@
       "content": "[Predictions]\n\n@Gilpin Islam vs Garry is all but confirmed for UFC 330 which is in August. Conor vs Max IS happening on this card.",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1661411",
+      "author": "Gilpin",
+      "authorUrl": "/profiles/gilpin",
+      "timestamp": "2026-05-08T18:07:00-04:00",
+      "content": "[Predictions]\n\n@B7L7 still, in the video clip of dana saying Conor would fight this summer, it sounded like he was about to say \"If i had to say/guess\" when the guy asked him when/where McGregor would make his return which would indicate that he isnt officially booked yet",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-08T06:12:26.099566+00:00",
+  "scrapedAt": "2026-05-08T22:16:14.719615+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
