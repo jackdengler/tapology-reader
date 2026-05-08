@@ -1045,7 +1045,7 @@
       "timestamp": "2026-05-04T10:36:00-04:00",
       "content": "@Tapology Jose Ochoa will make a STATEMENT this Saturday everybody watch out",
       "upvotes": 0,
-      "downvotes": 3
+      "downvotes": 4
     },
     {
       "id": "1660563",
@@ -1109,9 +1109,18 @@
       "content": "[Predictions]\n\nNevermind. Just saw a clip of Dana saying that Conor would be fighting this summer. We are so back its frankly unbelievable",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1661264",
+      "author": "B7L7",
+      "authorUrl": "/profiles/b7l7",
+      "timestamp": "2026-05-08T00:52:00-04:00",
+      "content": "[Predictions]\n\n@Gilpin Islam vs Garry is all but confirmed for UFC 330 which is in August. Conor vs Max IS happening on this card.",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-08T03:56:34.075128+00:00",
+  "scrapedAt": "2026-05-08T06:12:26.099566+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
