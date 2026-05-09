@@ -738,11 +738,29 @@
       "authorUrl": "/profiles/mulefloyd",
       "timestamp": "2026-05-09T07:05:00-04:00",
       "content": "No, Gregory, he's not. ANY points based system is flawed.",
-      "upvotes": 0,
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1661565",
+      "author": "Gregory",
+      "authorUrl": "/profiles/gregory",
+      "timestamp": "2026-05-09T11:24:00-04:00",
+      "content": "Every possible system is imperfect or flawed in some way.",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1661567",
+      "author": "mulefloyd",
+      "authorUrl": "/profiles/mulefloyd",
+      "timestamp": "2026-05-09T11:46:00-04:00",
+      "content": "True  and I agree about Vera holding on to his ranking too long but any system that EVER ranked Imavov ahead of Strickland is just wrong imho",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-09T11:13:54.970469+00:00",
+  "scrapedAt": "2026-05-09T16:11:41.355718+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
