@@ -9,7 +9,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 1
     },
     {
@@ -18,7 +18,7 @@
       "authorUrl": "/profiles/socalryno89",
       "timestamp": "2026-03-13T10:25:00-04:00",
       "content": "[Predictions]\n\nIslam vs Garry  Usman vs Morales  Ankalaev vs Rountree   DDP vs Allen  Oezdemir vs Whittaker   Lewis vs Stevenson",
-      "upvotes": 14,
+      "upvotes": 15,
       "downvotes": 4
     },
     {
@@ -27,7 +27,7 @@
       "authorUrl": "/profiles/rpadilla149",
       "timestamp": "2026-03-13T20:31:00-04:00",
       "content": "Charles vs Armen 2. Ilia beats Gaethje in June and vacates to move up to fight Islam. Vacant lightweight belt on the line",
-      "upvotes": 7,
+      "upvotes": 8,
       "downvotes": 2
     },
     {
@@ -198,7 +198,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 1
     },
     {
@@ -387,7 +387,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 1
     },
     {
@@ -576,7 +576,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 1
     },
     {
@@ -765,7 +765,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 1
     },
     {
@@ -954,7 +954,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 1
     },
     {
@@ -1117,7 +1117,7 @@
       "timestamp": "2026-05-08T00:52:00-04:00",
       "content": "[Predictions]\n\n@Gilpin Islam vs Garry is all but confirmed for UFC 330 which is in August. Conor vs Max IS happening on this card.",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1661411",
@@ -1127,9 +1127,18 @@
       "content": "[Predictions]\n\n@B7L7 still, in the video clip of dana saying Conor would fight this summer, it sounded like he was about to say \"If i had to say/guess\" when the guy asked him when/where McGregor would make his return which would indicate that he isnt officially booked yet",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1661485",
+      "author": "zachthetruth",
+      "authorUrl": "/profiles/zachthetruth",
+      "timestamp": "2026-05-09T00:58:00-04:00",
+      "content": "[Predictions]\n\nYanez Ko rd 1",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-08T22:16:14.719615+00:00",
+  "scrapedAt": "2026-05-09T08:55:46.310646+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
