@@ -1134,7 +1134,7 @@
       "authorUrl": "/profiles/zachthetruth",
       "timestamp": "2026-05-09T00:58:00-04:00",
       "content": "[Predictions]\n\nYanez Ko rd 1",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -1154,9 +1154,18 @@
       "content": "[Predictions]\n\nGarbrandt vs. Yanez\nAdrian Yanez, TKO, R1\nYanez will blitz garbrandt",
       "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1662951",
+      "author": "Grogers70426",
+      "authorUrl": "/profiles/grogers70426",
+      "timestamp": "2026-05-09T21:56:00-04:00",
+      "content": "[Predictions]\n\nGarbrandt vs. Yanez\nAdrian Yanez, TKO, R2\nCould see either guy getting their hand raised",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-09T13:56:40.792199+00:00",
+  "scrapedAt": "2026-05-10T04:27:43.857176+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"

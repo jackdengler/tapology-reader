@@ -747,7 +747,7 @@
       "authorUrl": "/profiles/gregory",
       "timestamp": "2026-05-09T11:24:00-04:00",
       "content": "Every possible system is imperfect or flawed in some way.",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -793,11 +793,20 @@
       "timestamp": "2026-05-09T14:43:00-04:00",
       "content": "[Predictions]\n\n@user5  I agree 100%",
       "upvotes": 1,
-      "downvotes": 0
+      "downvotes": 1
+    },
+    {
+      "id": "1662941",
+      "author": "Crimemaster mma",
+      "authorUrl": "/profiles/crimemaster%20mma",
+      "timestamp": "2026-05-09T21:53:00-04:00",
+      "content": "[Predictions]\n\nBaraniewski vs. Elekana\nIwo Baraniewski, TKO, R1\nIwo is low key overrated but Billy is **** so",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-09T19:36:36.652381+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-05-10T04:28:09.018857+00:00",
+  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
+  "eventDate": "June  6",
+  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
 }
