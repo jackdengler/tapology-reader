@@ -1171,7 +1171,7 @@
       "timestamp": "2026-05-10T04:06:00-04:00",
       "content": "[Predictions]\n\nkamaka vs riley",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1664245",
@@ -1179,11 +1179,20 @@
       "authorUrl": "/profiles/ddpfan305",
       "timestamp": "2026-05-10T06:08:00-04:00",
       "content": "[Predictions]\n\nfluffy vs ddp",
-      "upvotes": 0,
+      "upvotes": 1,
+      "downvotes": 2
+    },
+    {
+      "id": "1664337",
+      "author": "Gilpin",
+      "authorUrl": "/profiles/gilpin",
+      "timestamp": "2026-05-10T16:54:00-04:00",
+      "content": "[Predictions]\n\nSurprised there was no announcement, although last year's IFW card wasn't announced until a month and a half before it happened so don't be surprised if this card gets announced at the end of may.",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-10T10:38:11.677081+00:00",
+  "scrapedAt": "2026-05-10T21:07:03.228584+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
