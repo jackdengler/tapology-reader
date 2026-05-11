@@ -1,29 +1,42 @@
 [
   {
+    "id": "96209",
+    "title": "UFC Fight Night: Fiziev vs. Torres",
+    "url": "/forum/threads/96209",
+    "isSticky": false,
+    "lastPostTime": "2026-05-11 12:03:29 -0400",
+    "replyCount": 70,
+    "snippet": "\"Fiziev vs. Torres Manuel Torres, TKO, R1 Latino power.  Almakhan vs. Matsumot...\"(7 minutes ago)",
+    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "eventName": "UFC Fight Night",
+    "eventDate": "August 29",
+    "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  },
+  {
     "id": "95719",
     "title": "UFC Fight Night: Allen vs. Costa",
     "url": "/forum/threads/95719",
     "isSticky": false,
-    "lastPostTime": "2026-05-11 08:02:36 -0400",
-    "replyCount": 109,
-    "snippet": "\"   \"(19 minutes ago)",
+    "lastPostTime": "2026-05-11 11:33:09 -0400",
+    "replyCount": 113,
+    "snippet": "\"Choi vs. Santos Daniel Santos, DEC This one goes to a decision almost certain  \"(38 minutes ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC Fight Night: Allen vs. Costa",
     "eventDate": "May 16",
     "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
   },
   {
-    "id": "94911",
-    "title": "UFC Fight Night: Song vs. Figueiredo",
-    "url": "/forum/threads/94911",
+    "id": "97171",
+    "title": "UFC Fight Night",
+    "url": "/forum/threads/97171",
     "isSticky": false,
-    "lastPostTime": "2026-05-11 06:34:28 -0400",
-    "replyCount": 96,
-    "snippet": "\" Kangjie Zhu vs Rodrigo Vera Pick: Vera via decision 78% of Tapology users (2...\"(1 hour ago)",
+    "lastPostTime": "2026-05-11 10:28:58 -0400",
+    "replyCount": 25,
+    "snippet": "\" @gloopert&nbsp;doesn't have anything to do with the moose, but everything to...\"(1 hour ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night",
-    "eventDate": "August 29",
-    "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+    "eventName": "UFC Fight Night: Song vs. Figueiredo",
+    "eventDate": "May 30",
+    "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
   },
   {
     "id": "96050",
@@ -32,24 +45,11 @@
     "isSticky": false,
     "lastPostTime": "2026-05-10 16:54:01 -0400",
     "replyCount": 125,
-    "snippet": "\" Surprised there was no announcement, although last year's IFW card wasn't an...\"(15 hours ago)",
+    "snippet": "\" Surprised there was no announcement, although last year's IFW card wasn't an...\"(19 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC 329",
     "eventDate": "July 11",
     "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
-  },
-  {
-    "id": "97171",
-    "title": "UFC Fight Night",
-    "url": "/forum/threads/97171",
-    "isSticky": false,
-    "lastPostTime": "2026-05-10 15:49:43 -0400",
-    "replyCount": 24,
-    "snippet": "\" @gaschromatograph&nbsp;what’s your beef with the moose?\"(16 hours ago)",
-    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night: Song vs. Figueiredo",
-    "eventDate": "May 30",
-    "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
   },
   {
     "id": "96040",
@@ -58,24 +58,11 @@
     "isSticky": false,
     "lastPostTime": "2026-05-10 15:16:38 -0400",
     "replyCount": 85,
-    "snippet": "\"McGhee vs. Wikłacz Jakub Wikłacz, DEC 🇵🇱, Leader of the Gorgonites  \"(17 hours ago)",
+    "snippet": "\"McGhee vs. Wikłacz Jakub Wikłacz, DEC 🇵🇱, Leader of the Gorgonites  \"(20 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
     "eventDate": "June  6",
     "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
-  },
-  {
-    "id": "96209",
-    "title": "UFC Fight Night: Fiziev vs. Torres",
-    "url": "/forum/threads/96209",
-    "isSticky": false,
-    "lastPostTime": "2026-05-09 21:59:33 -0400",
-    "replyCount": 67,
-    "snippet": "\"Almabayev vs. Johnson Asu Almabayev, DEC Not a upcoming prospect east fight t...\"(1 day ago)",
-    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night: Fiziev vs. Torres",
-    "eventDate": "June 27",
-    "fightcenterUrl": "/fightcenter/events/141299-ufc-fight-night"
   },
   {
     "id": "96138",
@@ -89,6 +76,19 @@
     "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
     "eventDate": "June 20",
     "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
+  },
+  {
+    "id": "94219",
+    "title": "UFC Fight Night",
+    "url": "/forum/threads/94219",
+    "isSticky": false,
+    "lastPostTime": "2026-05-07 06:19:51 -0400",
+    "replyCount": 30,
+    "snippet": "\" @CowboyKurt&nbsp;Probably not. It's a Fight Night, so there's won't be a tit...\"(4 days ago)",
+    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "eventName": "UFC Fight Night: Fiziev vs. Torres",
+    "eventDate": "June 27",
+    "fightcenterUrl": "/fightcenter/events/141299-ufc-fight-night"
   },
   {
     "id": "96857",

@@ -181,7 +181,7 @@
       "timestamp": "2026-05-02T02:14:00-04:00",
       "content": "[Predictions]\n\n@Mazeflare i understand where your coming from she is aq very entertainign fighter foir wmma standurds but also ribas does not deserve another mainevent",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1660571",
@@ -216,7 +216,7 @@
       "authorUrl": "/profiles/gaschromatograph",
       "timestamp": "2026-05-09T19:27:00-04:00",
       "content": "Oh god pease don't book Jackson MCVEY on the Oklahoma City card.",
-      "upvotes": 1,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -225,8 +225,8 @@
       "authorUrl": "/profiles/socalryno89",
       "timestamp": "2026-05-10T15:36:00-04:00",
       "content": "[Predictions]\n\nRountree vs Costa",
-      "upvotes": 0,
-      "downvotes": 0
+      "upvotes": 1,
+      "downvotes": 1
     },
     {
       "id": "1664325",
@@ -235,11 +235,20 @@
       "timestamp": "2026-05-10T15:49:00-04:00",
       "content": "@gaschromatograph what’s your beef with the moose?",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 4
+    },
+    {
+      "id": "1664450",
+      "author": "osusnp",
+      "authorUrl": "/profiles/osusnp",
+      "timestamp": "2026-05-11T10:28:00-04:00",
+      "content": "@gloopert doesn't have anything to do with the moose, but everything to do with his last name.",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-10T21:07:39.144546+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-05-11T16:12:50.785621+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }
