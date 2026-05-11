@@ -622,7 +622,7 @@
       "timestamp": "2026-05-06T03:13:00-04:00",
       "content": "[Predictions]\n\nCutelaba vs. Stirling\nIon Cutelaba, TKO, R2\nNavajo overrated",
       "upvotes": 2,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1660982",
@@ -631,7 +631,7 @@
       "timestamp": "2026-05-06T15:40:00-04:00",
       "content": "[Predictions]\n\nOliveira is winning a decision against Chikadze, I truly believe he'll have a nice run at FW",
       "upvotes": 1,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1661208",
@@ -641,9 +641,18 @@
       "content": "[Predictions]\n\nChikadze vs. Oliveira\nVinicius Oliveira, TKO, R3\nChikadze is terrible Oliveira will dominate",
       "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1664552",
+      "author": "Crimemaster mma",
+      "authorUrl": "/profiles/crimemaster%20mma",
+      "timestamp": "2026-05-11T18:50:00-04:00",
+      "content": "[Predictions]\n\nLima vs. Borjas\nAndré Lima, DEC\nWe will beat Kevin borjas and then get chined by Charles Johnson and then get in the top 5\n\nBaghdasaryan vs. Magomedov\nMurtazali Magomedov, TKO, R1\nMurtazali is really good",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-07T22:18:58.150354+00:00",
+  "scrapedAt": "2026-05-11T23:12:12.772418+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"

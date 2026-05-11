@@ -4,13 +4,26 @@
     "title": "UFC Fight Night: Allen vs. Costa",
     "url": "/forum/threads/95719",
     "isSticky": false,
-    "lastPostTime": "2026-05-11 17:39:11 -0400",
-    "replyCount": 125,
-    "snippet": "\" nobody gonna fight big gantt on short notice\"(2 minutes ago)",
+    "lastPostTime": "2026-05-11 19:00:42 -0400",
+    "replyCount": 131,
+    "snippet": "\"Ardelean vs. Viana Alice Ardelean, DEC alice is a pretty hittable but i dont ...\"(10 minutes ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC Fight Night: Allen vs. Costa",
     "eventDate": "May 16",
     "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
+  },
+  {
+    "id": "96138",
+    "title": "UFC Fight Night: Kape vs. Horiguchi 2",
+    "url": "/forum/threads/96138",
+    "isSticky": false,
+    "lastPostTime": "2026-05-11 18:50:54 -0400",
+    "replyCount": 68,
+    "snippet": "\"Lima vs. Borjas André Lima, DEC We will beat Kevin borjas and then get chined...\"(19 minutes ago)",
+    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "eventName": "UFC Fight Night",
+    "eventDate": "August 29",
+    "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
   },
   {
     "id": "96209",
@@ -19,11 +32,11 @@
     "isSticky": false,
     "lastPostTime": "2026-05-11 17:14:10 -0400",
     "replyCount": 71,
-    "snippet": "\" Farman trains with Amosov and fought at Lfa before this for a title I believ...\"(27 minutes ago)",
+    "snippet": "\" Farman trains with Amosov and fought at Lfa before this for a title I believ...\"(1 hour ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night",
-    "eventDate": "August 29",
-    "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+    "eventName": "UFC Fight Night: Fiziev vs. Torres",
+    "eventDate": "June 27",
+    "fightcenterUrl": "/fightcenter/events/141299-ufc-fight-night"
   },
   {
     "id": "94911",
@@ -32,7 +45,7 @@
     "isSticky": false,
     "lastPostTime": "2026-05-11 15:39:48 -0400",
     "replyCount": 98,
-    "snippet": "\"Song vs. Figueiredo Yadong Song, DEC Figgy is washed  Zhang vs. Menifield Min...\"(2 hours ago)",
+    "snippet": "\"Song vs. Figueiredo Yadong Song, DEC Figgy is washed  Zhang vs. Menifield Min...\"(3 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC Fight Night: Song vs. Figueiredo",
     "eventDate": "May 30",
@@ -45,7 +58,7 @@
     "isSticky": false,
     "lastPostTime": "2026-05-11 10:28:58 -0400",
     "replyCount": 25,
-    "snippet": "\" @gloopert&nbsp;doesn't have anything to do with the moose, but everything to...\"(7 hours ago)",
+    "snippet": "\" @gloopert&nbsp;doesn't have anything to do with the moose, but everything to...\"(8 hours ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
     "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
     "eventDate": "June  6",
@@ -65,19 +78,6 @@
     "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
   },
   {
-    "id": "96138",
-    "title": "UFC Fight Night: Kape vs. Horiguchi 2",
-    "url": "/forum/threads/96138",
-    "isSticky": false,
-    "lastPostTime": "2026-05-07 18:00:37 -0400",
-    "replyCount": 67,
-    "snippet": "\"Chikadze vs. Oliveira Vinicius Oliveira, TKO, R3 Chikadze is terrible Oliveir...\"(3 days ago)",
-    "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
-    "eventDate": "June 20",
-    "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
-  },
-  {
     "id": "94219",
     "title": "UFC Fight Night",
     "url": "/forum/threads/94219",
@@ -86,9 +86,9 @@
     "replyCount": 30,
     "snippet": "\" @CowboyKurt&nbsp;Probably not. It's a Fight Night, so there's won't be a tit...\"(4 days ago)",
     "iconUrl": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
-    "eventName": "UFC Fight Night: Fiziev vs. Torres",
-    "eventDate": "June 27",
-    "fightcenterUrl": "/fightcenter/events/141299-ufc-fight-night"
+    "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
+    "eventDate": "June 20",
+    "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
   },
   {
     "id": "96857",
