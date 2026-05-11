@@ -648,7 +648,7 @@
       "authorUrl": "/profiles/pupildilator3000",
       "timestamp": "2026-05-11T11:09:00-04:00",
       "content": "can someone explain what this strength of schedule thing is?",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -657,7 +657,7 @@
       "authorUrl": "/profiles/ismailkhanfanboy",
       "timestamp": "2026-05-11T11:12:00-04:00",
       "content": "michel pereira is the only person in the entire ufc who gasses out just by circling off the cage\nlike he did nothing against abus and stilled gassed",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -666,11 +666,20 @@
       "authorUrl": "/profiles/pulido",
       "timestamp": "2026-05-11T12:03:00-04:00",
       "content": "[Predictions]\n\nFiziev vs. Torres\nManuel Torres, TKO, R1\nLatino power.\n\nAlmakhan vs. Matsumoto\nJean Matsumoto, DEC\nThis is an amazing fight, I love it.",
+      "upvotes": 1,
+      "downvotes": 1
+    },
+    {
+      "id": "1664537",
+      "author": "Issackmma",
+      "authorUrl": "/profiles/issackmma",
+      "timestamp": "2026-05-11T17:14:00-04:00",
+      "content": "[Predictions]\n\nFarman trains with Amosov and fought at Lfa before this for a title I believe and has fought better opponents then Nolan, Nolan’s only decent performance was against Susurkaev which he struggled with the grappling and leg kick Hasanov specializes in high level grappling and trips with leg kick set ups he should win by Dec comfortably",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-11T16:12:10.220819+00:00",
+  "scrapedAt": "2026-05-11T21:42:46.495189+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
