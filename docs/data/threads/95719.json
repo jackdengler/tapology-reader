@@ -1260,7 +1260,7 @@
       "authorUrl": "/profiles/jeansilvaenjoyer",
       "timestamp": "2026-05-11T19:36:00-04:00",
       "content": "[Predictions]\n\n@poopypicks I have a problem.",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -1341,7 +1341,7 @@
       "authorUrl": "/profiles/ayylmaonnaise",
       "timestamp": "2026-05-11T21:50:00-04:00",
       "content": "[Predictions]\n\nArtur Minev got the Gantt fight. Good signing, a bit early and he will get crushed but still a good replacement",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 1
     },
     {
@@ -1368,7 +1368,7 @@
       "authorUrl": "/profiles/littledohyo",
       "timestamp": "2026-05-11T22:38:00-04:00",
       "content": "[Predictions]\n\nI picked Brundage with no hesitation and I will be picking by KO. Gotta live dangerously somewhere...",
-      "upvotes": 0,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -1451,9 +1451,45 @@
       "content": "[Predictions]\n\nGantt vs. Minev\nTommy Gantt, SUB, R1\na lot easier matchup for gantt artur is a decent striker but there are clearly improvements to be made in the technique. same with gantt but there is a huge grappling advantage on gantts side as he trains with cormier and has a good history of grappling performances. he likes to go work right towards the finish early and i can see him being able to lock in his signature darce choker after getting minev on the mat early.",
       "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1664637",
+      "author": "Fast_Tulip",
+      "authorUrl": "/profiles/fast_tulip",
+      "timestamp": "2026-05-12T08:35:00-04:00",
+      "content": "[Predictions]\n\nHow can I pick Brundage aka the guy who got 30-27ed to Sedrique Dumas",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1664640",
+      "author": "Lost Time",
+      "authorUrl": "/profiles/lost%20time",
+      "timestamp": "2026-05-12T09:01:00-04:00",
+      "content": "[Predictions]\n\nGantt vs. Minev\nTommy Gantt, TKO, R2\nGantt should dominate and win by TKO late in the second",
+      "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1664641",
+      "author": "LeoC19",
+      "authorUrl": "/profiles/leoc19",
+      "timestamp": "2026-05-12T09:06:00-04:00",
+      "content": "[Predictions]\n\nGantt vs. Minev\nTommy Gantt, SUB, R2\nGantts DWCS performance was very impressive\n\nVieira vs. Cavalcanti\nJacqueline Cavalcanti, DEC\nNo WMMA on the last two cards so we got 3 on this one lol",
+      "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1664647",
+      "author": "JohnMcCormick",
+      "authorUrl": "/profiles/johnmccormick",
+      "timestamp": "2026-05-12T09:27:00-04:00",
+      "content": "What are we thinking for Barez vs Gurule? I think Barez could get it done with a finish fast but idk",
+      "upvotes": 2,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-12T12:17:42.096776+00:00",
+  "scrapedAt": "2026-05-12T15:10:58.276301+00:00",
   "eventName": "UFC Fight Night: Allen vs. Costa",
   "eventDate": "May 16",
   "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
