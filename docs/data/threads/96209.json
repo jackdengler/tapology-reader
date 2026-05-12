@@ -685,11 +685,29 @@
       "timestamp": "2026-05-11T20:51:00-04:00",
       "content": "[Predictions]\n\nHasanov vs. Nolan\nEric Nolan, TKO, R3\nEric Nolan will dominate",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1664688",
+      "author": "patrickmoore_1",
+      "authorUrl": "/profiles/patrickmoore_1",
+      "timestamp": "2026-05-12T12:53:00-04:00",
+      "content": "[Predictions]\n\nAbus shows levels and subs michal in round 1",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1664689",
+      "author": "IlikeMMAandboobs",
+      "authorUrl": "/profiles/ilikemmaandboobs",
+      "timestamp": "2026-05-12T13:00:00-04:00",
+      "content": "Ismail Naurdiev vs. Marvin Vettori\nMarvin Vettori, DEC",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-12T04:05:42.823214+00:00",
-  "eventName": "UFC Fight Night: Fiziev vs. Torres",
-  "eventDate": "June 27",
-  "fightcenterUrl": "/fightcenter/events/141299-ufc-fight-night"
+  "scrapedAt": "2026-05-12T17:24:12.272614+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
