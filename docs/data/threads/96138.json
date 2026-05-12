@@ -18,7 +18,7 @@
       "authorUrl": "/profiles/tap%20or%20nap",
       "timestamp": "2026-03-16T23:42:00-04:00",
       "content": "Jhonata Diniz vs. José Luiz lets gooo the fight weve all been dying to see",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 1
     },
     {
@@ -648,11 +648,29 @@
       "authorUrl": "/profiles/crimemaster%20mma",
       "timestamp": "2026-05-11T18:50:00-04:00",
       "content": "[Predictions]\n\nLima vs. Borjas\nAndré Lima, DEC\nWe will beat Kevin borjas and then get chined by Charles Johnson and then get in the top 5\n\nBaghdasaryan vs. Magomedov\nMurtazali Magomedov, TKO, R1\nMurtazali is really good",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1664603",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-05-12T02:15:00-04:00",
+      "content": "[Predictions]\n\nGiga Chikadze vs Vinicius Oliveira\nPick: Oliveira via round 2 KO\n85% of Tapology users (332 users) are picking Oliveira (65% decision)\nOliveira is 7.3 years younger (30.6 vs 37.8)\nChikadze has 4” reach edge (74” vs 70”)\nOliveira has +2.03 strike differential/min vs +0.28\nOliveira proj. +31.9 significant strikes attempted\nOliveira proj. +12.8 significant strikes landed\nOliveira proj. +6.6 head strikes landed\nOliveira proj. 0.37 knockdowns vs 0.24\nOliveira proj. 1.3 takedowns landed (3.2 attempts) vs 0.2 (0.5 attempts)\nBoth fighters proj. for 0.20 submission attempts\nOliveira proj. 38.1% finish chance vs 31.2% and 30.7% decision\nGood upside on Oliveira via KO\n18/23 wins for Oliveira via finish\nOliveira has 16:3 KO win/loss ratio (12/16 KO’s in round 1, 3/16 in round 2, 1/16 in round 3)\nChikadze has 9:1 KO win/loss ratio (only time KO’d was in round 2 last fight vs Kevin Vallejos)",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1664604",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-05-12T02:28:00-04:00",
+      "content": "[Predictions]\n\nMichael Aswell Jr. vs Gaston Bolaños\nPick: Aswell Jr. via decision\n91% of Tapology users (338 users) are picking Aswell Jr. (79% decision)\nAswell Jr. is 8.0 years younger (25.7 vs 33.8)\nBoth fighters have 69” reach\nBolaños has +0.88 strike differential/min vs +0.36\nAswell Jr. proj. +11.2 significant strikes attempted\nBoth fighters proj. for 80 significant strikes landed\nAswell Jr. proj. +20.7 head strikes landed\nAswell Jr. proj. 0.56 knockdowns vs 0.00\nBolaños proj. 0.5 takedowns landed (0.7 attempts) vs 0.25 (0.32 attempts)\nBoth fighters proj. for 0.00 submission attempts\nAswell Jr. proj. 35.4% finish chance vs 23.1% and 41.5% decision",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-11T23:12:12.772418+00:00",
+  "scrapedAt": "2026-05-12T06:48:44.830336+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"

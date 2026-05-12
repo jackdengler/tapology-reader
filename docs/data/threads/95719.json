@@ -10,7 +10,7 @@
       "timestamp": "2026-02-27T11:14:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 2,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1627910",
@@ -45,7 +45,7 @@
       "authorUrl": "/profiles/d1d4k10",
       "timestamp": "2026-03-11T19:55:00-04:00",
       "content": "[Predictions]\n\nMelk Costa all the way",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -199,7 +199,7 @@
       "timestamp": "2026-02-27T11:14:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 2,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1637553",
@@ -388,7 +388,7 @@
       "timestamp": "2026-02-27T11:14:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 2,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1643731",
@@ -577,7 +577,7 @@
       "timestamp": "2026-02-27T11:14:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 2,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1652445",
@@ -766,7 +766,7 @@
       "timestamp": "2026-02-27T11:14:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 2,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1664279",
@@ -955,7 +955,7 @@
       "timestamp": "2026-02-27T11:14:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 2,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1664368",
@@ -1144,7 +1144,7 @@
       "timestamp": "2026-02-27T11:14:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 2,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1664525",
@@ -1251,7 +1251,7 @@
       "authorUrl": "/profiles/poopypicks",
       "timestamp": "2026-05-11T19:27:00-04:00",
       "content": "@JeanSilvaEnjoyer I can’t believe there are people on this earth writing essays like this about a Brundage fight 😭",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 1
     },
     {
@@ -1260,7 +1260,7 @@
       "authorUrl": "/profiles/jeansilvaenjoyer",
       "timestamp": "2026-05-11T19:36:00-04:00",
       "content": "[Predictions]\n\n@poopypicks I have a problem.",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -1333,7 +1333,7 @@
       "timestamp": "2026-02-27T11:14:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
       "upvotes": 2,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1664577",
@@ -1341,8 +1341,8 @@
       "authorUrl": "/profiles/ayylmaonnaise",
       "timestamp": "2026-05-11T21:50:00-04:00",
       "content": "[Predictions]\n\nArtur Minev got the Gantt fight. Good signing, a bit early and he will get crushed but still a good replacement",
-      "upvotes": 0,
-      "downvotes": 0
+      "upvotes": 1,
+      "downvotes": 1
     },
     {
       "id": "1664582",
@@ -1370,10 +1370,28 @@
       "content": "[Predictions]\n\nI picked Brundage with no hesitation and I will be picking by KO. Gotta live dangerously somewhere...",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1664598",
+      "author": "combatchud",
+      "authorUrl": "/profiles/combatchud",
+      "timestamp": "2026-05-12T01:06:00-04:00",
+      "content": "[Predictions]\n\nBarez vs. Gurule\nDaniel Barez, TKO, R2\nBarez throws too hard & Gurule\n\nBannon vs. Caliari\nNicolle Caliari, DEC\nBoth pretty ass. Not sure how this fights plays out tbh.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1664600",
+      "author": "grayerman",
+      "authorUrl": "/profiles/grayerman",
+      "timestamp": "2026-05-12T01:26:00-04:00",
+      "content": "[Predictions]\n\nChoi vs Santos should be FOTN",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-12T04:05:22.189378+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-05-12T06:49:26.564650+00:00",
+  "eventName": "UFC Fight Night: Allen vs. Costa",
+  "eventDate": "May 16",
+  "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
 }
