@@ -684,7 +684,7 @@
       "authorUrl": "/profiles/swrs",
       "timestamp": "2026-05-11T20:51:00-04:00",
       "content": "[Predictions]\n\nHasanov vs. Nolan\nEric Nolan, TKO, R3\nEric Nolan will dominate",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -694,7 +694,7 @@
       "timestamp": "2026-05-12T12:53:00-04:00",
       "content": "[Predictions]\n\nAbus shows levels and subs michal in round 1",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 2
     },
     {
       "id": "1664689",
@@ -703,10 +703,19 @@
       "timestamp": "2026-05-12T13:00:00-04:00",
       "content": "Ismail Naurdiev vs. Marvin Vettori\nMarvin Vettori, DEC",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
+    },
+    {
+      "id": "1664822",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-05-13T04:57:00-04:00",
+      "content": "[Predictions]\n\nRafael Fiziev vs Manuel Torres\nPick: Torres via round 1 KO\n64% of Tapology users (422 users) are picking Torres (95% KO)\nTorres is 2.1 years younger (31.3 vs 33.3)\nTorres has 2” reach edge (73” vs 71”)\nFiziev is from Azerbaijan, Torres is from Mexico (event is in Azerbaijan)\nTorres has +3.21 strike differential/min vs -0.13\nTorres proj. +29.4 significant strikes attempted\nTorres proj. +24.2 significant strikes landed\nTorres proj. +22.0 head strikes landed\nTorres proj. 1.94 knockdowns vs 1.02\nTorres proj. 1.0 takedowns landed (2.6 attempts) vs 0.5 (1.3 attempts)\nTorres proj. 0.90 submission attempts vs 0.00\nTorres proj. 48.3% finish chance vs 32.5% and 19.2% decision\n16/17 wins for Torres via finish (16/16 in round 1)\nTorres has 9:1 KO win/loss ratio (9/9 KO’s in round 1)\nTorres has 7:2 submission win/loss ratio (7/7 submissions in round 1)\nFiziev has 8:3 KO win/loss ratio (1/3 times KO’d in round 1, 2/3 in round 2)\nFiziev has 1:0 submission win/loss ratio",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-12T17:24:12.272614+00:00",
+  "scrapedAt": "2026-05-13T10:43:29.354967+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
