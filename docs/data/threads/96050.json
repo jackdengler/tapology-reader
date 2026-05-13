@@ -1188,11 +1188,20 @@
       "authorUrl": "/profiles/gilpin",
       "timestamp": "2026-05-10T16:54:00-04:00",
       "content": "[Predictions]\n\nSurprised there was no announcement, although last year's IFW card wasn't announced until a month and a half before it happened so don't be surprised if this card gets announced at the end of may.",
-      "upvotes": 1,
+      "upvotes": 3,
+      "downvotes": 0
+    },
+    {
+      "id": "1664797",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-05-13T01:18:00-04:00",
+      "content": "[Predictions]\n\nCody Garbrandt vs Adrian Yanez\nPick: Yanez via round 1 KO\n81% of Tapology users (260 users) are picking Yanez (82% KO)\nYanez is 2.4 years younger (32.6 vs 35.0)\nYanez has 5” reach edge (70” vs 65”)\nYanez has +0.72 strike differential/min vs-0.87\nYanez proj. +32.8 significant strikes attempted\nYanez proj. +12.9 significant strikes landed\nYanez proj. +10.9 head strikes landed\nYanez proj. 0.98 knockdowns vs 0.86\nGarbrandt proj. 0.9 takedowns landed (3.9 attempts) vs 0.0 (0.0 attempts)\nBoth fighters proj. for 0.00 submission attempts\nYanez proj. 38.4% finish chance vs 29.2% and 32.4% decision\nYanez has 11:2 KO win/loss ratio (7/11 in round 1, 2/11 in round 2, 2/11 in round 3)\nGarbrandt has 11:4 KO win/loss ratio (3/4 times KO’d in round 1, 1/4 in round 2)",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-10T21:07:03.228584+00:00",
+  "scrapedAt": "2026-05-13T07:26:19.078780+00:00",
   "eventName": "UFC 329",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
