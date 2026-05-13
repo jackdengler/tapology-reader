@@ -252,12 +252,21 @@
       "authorUrl": "/profiles/lost%20time",
       "timestamp": "2026-05-13T16:04:00-04:00",
       "content": "Marc-Andre Barriault vs. Brad Tavares is now official for this event at 185 lbs.\n\nPer Marcel Dorff: https://x.com/BigMarcel24/status/2054625577600942357?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1664902",
+      "author": "battousai",
+      "authorUrl": "/profiles/battousai",
+      "timestamp": "2026-05-13T17:25:00-04:00",
+      "content": "DDP vs. Usman",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-13T20:56:19.954727+00:00",
-  "eventName": "UFC Fight Night: Allen vs. Costa",
-  "eventDate": "May 16",
-  "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
+  "scrapedAt": "2026-05-13T22:39:44.323880+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
