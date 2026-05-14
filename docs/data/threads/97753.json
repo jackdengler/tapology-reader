@@ -46,7 +46,7 @@
       "timestamp": "2026-05-14T00:44:00-04:00",
       "content": "Valter Walker is a DIRTY Brazilian who is a one-trick pony.\n\nTry that \"heelhook\" BS with a Russian, I DARE YOU! You will DIE!",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1664960",
@@ -55,7 +55,7 @@
       "timestamp": "2026-05-14T00:47:00-04:00",
       "content": "Umar vs. Merab 2\n\nShamil Gaziev vs. Curtis Blaydes\n\nIslam Makhachev vs. Israel Adesanya\n\nPulyaev vs. Pyfer",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 4
     },
     {
       "id": "1664961",
@@ -64,7 +64,7 @@
       "timestamp": "2026-05-14T00:50:00-04:00",
       "content": "Carlos Ulberg vs. Usman Nurmagomedov",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 2
     },
     {
       "id": "1664962",
@@ -74,9 +74,18 @@
       "content": "@KHAMZAT_MAKHACHEV So this is confusing\n\nAre you Russian or American? You have a name that sounds like it would be from Dagestan or Chechnya or anywhere in that area yet you have a profile picture of American Sean Strickland with an American flag in the background.",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1664990",
+      "author": "Mothswords",
+      "authorUrl": "/profiles/mothswords",
+      "timestamp": "2026-05-14T06:38:00-04:00",
+      "content": "Main event should be DDP vs imavov for #1 contender",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-14T07:21:53.174928+00:00",
+  "scrapedAt": "2026-05-14T13:06:32.927821+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
