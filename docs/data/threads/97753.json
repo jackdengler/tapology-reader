@@ -9,7 +9,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-05-13T20:04:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -27,7 +27,7 @@
       "authorUrl": "/profiles/lost%20time",
       "timestamp": "2026-05-13T20:22:00-04:00",
       "content": "Rip Thomas Petersen’s legs",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -46,7 +46,7 @@
       "timestamp": "2026-05-14T00:44:00-04:00",
       "content": "Valter Walker is a DIRTY Brazilian who is a one-trick pony.\n\nTry that \"heelhook\" BS with a Russian, I DARE YOU! You will DIE!",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 5
     },
     {
       "id": "1664960",
@@ -55,7 +55,7 @@
       "timestamp": "2026-05-14T00:47:00-04:00",
       "content": "Umar vs. Merab 2\n\nShamil Gaziev vs. Curtis Blaydes\n\nIslam Makhachev vs. Israel Adesanya\n\nPulyaev vs. Pyfer",
       "upvotes": 0,
-      "downvotes": 4
+      "downvotes": 6
     },
     {
       "id": "1664961",
@@ -64,7 +64,7 @@
       "timestamp": "2026-05-14T00:50:00-04:00",
       "content": "Carlos Ulberg vs. Usman Nurmagomedov",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 5
     },
     {
       "id": "1664962",
@@ -72,8 +72,8 @@
       "authorUrl": "/profiles/lost%20time",
       "timestamp": "2026-05-14T00:56:00-04:00",
       "content": "@KHAMZAT_MAKHACHEV So this is confusing\n\nAre you Russian or American? You have a name that sounds like it would be from Dagestan or Chechnya or anywhere in that area yet you have a profile picture of American Sean Strickland with an American flag in the background.",
-      "upvotes": 0,
-      "downvotes": 0
+      "upvotes": 1,
+      "downvotes": 1
     },
     {
       "id": "1664990",
@@ -81,12 +81,21 @@
       "authorUrl": "/profiles/mothswords",
       "timestamp": "2026-05-14T06:38:00-04:00",
       "content": "Main event should be DDP vs imavov for #1 contender",
+      "upvotes": 3,
+      "downvotes": 0
+    },
+    {
+      "id": "1665108",
+      "author": "Lost Time",
+      "authorUrl": "/profiles/lost%20time",
+      "timestamp": "2026-05-14T16:50:00-04:00",
+      "content": "Axel Sola vs Ismael Bonfim is on this event\n\nPer Mike Heck: https://x.com/MikeHeck_JR/status/2055026721200525374?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-14T13:06:32.927821+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-05-14T21:24:53.780853+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }
