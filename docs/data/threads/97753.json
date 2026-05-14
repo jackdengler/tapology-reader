@@ -46,7 +46,7 @@
       "timestamp": "2026-05-14T00:44:00-04:00",
       "content": "Valter Walker is a DIRTY Brazilian who is a one-trick pony.\n\nTry that \"heelhook\" BS with a Russian, I DARE YOU! You will DIE!",
       "upvotes": 0,
-      "downvotes": 5
+      "downvotes": 6
     },
     {
       "id": "1664960",
@@ -55,7 +55,7 @@
       "timestamp": "2026-05-14T00:47:00-04:00",
       "content": "Umar vs. Merab 2\n\nShamil Gaziev vs. Curtis Blaydes\n\nIslam Makhachev vs. Israel Adesanya\n\nPulyaev vs. Pyfer",
       "upvotes": 0,
-      "downvotes": 6
+      "downvotes": 7
     },
     {
       "id": "1664961",
@@ -64,7 +64,7 @@
       "timestamp": "2026-05-14T00:50:00-04:00",
       "content": "Carlos Ulberg vs. Usman Nurmagomedov",
       "upvotes": 0,
-      "downvotes": 5
+      "downvotes": 6
     },
     {
       "id": "1664962",
@@ -81,7 +81,7 @@
       "authorUrl": "/profiles/mothswords",
       "timestamp": "2026-05-14T06:38:00-04:00",
       "content": "Main event should be DDP vs imavov for #1 contender",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -90,12 +90,30 @@
       "authorUrl": "/profiles/lost%20time",
       "timestamp": "2026-05-14T16:50:00-04:00",
       "content": "Axel Sola vs Ismael Bonfim is on this event\n\nPer Mike Heck: https://x.com/MikeHeck_JR/status/2055026721200525374?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+      "upvotes": 2,
+      "downvotes": 0
+    },
+    {
+      "id": "1665121",
+      "author": "qqqqqq",
+      "authorUrl": "/profiles/qqqqqq",
+      "timestamp": "2026-05-14T17:46:00-04:00",
+      "content": "He is under punishment and is undergoing transformation as we speak. Soon his name will be DUSTIN_STRICKLAND…",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1665124",
+      "author": "damn",
+      "authorUrl": "/profiles/damn",
+      "timestamp": "2026-05-14T17:51:00-04:00",
+      "content": "[Predictions]\n\nAxel Sola vs Gabriel Bonfim\n\nhttps://x.com/i/status/2055041325691474332",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-14T21:24:53.780853+00:00",
-  "eventName": "UFC Fight Night: Song vs. Figueiredo",
-  "eventDate": "May 30",
-  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
+  "scrapedAt": "2026-05-14T23:13:17.118528+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
