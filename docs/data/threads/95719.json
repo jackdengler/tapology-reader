@@ -1881,7 +1881,7 @@
       "authorUrl": "/profiles/mothswords",
       "timestamp": "2026-05-13T07:29:00-04:00",
       "content": "[Predictions]\n\nOut of town working 12 hour days all week. I'm definitely coming home and taking shrooms while watching this odd card",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 1
     },
     {
@@ -2151,7 +2151,7 @@
       "authorUrl": "/profiles/jeansilvaenjoyer",
       "timestamp": "2026-05-14T08:07:00-04:00",
       "content": "[Predictions]\n\nWhy would I watch Francis Ngannou when I can watch Big Brundage and Grim Reaper Gurule?\n\n* Edited at 05.14.2026,  8:09 AM ET *",
-      "upvotes": 7,
+      "upvotes": 8,
       "downvotes": 0
     },
     {
@@ -2503,7 +2503,7 @@
       "timestamp": "2026-05-14T20:06:00-04:00",
       "content": "[Predictions]\n\nCosta Vs Allen\nMelquizael Costa, R2 TKO\nThis is probably the most intriguing matchup to me out of the next 2 weeks FN main events. Arguments are clear for both sides. I haven't watched tape so I can't give an in depth technical analysis or a particularly informed opinion, but right now I think the danger Costa's kicking game brings wil be enough to get a stoppage, not confident in his 5 round cardio tho. I also tend to think Allen is a tad overrated given that most of what he's praised for is being competitive with yet still losing to good or even elite comp, he doesn't actually have any wins over guys currently ranked in featherweight (Unless you count either the Silva or Evloev losses as robberies, I guess). I definitely need to watch more tape on this.",
       "upvotes": 1,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1665167",
@@ -2520,7 +2520,7 @@
       "authorUrl": "/profiles/casualufcfan",
       "timestamp": "2026-05-14T21:29:00-04:00",
       "content": "[Predictions]\n\nAllen vs. Costa\nArnold Allen, TKO, R2\ncosta is a Brazilian bum who has absolutely  zero clue how to deliver precise strikes in mixed martial arts. just because he knocked out \"ige\" does not mean he has the Propper skills to compete with a high caliber of fighter like Arnold Allen",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 7
     },
     {
@@ -2585,10 +2585,37 @@
       "content": "[Predictions]\n\nBro lines are getting tighter. Gonna suck when I can no longer livebet anywhere. At least Choi ML is solid.",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1665213",
+      "author": "CherylReacts",
+      "authorUrl": "/profiles/cherylreacts",
+      "timestamp": "2026-05-15T04:48:00-04:00",
+      "content": "[Predictions]\n\nWellmaker vs. Díaz\nMalcolm Wellmaker, DEC\nseriously thought about taking wellmaker to ko juan diaz. he was really hittable on the regional scene and walked through a lot of shots from lower level bantamweights. but wellmaker has serious pop and his accuracy and power will end up winning in him at least 2 rounds in this fight. this is by no means a lock though juan diaz is slightly more technically sound both on the feet and on the ground and has serious durability, i just dont think he has enough of a difference in either category to overcome the damage hes likely gonna take in this fight. this is another case of diaz gets better as the fight goes on but ill say wellmaker makes strides and wins at least the first 2 rounds 29-28 decision.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1665216",
+      "author": "AminMMA",
+      "authorUrl": "/profiles/aminmma",
+      "timestamp": "2026-05-15T06:18:00-04:00",
+      "content": "[Predictions]\n\n@Casualufcfan Well said",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1665217",
+      "author": "AminMMA",
+      "authorUrl": "/profiles/aminmma",
+      "timestamp": "2026-05-15T06:19:00-04:00",
+      "content": "[Predictions]\n\n@Nietzsche Well said. Costa can’t box or wrestle.",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-15T07:35:39.466560+00:00",
-  "eventName": "UFC Fight Night: Allen vs. Costa",
-  "eventDate": "May 16",
-  "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
+  "scrapedAt": "2026-05-15T10:38:59.376654+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }

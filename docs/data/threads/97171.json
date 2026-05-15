@@ -279,7 +279,7 @@
       "authorUrl": "/profiles/tussin33",
       "timestamp": "2026-05-14T22:02:00-04:00",
       "content": "This card is ******* horrible so far lol",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -288,11 +288,20 @@
       "authorUrl": "/profiles/aidanweller07",
       "timestamp": "2026-05-14T23:33:00-04:00",
       "content": "Felipe Franco vs Levi Rodrigues is on this card. What an awful fight neither of those guys are UFC level",
-      "upvotes": 0,
+      "upvotes": 2,
       "downvotes": 0
+    },
+    {
+      "id": "1665220",
+      "author": "Mothswords",
+      "authorUrl": "/profiles/mothswords",
+      "timestamp": "2026-05-15T06:27:00-04:00",
+      "content": "[Predictions]\n\nHorrendous card so far holy ****",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-15T04:17:26.436214+00:00",
+  "scrapedAt": "2026-05-15T10:37:47.855944+00:00",
   "eventName": "UFC Fight Night: Allen vs. Costa",
   "eventDate": "May 16",
   "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
