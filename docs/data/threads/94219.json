@@ -18,7 +18,7 @@
       "authorUrl": "/profiles/chems",
       "timestamp": "2026-01-01T18:52:00-05:00",
       "content": "Dern vs zhang",
-      "upvotes": 10,
+      "upvotes": 11,
       "downvotes": 2
     },
     {
@@ -136,7 +136,7 @@
       "timestamp": "2026-03-16T09:49:00-04:00",
       "content": "Step by step, China will b̶u̶y̶ conquer the UFC, with the power of the CCP, all the campions will be Chinese 🇨🇳\n\nOk, now give me social credits I deserve, Xi",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1637630",
@@ -289,7 +289,7 @@
       "timestamp": "2026-05-07T06:19:00-04:00",
       "content": "@CowboyKurt Probably not. It's a Fight Night, so there's won't be a title fight",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1665114",
@@ -297,11 +297,20 @@
       "authorUrl": "/profiles/khabib%20is%20the%20goat",
       "timestamp": "2026-05-14T17:06:00-04:00",
       "content": "@IlikeMMAandboobs there have been fight nights headlined by title fights before, and a recent example is fight night shevchenko vs grasso 2",
+      "upvotes": 1,
+      "downvotes": 1
+    },
+    {
+      "id": "1665224",
+      "author": "IlikeMMAandboobs",
+      "authorUrl": "/profiles/ilikemmaandboobs",
+      "timestamp": "2026-05-15T07:27:00-04:00",
+      "content": "@Khabib is the goat Yeah, but it was 2023. Now they don't do title fights on Fight Nights anymore\n\nYour username sucks btw",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-14T21:24:48.746411+00:00",
+  "scrapedAt": "2026-05-15T13:06:11.276980+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
