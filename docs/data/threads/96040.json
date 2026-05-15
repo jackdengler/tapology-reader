@@ -855,11 +855,20 @@
       "authorUrl": "/profiles/spockling",
       "timestamp": "2026-05-14T12:53:00-04:00",
       "content": "[Predictions]\n\nWhat a poster man 😎😎😎😎🤘🤘🤘",
+      "upvotes": 1,
+      "downvotes": 2
+    },
+    {
+      "id": "1665197",
+      "author": "Casualufcfan",
+      "authorUrl": "/profiles/casualufcfan",
+      "timestamp": "2026-05-15T00:12:00-04:00",
+      "content": "[Predictions]\n\nGabriel Bonfim cannot effectively strike, grapple, kickbox, wrestle, or execute jiu-jitsu techniques. His offensive capabilities lack proficiency in delivering precise punches, powerful kicks, or controlled takedowns, and his defensive skills show limited aptitude. I think Emperor Belal makes this Brazilian cab driver quit via submission in round 4\n\n* Edited at 05.15.2026, 12:13 AM ET *",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-14T18:09:33.577405+00:00",
+  "scrapedAt": "2026-05-15T04:17:16.068410+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"

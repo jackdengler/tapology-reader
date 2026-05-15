@@ -243,8 +243,8 @@
       "authorUrl": "/profiles/osusnp",
       "timestamp": "2026-05-11T10:28:00-04:00",
       "content": "@gloopert doesn't have anything to do with the moose, but everything to do with his last name.",
-      "upvotes": 0,
-      "downvotes": 2
+      "upvotes": 1,
+      "downvotes": 3
     },
     {
       "id": "1664892",
@@ -252,7 +252,7 @@
       "authorUrl": "/profiles/lost%20time",
       "timestamp": "2026-05-13T16:04:00-04:00",
       "content": "Marc-Andre Barriault vs. Brad Tavares is now official for this event at 185 lbs.\n\nPer Marcel Dorff: https://x.com/BigMarcel24/status/2054625577600942357?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -262,11 +262,38 @@
       "timestamp": "2026-05-13T17:25:00-04:00",
       "content": "DDP vs. Usman",
       "upvotes": 0,
+      "downvotes": 5
+    },
+    {
+      "id": "1665166",
+      "author": "Lost Time",
+      "authorUrl": "/profiles/lost%20time",
+      "timestamp": "2026-05-14T20:47:00-04:00",
+      "content": "Chase Hooper vs Mitch Ramirez is now confirmed at 155.\n\nPer Marcel Dorff:\nhttps://x.com/BigMarcel24/status/2055086705384796665?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+      "upvotes": 2,
       "downvotes": 1
+    },
+    {
+      "id": "1665174",
+      "author": "Tussin33",
+      "authorUrl": "/profiles/tussin33",
+      "timestamp": "2026-05-14T22:02:00-04:00",
+      "content": "This card is ******* horrible so far lol",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1665194",
+      "author": "aidanweller07",
+      "authorUrl": "/profiles/aidanweller07",
+      "timestamp": "2026-05-14T23:33:00-04:00",
+      "content": "Felipe Franco vs Levi Rodrigues is on this card. What an awful fight neither of those guys are UFC level",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-13T22:39:44.323880+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-05-15T04:17:26.436214+00:00",
+  "eventName": "UFC Fight Night: Allen vs. Costa",
+  "eventDate": "May 16",
+  "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
 }
