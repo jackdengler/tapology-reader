@@ -128,10 +128,19 @@
       "content": "Steve Erceg vs. Ramazan Temirov officially set for UFC Abu Dhabi, July 25th",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1665291",
+      "author": "SWRS",
+      "authorUrl": "/profiles/swrs",
+      "timestamp": "2026-05-15T14:28:00-04:00",
+      "content": "[Predictions]\n\nWalker vs. Petersen\nValter Walker, SUB, R1\nHeel hook\n\nKuniev vs. Fortune\nTyrell Fortune, DEC\nTyrell wins a close decision\n\nBonfim vs. Sola\nAxel Sola, TKO, R1\nIsmael bonfim is a can",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-15T15:29:22.708921+00:00",
-  "eventName": "UFC Fight Night: Allen vs. Costa",
-  "eventDate": "May 16",
-  "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
+  "scrapedAt": "2026-05-15T19:55:11.250513+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }

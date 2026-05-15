@@ -279,8 +279,8 @@
       "authorUrl": "/profiles/tussin33",
       "timestamp": "2026-05-14T22:02:00-04:00",
       "content": "This card is ******* horrible so far lol",
-      "upvotes": 1,
-      "downvotes": 0
+      "upvotes": 2,
+      "downvotes": 1
     },
     {
       "id": "1665194",
@@ -288,8 +288,8 @@
       "authorUrl": "/profiles/aidanweller07",
       "timestamp": "2026-05-14T23:33:00-04:00",
       "content": "Felipe Franco vs Levi Rodrigues is on this card. What an awful fight neither of those guys are UFC level",
-      "upvotes": 2,
-      "downvotes": 0
+      "upvotes": 3,
+      "downvotes": 1
     },
     {
       "id": "1665220",
@@ -297,12 +297,21 @@
       "authorUrl": "/profiles/mothswords",
       "timestamp": "2026-05-15T06:27:00-04:00",
       "content": "[Predictions]\n\nHorrendous card so far holy ****",
+      "upvotes": 3,
+      "downvotes": 2
+    },
+    {
+      "id": "1665290",
+      "author": "SWRS",
+      "authorUrl": "/profiles/swrs",
+      "timestamp": "2026-05-15T14:25:00-04:00",
+      "content": "[Predictions]\n\nTavares vs. Barriault\nMarc-André Barriault, TKO, R1\nBarriault brutal ko\n\nHooper vs. Ramirez\nChase Hooper, SUB, R3\nHooper late sub",
       "upvotes": 0,
       "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-15T10:37:47.855944+00:00",
-  "eventName": "UFC Fight Night: Allen vs. Costa",
-  "eventDate": "May 16",
-  "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
+  "scrapedAt": "2026-05-15T19:55:21.189131+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }
