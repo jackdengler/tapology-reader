@@ -119,10 +119,19 @@
       "content": "[Predictions]\n\nGoing to this event can’t wait to see Sola live again",
       "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1665247",
+      "author": "ThePersianMMA",
+      "authorUrl": "/profiles/thepersianmma",
+      "timestamp": "2026-05-15T10:57:00-04:00",
+      "content": "Steve Erceg vs. Ramazan Temirov officially set for UFC Abu Dhabi, July 25th",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-15T13:06:16.303703+00:00",
-  "eventName": "UFC Fight Night: Song vs. Figueiredo",
-  "eventDate": "May 30",
-  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
+  "scrapedAt": "2026-05-15T15:29:22.708921+00:00",
+  "eventName": "UFC Fight Night: Allen vs. Costa",
+  "eventDate": "May 16",
+  "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
 }
