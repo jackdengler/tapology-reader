@@ -317,10 +317,19 @@
       "content": "[Predictions]\n\nHooper vs. Ramirez\nChase Hooper, SUB, R1\nfailed prospect stop giving this guy layups",
       "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1665634",
+      "author": "osusnp",
+      "authorUrl": "/profiles/osusnp",
+      "timestamp": "2026-05-16T15:10:00-04:00",
+      "content": "idiots downvoting the mcvey comments know nothing about oklahoma city and it shows.",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-16T17:16:38.113155+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-05-16T19:34:34.137774+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }
