@@ -326,9 +326,18 @@
       "content": "@Khabib is the goat\nNo one cares what YOU wanna see bro 😭",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1666011",
+      "author": "Khabib is the goat",
+      "authorUrl": "/profiles/khabib%20is%20the%20goat",
+      "timestamp": "2026-05-16T18:28:00-04:00",
+      "content": "@IlikeMMAandboobs has anyone told you your profile picture looks very weird",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-16T21:06:22.837710+00:00",
+  "scrapedAt": "2026-05-16T23:11:42.361702+00:00",
   "eventName": "Live Now • UFC Fight Night",
   "eventDate": "",
   "fightcenterUrl": "/fightcenter/events/140458-ufc-fight-night"
