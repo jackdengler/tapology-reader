@@ -153,7 +153,7 @@
       "authorUrl": "/profiles/lost%20time",
       "timestamp": "2026-05-15T17:21:00-04:00",
       "content": "Vlasto Cepo vs Gilbert Urbina confirmed for this event at 185 lbs.\n\nPer Marcel Dorff:\nhttps://x.com/BigMarcel24/status/2055392398922949015?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -162,11 +162,20 @@
       "authorUrl": "/profiles/chems",
       "timestamp": "2026-05-15T20:43:00-04:00",
       "content": "[Predictions]\n\nJovan is here i predict these things",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1665502",
+      "author": "grayerman",
+      "authorUrl": "/profiles/grayerman",
+      "timestamp": "2026-05-16T01:11:00-04:00",
+      "content": "Interesting card so far",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-16T04:02:10.288236+00:00",
+  "scrapedAt": "2026-05-16T06:35:22.229370+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
