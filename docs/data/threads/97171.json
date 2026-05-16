@@ -326,9 +326,18 @@
       "content": "idiots downvoting the mcvey comments know nothing about oklahoma city and it shows.",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1665664",
+      "author": "Shayachamp",
+      "authorUrl": "/profiles/shayachamp",
+      "timestamp": "2026-05-16T16:00:00-04:00",
+      "content": "Jean Silva vs Yair Rodriguez Main Event\nJacobe Smith vs Holland Or Colby Co-main Event\nTell me that wont be Fire.",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-16T19:34:34.137774+00:00",
+  "scrapedAt": "2026-05-16T21:06:33.236485+00:00",
   "eventName": "UFC Fight Night: Song vs. Figueiredo",
   "eventDate": "May 30",
   "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
