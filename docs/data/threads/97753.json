@@ -154,10 +154,19 @@
       "timestamp": "2026-05-16T07:29:00-04:00",
       "content": "[Predictions]\n\nRibeiro vs. Tuchalov\nMagomed Tuchalov, TKO, R1\nChampion",
       "upvotes": 1,
+      "downvotes": 1
+    },
+    {
+      "id": "1665564",
+      "author": "cuzz",
+      "authorUrl": "/profiles/cuzz",
+      "timestamp": "2026-05-16T10:08:00-04:00",
+      "content": "[Predictions]\n\ncelt you are still suspended for 11 more months\n\ndo not create alts to get around your original suspension",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-16T12:06:50.831765+00:00",
+  "scrapedAt": "2026-05-16T15:17:23.018865+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
