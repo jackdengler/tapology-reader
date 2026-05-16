@@ -288,7 +288,7 @@
       "authorUrl": "/profiles/aidanweller07",
       "timestamp": "2026-05-14T23:33:00-04:00",
       "content": "Felipe Franco vs Levi Rodrigues is on this card. What an awful fight neither of those guys are UFC level",
-      "upvotes": 3,
+      "upvotes": 5,
       "downvotes": 1
     },
     {
@@ -297,7 +297,7 @@
       "authorUrl": "/profiles/mothswords",
       "timestamp": "2026-05-15T06:27:00-04:00",
       "content": "[Predictions]\n\nHorrendous card so far holy ****",
-      "upvotes": 3,
+      "upvotes": 5,
       "downvotes": 2
     },
     {
@@ -308,10 +308,19 @@
       "content": "[Predictions]\n\nTavares vs. Barriault\nMarc-André Barriault, TKO, R1\nBarriault brutal ko\n\nHooper vs. Ramirez\nChase Hooper, SUB, R3\nHooper late sub",
       "upvotes": 0,
       "downvotes": 1
+    },
+    {
+      "id": "1665584",
+      "author": "fentanylcowboy",
+      "authorUrl": "/profiles/fentanylcowboy",
+      "timestamp": "2026-05-16T12:24:00-04:00",
+      "content": "[Predictions]\n\nHooper vs. Ramirez\nChase Hooper, SUB, R1\nfailed prospect stop giving this guy layups",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-15T19:55:21.189131+00:00",
-  "eventName": "UFC Fight Night: Song vs. Figueiredo",
-  "eventDate": "May 30",
-  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
+  "scrapedAt": "2026-05-16T17:16:38.113155+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
