@@ -1,7 +1,7 @@
 {
   "id": "96050",
   "title": "UFC 329UFC 329: McGregor vs. Holloway 2",
-  "totalPages": 8,
+  "totalPages": 9,
   "posts": [
     {
       "id": "1634973",
@@ -1458,7 +1458,7 @@
       "authorUrl": "/profiles/battousai",
       "timestamp": "2026-05-17T09:06:00-04:00",
       "content": "Conor, Paddy and Gable all on one card is crazy. UFC typically doesn't pack that much star power onto one card. They very smartly realize this is probably the last time they'll be able to use Mcgregor to draw eyeballs though, so it makes sense.",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -1503,11 +1503,47 @@
       "authorUrl": "/profiles/johnvolcan",
       "timestamp": "2026-05-17T12:02:00-04:00",
       "content": "[Predictions]\n\nMcGregor vs. Holloway II\nMax Holloway, TKO, R3\nHolloway should win this of course, but I do think Conor has a real puncher's chance in the first round and a half, as always. But his cardio is likely worse than ever and his timing will be a bit rusty, so it should be fun and back and forth for a round, then Holloway will start to beat the hell out of him.\n\nSaint-Denis vs. Pimblett\nBenoit Saint-Denis, SUB, R2\nBSD is the rightful favorite here, but seriously Pimblett has a real chance here, he should ne counted out. BSD hits harder but Pimblett has a SOLID chin, probably better than BSD's, and both have terrible striking defense so it should be chaotic on the feet. Both great on the ground, so it really should be a fun all action bout with a finish.",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1667366",
+      "author": "Spockling",
+      "authorUrl": "/profiles/spockling",
+      "timestamp": "2026-05-17T13:49:00-04:00",
+      "content": "[Predictions]\n\nDont see a way royval looses",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1634973",
+      "author": "Tapology",
+      "authorUrl": "/profiles/tapology",
+      "timestamp": "2026-03-13T09:54:00-04:00",
+      "content": "The official Tapology discussion thread for the event!",
+      "upvotes": 8,
+      "downvotes": 1
+    },
+    {
+      "id": "1667369",
+      "author": "gavdaddydeluxe",
+      "authorUrl": "/profiles/gavdaddydeluxe",
+      "timestamp": "2026-05-17T13:54:00-04:00",
+      "content": "[Predictions]\n\nMcGregor vs. Holloway II\nMax Holloway, TKO, R2\nStupid fight",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667372",
+      "author": "cuzz",
+      "authorUrl": "/profiles/cuzz",
+      "timestamp": "2026-05-17T14:09:00-04:00",
+      "content": "[Predictions]\n\n@Spockling ****ling you are better than this, Loner is going to mog him",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-17T16:14:40.626447+00:00",
+  "scrapedAt": "2026-05-17T18:11:05.692638+00:00",
   "eventName": "UFC 329: McGregor vs. Holloway 2",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"

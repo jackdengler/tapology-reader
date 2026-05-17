@@ -217,10 +217,19 @@
       "timestamp": "2026-05-17T09:29:00-04:00",
       "content": "Medić vs Dalby?",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1667371",
+      "author": "gavdaddydeluxe",
+      "authorUrl": "/profiles/gavdaddydeluxe",
+      "timestamp": "2026-05-17T13:59:00-04:00",
+      "content": "[Predictions]\n\nTodorović vs. Valentin\nRobert Valentin, TKO, R2\nHorrible fight. Who cares about either of these two.",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-17T14:03:25.308265+00:00",
+  "scrapedAt": "2026-05-17T18:11:15.743122+00:00",
   "eventName": "UFC Fight Night: Song vs. Figueiredo",
   "eventDate": "May 30",
   "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
