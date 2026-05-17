@@ -873,7 +873,7 @@
       "authorUrl": "/profiles/goyimbets",
       "timestamp": "2026-05-17T02:19:00-04:00",
       "content": "No idea what schnell did to the UFC but it has to be veeery bad 🤣",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -902,9 +902,18 @@
       "content": "@user5\nBrother I have a feeling that take is gonna come back to bite you hard. The UFC absolutely hates Ziam and are praying he gets bonked in this one.",
       "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1667340",
+      "author": "cuzz",
+      "authorUrl": "/profiles/cuzz",
+      "timestamp": "2026-05-17T11:03:00-04:00",
+      "content": "[Predictions]\n\nZiam vs. Nolan\nFares Ziam, TKO, R2\nLightweights real prospect, would dominate \"Salkillid\"\n\nSchnell vs. Rodriguez\nImanol Rodriguez, TKO, R1\nSchnell got that jrey chin\n\nMcGhee vs. Yannis\nMarcus McGhee, TKO, R2\nManiac my beloved",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-17T14:04:36.946674+00:00",
+  "scrapedAt": "2026-05-17T15:25:27.993987+00:00",
   "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
   "eventDate": "June  6",
   "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"

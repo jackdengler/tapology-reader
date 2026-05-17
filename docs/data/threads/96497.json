@@ -182,9 +182,18 @@
       "content": "[Predictions]\n\nSure is there a specific fight you want a line for",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667338",
+      "author": "Bigbrabble",
+      "authorUrl": "/profiles/bigbrabble",
+      "timestamp": "2026-05-17T10:48:00-04:00",
+      "content": "[Predictions]\n\nBo Meng army",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-17T14:03:30.639276+00:00",
+  "scrapedAt": "2026-05-17T15:25:33.605116+00:00",
   "eventName": "Road to UFC",
   "eventDate": "",
   "fightcenterUrl": "/fightcenter/events/141796-road-to-ufc-macau-day-2"

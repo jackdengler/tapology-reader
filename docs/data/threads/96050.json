@@ -9,7 +9,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 7,
+      "upvotes": 8,
       "downvotes": 1
     },
     {
@@ -198,7 +198,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 7,
+      "upvotes": 8,
       "downvotes": 1
     },
     {
@@ -387,7 +387,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 7,
+      "upvotes": 8,
       "downvotes": 1
     },
     {
@@ -576,7 +576,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 7,
+      "upvotes": 8,
       "downvotes": 1
     },
     {
@@ -765,7 +765,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 7,
+      "upvotes": 8,
       "downvotes": 1
     },
     {
@@ -954,7 +954,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 7,
+      "upvotes": 8,
       "downvotes": 1
     },
     {
@@ -1143,7 +1143,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 7,
+      "upvotes": 8,
       "downvotes": 1
     },
     {
@@ -1332,7 +1332,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 7,
+      "upvotes": 8,
       "downvotes": 1
     },
     {
@@ -1440,7 +1440,7 @@
       "authorUrl": "/profiles/aminmma",
       "timestamp": "2026-05-17T08:16:00-04:00",
       "content": "[Predictions]\n\nWhittaker vs. Krylov\nRobert Whittaker, TKO, R1\nWhittaker shouldn't be in in the prelims at all but I really hope he retires here if this goes how I think it goes",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -1450,7 +1450,7 @@
       "timestamp": "2026-05-17T08:42:00-04:00",
       "content": "[Predictions]\n\nI hate to be that guy but I can't say I'm excited for a 37 year old drug addict who hasn't fought in 5 years to main event against a guy who lost every round his last fight.",
       "upvotes": 2,
-      "downvotes": 1
+      "downvotes": 3
     },
     {
       "id": "1667326",
@@ -1458,11 +1458,20 @@
       "authorUrl": "/profiles/battousai",
       "timestamp": "2026-05-17T09:06:00-04:00",
       "content": "Conor, Paddy and Gable all on one card is crazy. UFC typically doesn't pack that much star power onto one card. They very smartly realize this is probably the last time they'll be able to use Mcgregor to draw eyeballs though, so it makes sense.",
-      "upvotes": 1,
+      "upvotes": 2,
+      "downvotes": 0
+    },
+    {
+      "id": "1667342",
+      "author": "madaMMA",
+      "authorUrl": "/profiles/madamma",
+      "timestamp": "2026-05-17T11:10:00-04:00",
+      "content": "[Predictions]\n\nMcGregor vs. Holloway II\nMax Holloway, TKO, R1\n****** #1\n\nSteveson vs. Ellison\nGable Steveson, TKO, R1\n****** #2",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-17T14:04:11.544636+00:00",
+  "scrapedAt": "2026-05-17T15:24:30.989558+00:00",
   "eventName": "UFC 329: McGregor vs. Holloway 2",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
