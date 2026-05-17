@@ -207,12 +207,21 @@
       "authorUrl": "/profiles/chems",
       "timestamp": "2026-05-16T23:11:00-04:00",
       "content": "[Predictions]\n\nYO THERES NO WAY I SAID VALTIN VS DUSKO WAS GOING TO BE ON IT",
-      "upvotes": 2,
+      "upvotes": 3,
+      "downvotes": 0
+    },
+    {
+      "id": "1667331",
+      "author": "CerroneSlap",
+      "authorUrl": "/profiles/cerroneslap",
+      "timestamp": "2026-05-17T09:29:00-04:00",
+      "content": "Medić vs Dalby?",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-17T11:34:29.621659+00:00",
-  "eventName": "UFC Fight Night: Fiziev vs. Torres",
-  "eventDate": "June 27",
-  "fightcenterUrl": "/fightcenter/events/141299-ufc-fight-night"
+  "scrapedAt": "2026-05-17T14:03:25.308265+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }
