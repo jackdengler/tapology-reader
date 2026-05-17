@@ -1134,7 +1134,7 @@
       "authorUrl": "/profiles/zachthetruth",
       "timestamp": "2026-05-09T00:58:00-04:00",
       "content": "[Predictions]\n\nYanez Ko rd 1",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 1
     },
     {
@@ -1413,7 +1413,7 @@
       "authorUrl": "/profiles/pisklak",
       "timestamp": "2026-05-17T06:40:00-04:00",
       "content": "[Predictions]\n\nPinas vs. Almeida\nCésar Almeida, TKO, R1\n**** has no chances against ex kickboxer",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -1422,7 +1422,7 @@
       "authorUrl": "/profiles/cuzz",
       "timestamp": "2026-05-17T07:04:00-04:00",
       "content": "[Predictions]\n\nMcGregor vs. Holloway II\nMax Holloway, TKO, R3\nSeeya bye ******, levels will be shown",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -1450,7 +1450,7 @@
       "timestamp": "2026-05-17T08:42:00-04:00",
       "content": "[Predictions]\n\nI hate to be that guy but I can't say I'm excited for a 37 year old drug addict who hasn't fought in 5 years to main event against a guy who lost every round his last fight.",
       "upvotes": 2,
-      "downvotes": 3
+      "downvotes": 4
     },
     {
       "id": "1667326",
@@ -1458,7 +1458,7 @@
       "authorUrl": "/profiles/battousai",
       "timestamp": "2026-05-17T09:06:00-04:00",
       "content": "Conor, Paddy and Gable all on one card is crazy. UFC typically doesn't pack that much star power onto one card. They very smartly realize this is probably the last time they'll be able to use Mcgregor to draw eyeballs though, so it makes sense.",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -1467,11 +1467,47 @@
       "authorUrl": "/profiles/madamma",
       "timestamp": "2026-05-17T11:10:00-04:00",
       "content": "[Predictions]\n\nMcGregor vs. Holloway II\nMax Holloway, TKO, R1\n****** #1\n\nSteveson vs. Ellison\nGable Steveson, TKO, R1\n****** #2",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1667347",
+      "author": "CowboyKurt",
+      "authorUrl": "/profiles/cowboykurt",
+      "timestamp": "2026-05-17T11:36:00-04:00",
+      "content": "[Predictions]\n\nMcGregor vs. Holloway II\nMax Holloway, TKO, R3\nMac is back Max in 3",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667349",
+      "author": "ketzk",
+      "authorUrl": "/profiles/ketzk",
+      "timestamp": "2026-05-17T11:44:00-04:00",
+      "content": "What a great matchup and an exciting event to look forward too, right after the White House card! UFC on fire lately.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667350",
+      "author": "flavorpacket",
+      "authorUrl": "/profiles/flavorpacket",
+      "timestamp": "2026-05-17T11:46:00-04:00",
+      "content": "[Predictions]\n\nMcGregor vs. Holloway II\nMax Holloway, TKO, R4\n\nMcCoke will get dusted bad here. Pillow fist Max might actually have a bit of power at 170. Max has fought 8 times since Conor snapped his leg. UFC is trying to squeeze one last payday out of Conor's name. I could go on but you get the picture. Just eat the chalk and put the house on Max.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667351",
+      "author": "JohnVolcan",
+      "authorUrl": "/profiles/johnvolcan",
+      "timestamp": "2026-05-17T12:02:00-04:00",
+      "content": "[Predictions]\n\nMcGregor vs. Holloway II\nMax Holloway, TKO, R3\nHolloway should win this of course, but I do think Conor has a real puncher's chance in the first round and a half, as always. But his cardio is likely worse than ever and his timing will be a bit rusty, so it should be fun and back and forth for a round, then Holloway will start to beat the hell out of him.\n\nSaint-Denis vs. Pimblett\nBenoit Saint-Denis, SUB, R2\nBSD is the rightful favorite here, but seriously Pimblett has a real chance here, he should ne counted out. BSD hits harder but Pimblett has a SOLID chin, probably better than BSD's, and both have terrible striking defense so it should be chaotic on the feet. Both great on the ground, so it really should be a fun all action bout with a finish.",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-17T15:24:30.989558+00:00",
+  "scrapedAt": "2026-05-17T16:14:40.626447+00:00",
   "eventName": "UFC 329: McGregor vs. Holloway 2",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
