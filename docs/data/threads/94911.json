@@ -27,7 +27,7 @@
       "authorUrl": "/profiles/lovesong",
       "timestamp": "2026-02-02T08:00:00-05:00",
       "content": "that’s what i was thinking",
-      "upvotes": 15,
+      "upvotes": 16,
       "downvotes": 0
     },
     {
@@ -82,7 +82,7 @@
       "timestamp": "2026-02-16T06:17:00-05:00",
       "content": "@GSPGOAT123 that’s why they are doing Van vs Taira for the title and not Van vs Kape who deserves it more",
       "upvotes": 2,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1623478",
@@ -90,7 +90,7 @@
       "authorUrl": "/profiles/the%20giraffe",
       "timestamp": "2026-02-16T11:10:00-05:00",
       "content": "Manel Kape has also missed weight a couple times, had to pull out from injury, and was pulled from a fight for testing positive for Turinabol metabolites, while Taira's record on that sort of stuff is clean.  Taira being more reliable is a big factor.",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 0
     },
     {
@@ -351,7 +351,7 @@
       "authorUrl": "/profiles/elitemmapicks",
       "timestamp": "2026-03-14T05:57:00-04:00",
       "content": "[Predictions]\n\nAlex Perez vs Sumudaerji\nPick: Perez via decision\n31% of Tapology users (148 users) are picking Sumudaerji (93% decision)\nSumudaerji is 3.8 years younger (30.4 vs 34.2)\nSumudaerji has 7” reach edge (72” vs 65”)\nSumudaerji has +2.08 strike differential/min vs +1.21\nSumudaerji proj. +6.7 significant strikes attempted\nSumudaerji proj. +7.2 significant strikes landed\nSumudaerji proj. +5.7 head strikes landed\nPerez proj. 0.42 knockdowns vs 0.11\nPerez proj. 1.7 takedowns landed (4.6 attempts) vs 0.6 (1.9 attempts)\nSumudaerji proj. 38.0% finish chance vs 31.0% and 31.0% decision\nPerez is a good play if he is significant betting favorite\nSumudaerji is younger, has big reach edge and will likely win distance striking",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 4
     },
     {
@@ -1163,9 +1163,27 @@
       "content": "[Predictions]\n\nJake Matthews vs Carlston Harris\nPick: Matthews via decision\n98% of Tapology users (164 users) are picking Matthews (32% decision)\nMatthews is 7.1 years younger (31.8 vs 38.9)\nHarris has 3” reach edge (76” vs 73”)\nMatthews is from Australia, Harris is from Guyana (event is in China)\nMatthews has +0.72 strike differential/min vs +0.33\nBoth fighters proj. 115 significant strikes attempted\nMatthews proj. +3.2 significant strikes landed\nMatthews proj. +5.3 head strikes landed\nMatthews proj. 0.59 knockdowns vs 0.38\nHarris proj. 1.9 takedowns landed (6.6 attempts) vs 1.5 (3.5 attempts)\nMatthews proj. 3.5 mins control time vs 2.9 mins\nMatthews proj. 0.80 submission attempts vs 0.60\nMatthews proj. 31.0% finish chance vs 29.5% and 39.5% decision",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667386",
+      "author": "Shilo_Primetime",
+      "authorUrl": "/profiles/shilo_primetime",
+      "timestamp": "2026-05-17T15:49:00-04:00",
+      "content": "[Predictions]\n\nZhu vs. Vera\nRodrigo Vera, SUB, R2\nI had jaun Diaz submission btw🤓☝🏻 this vera is the only guy to beat him and is a DAWG, and will take vera by sub here too tbh, good grappling and I don't trust and of these Chinese fighter coming up from china",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1667388",
+      "author": "grayerman",
+      "authorUrl": "/profiles/grayerman",
+      "timestamp": "2026-05-17T16:17:00-04:00",
+      "content": "[Predictions]\n\nI love Yadong",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-17T19:36:42.307443+00:00",
+  "scrapedAt": "2026-05-17T21:10:13.424579+00:00",
   "eventName": "UFC Fight Night: Song vs. Figueiredo",
   "eventDate": "May 30",
   "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
