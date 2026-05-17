@@ -333,7 +333,7 @@
       "authorUrl": "/profiles/shayachamp",
       "timestamp": "2026-05-16T16:00:00-04:00",
       "content": "Jean Silva vs Yair Rodriguez Main Event\nJacobe Smith vs Holland Or Colby Co-main Event\nTell me that wont be Fire.",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -344,9 +344,18 @@
       "content": "[Predictions]\n\nStewarts going to get killed\nAlden Coria Round 1 KO bodyshot\n\n* Edited at 05.17.2026, 12:12 AM ET *",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667309",
+      "author": "Richmond1724",
+      "authorUrl": "/profiles/richmond1724",
+      "timestamp": "2026-05-17T07:01:00-04:00",
+      "content": "What weird matchmaking the fact Stewart Nicoll is still in the ufc at 0-3 is pathetic but the fact he’s fighting somome who is 2-0 in the ufc makes no sense",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-17T04:28:51.115626+00:00",
+  "scrapedAt": "2026-05-17T11:34:19.789683+00:00",
   "eventName": "UFC Fight Night: Song vs. Figueiredo",
   "eventDate": "May 30",
   "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
