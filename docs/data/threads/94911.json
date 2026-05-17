@@ -369,7 +369,7 @@
       "authorUrl": "/profiles/ayylmaonnaise",
       "timestamp": "2026-03-14T09:01:00-04:00",
       "content": "[Predictions]\n\nBig Su via y’all must’ve forgot",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -1026,7 +1026,7 @@
       "authorUrl": "/profiles/cuzz",
       "timestamp": "2026-05-17T11:05:00-04:00",
       "content": "[Predictions]\n\n@Miguelpicks BIG SU\n\n* Edited at 05.17.2026, 11:06 AM ET *",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -1046,9 +1046,54 @@
       "content": "[Predictions]\n\nZhang vs. Menifield\nMingyang Zhang, TKO, R1\nShould be an easy knockout for Zhang, but if it leaves round 1 it's anybody's fight.",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667353",
+      "author": "Miguelpicks",
+      "authorUrl": "/profiles/miguelpicks",
+      "timestamp": "2026-05-17T12:21:00-04:00",
+      "content": "[Predictions]\n\n@cuzz not a chance the sub game isn't good enough and perez if he doesn't blow out his knee can arguably beat mokarv.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667354",
+      "author": "AyyLmaonnaise",
+      "authorUrl": "/profiles/ayylmaonnaise",
+      "timestamp": "2026-05-17T12:25:00-04:00",
+      "content": "[Predictions]\n\nNot a chance is crazy. Perez is a good fighter but he’s also 2-5 in his last 7 and been finished in almost all of his losses",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1667356",
+      "author": "Miguelpicks",
+      "authorUrl": "/profiles/miguelpicks",
+      "timestamp": "2026-05-17T12:37:00-04:00",
+      "content": "[Predictions]\n\n@AyyLmaonnaise yes that was hyperbole but level of competition matters and perez can wrestle here and threatens subs as well. Losing to figgy, pantoja, mokaev, and taira by injury are all good/great losses that su would never get the chance to have.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667357",
+      "author": "Miguelpicks",
+      "authorUrl": "/profiles/miguelpicks",
+      "timestamp": "2026-05-17T12:39:00-04:00",
+      "content": "[Predictions]\n\n@AyyLmaonnaise im not trying to come of as snarky I'm on perez and at -125 it's a must play for me. Losing to schnell and smolka after gassing are bad looks and pacing yourself against perez will allow him to land power shots at will.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667361",
+      "author": "Vandal",
+      "authorUrl": "/profiles/vandal",
+      "timestamp": "2026-05-17T13:05:00-04:00",
+      "content": "[Predictions]\n\nAoriqileng vs. Haddon\nCody Haddon, DEC\nHaddon for sure",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-17T16:15:11.825737+00:00",
+  "scrapedAt": "2026-05-17T17:14:30.219674+00:00",
   "eventName": "UFC Fight Night: Song vs. Figueiredo",
   "eventDate": "May 30",
   "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
