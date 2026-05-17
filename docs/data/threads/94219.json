@@ -298,7 +298,7 @@
       "timestamp": "2026-05-14T17:06:00-04:00",
       "content": "@IlikeMMAandboobs there have been fight nights headlined by title fights before, and a recent example is fight night shevchenko vs grasso 2",
       "upvotes": 1,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1665224",
@@ -316,7 +316,7 @@
       "timestamp": "2026-05-15T17:34:00-04:00",
       "content": "@IlikeMMAandboobs thankyou for the compliment about my username and also i dont want to see wmma fights on ppv unless its amanda nunes vs harrison or weili after she destroys dern",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1665673",
@@ -371,10 +371,19 @@
       "content": "@Khabib is the goat Exactly!",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667304",
+      "author": "Khabib is the goat",
+      "authorUrl": "/profiles/khabib%20is%20the%20goat",
+      "timestamp": "2026-05-17T04:12:00-04:00",
+      "content": "@IlikeMMAandboobs i think islam makhachev beat ilia topuria via sub d'arce r1 at welterweight but at lightweight islam wins sub d'arce r5",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-17T07:51:16.301895+00:00",
-  "eventName": "UFC Fight Night: Song vs. Figueiredo",
-  "eventDate": "May 30",
-  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
+  "scrapedAt": "2026-05-17T10:07:08.699939+00:00",
+  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
+  "eventDate": "June  6",
+  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
 }
