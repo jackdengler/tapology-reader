@@ -9,7 +9,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-02T01:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 0
     },
     {
@@ -198,7 +198,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-02T01:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 0
     },
     {
@@ -387,7 +387,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-02T01:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 0
     },
     {
@@ -576,7 +576,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-02T01:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 0
     },
     {
@@ -765,7 +765,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-02T01:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 0
     },
     {
@@ -954,7 +954,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-02T01:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 0
     },
     {
@@ -1143,7 +1143,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-02-02T01:03:00-05:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 0
     },
     {
@@ -1206,11 +1206,29 @@
       "authorUrl": "/profiles/miguelpicks",
       "timestamp": "2026-05-17T18:43:00-04:00",
       "content": "[Predictions]\n\nAmorim at plus money auto-play.",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1667412",
+      "author": "Mightypro150",
+      "authorUrl": "/profiles/mightypro150",
+      "timestamp": "2026-05-17T19:34:00-04:00",
+      "content": "[Predictions]\n\nZhu vs. Vera\nRodrigo Vera, DEC\nGood doght tough pick. Vera doesn't respect your space and pressures non stop forward into takedowns and throws anything until he's on your waist. Kangie Zuo needs space and will be backing up looking for perfect counters and needs more space to land with precision and damage.  Combat is seeing more early success than the Chinese circuit at this level.  Zuo by KO or Vera with volume and takedowns.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667414",
+      "author": "JitMMA",
+      "authorUrl": "/profiles/jitmma",
+      "timestamp": "2026-05-17T19:47:00-04:00",
+      "content": "[Predictions]\n\nZhang vs. Menifield\nYao Ming, TKO, R1\n失败乃成功之母",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-17T23:11:38.833764+00:00",
+  "scrapedAt": "2026-05-18T00:10:45.673434+00:00",
   "eventName": "UFC Fight Night: Song vs. Figueiredo",
   "eventDate": "May 30",
   "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
