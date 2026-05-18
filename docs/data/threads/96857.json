@@ -36,7 +36,7 @@
       "authorUrl": "/profiles/grayerman",
       "timestamp": "2026-04-14T15:32:00-04:00",
       "content": "Go Birds",
-      "upvotes": 6,
+      "upvotes": 7,
       "downvotes": 3
     },
     {
@@ -46,7 +46,7 @@
       "timestamp": "2026-04-14T16:02:00-04:00",
       "content": "Philly ******* sucks buts its only an hour from me and the company I work for has box seats at the Xfinity arena.",
       "upvotes": 1,
-      "downvotes": 6
+      "downvotes": 7
     },
     {
       "id": "1651968",
@@ -126,7 +126,7 @@
       "authorUrl": "/profiles/ntrsbob",
       "timestamp": "2026-04-15T23:32:00-04:00",
       "content": "@Mothswords Philly is the ****. You just said a lot about yourself.",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 1
     },
     {
@@ -136,7 +136,7 @@
       "timestamp": "2026-04-16T08:39:00-04:00",
       "content": "@ntrsbob philly ain't ****. Disgusting dirty city full of morons",
       "upvotes": 1,
-      "downvotes": 9
+      "downvotes": 10
     },
     {
       "id": "1652393",
@@ -144,7 +144,7 @@
       "authorUrl": "/profiles/ntrsbob",
       "timestamp": "2026-04-16T09:54:00-04:00",
       "content": "@Mothswords Just as suspected.",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 1
     },
     {
@@ -235,7 +235,7 @@
       "timestamp": "2026-05-18T09:51:00-04:00",
       "content": "The longer it takes for them to announce who Islam is fighting leads me to believe its probably not gonna be on this card. Islam is probably gonna fight in Vegas or NYC closer to the end of the year if I had to guess. I think thats why were now hearing \"rumors\" that Morales is gonna get a shot over Garry. I think thats just all noise and Garry is clearly gonna get rhe next shot. They have to save something interesting to close out the year. Between the White house card and IFW the UFC has a lot of big draws already booked this summer.\n\nI think the UFC will probably build at least two cards this fall around fights for Islam and Kayla.  I actually wouldnt be surprised at all if this card has both Volk/Evloev and Merab/Yan on it. They need to get those two divisions moving and I think the UFC would probably feel better about putting Evloev in a headliner if its paired with another title fight. If its not this card I could see Evloev/Volk being paired with Shevchenko/Silva on a card in the fall.\n\nI still think Yan/Merab will be on this card as the main or co main though.",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1667510",
@@ -245,9 +245,18 @@
       "content": "@battousai Chill out bro. They typically don't announce cards until around 2 months before they happen anyways. I'd be concerned if they haven't announced it by the end of June. As for big draws, the UFC can still schedule Aspinall vs. winner of Pereira Gane or Ilia vs. Arman for november / december.",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667560",
+      "author": "battousai",
+      "authorUrl": "/profiles/battousai",
+      "timestamp": "2026-05-18T15:26:00-04:00",
+      "content": "@Gilpin\nThe UFC always saves heavyweight title fights for late fall/winter so that's kind of give in that I factored in already. Not only is Ilia probably never fighting Arman but he is almost certainly not fighting again in 2026 after the White House card. The only person hed turn around and fight that quickly is Islam and thats not happening in 2026.\n\nIm going to this card so trust me, I hope Islam is on it. Im just saying I won't be surprised if it doesnt end up happening. I think Merab/Yan is a rare good trilogy fight that would still be a great main event.",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-18T19:05:11.085245+00:00",
+  "scrapedAt": "2026-05-18T20:46:37.774637+00:00",
   "eventName": "UFC 330",
   "eventDate": "August 15",
   "fightcenterUrl": "/fightcenter/events/142341-ufc-330"

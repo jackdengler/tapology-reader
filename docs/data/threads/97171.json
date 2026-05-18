@@ -315,7 +315,7 @@
       "authorUrl": "/profiles/fentanylcowboy",
       "timestamp": "2026-05-16T12:24:00-04:00",
       "content": "[Predictions]\n\nHooper vs. Ramirez\nChase Hooper, SUB, R1\nfailed prospect stop giving this guy layups",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -370,11 +370,20 @@
       "timestamp": "2026-05-17T15:53:00-04:00",
       "content": "[Predictions]\n\nCoria vs. Nicoll\nAlden Coria, TKO, R1\nEasy win for alden",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1667578",
+      "author": "smitcheck",
+      "authorUrl": "/profiles/smitcheck",
+      "timestamp": "2026-05-18T16:42:00-04:00",
+      "content": "@Shayachamp Colby just announced his retirement from ufc. Too bad. His wrestling would have been a great match up against Smith. Would have also been nice to make it MMA one weekend and golf down in FL the next",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-17T21:10:23.741982+00:00",
-  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
-  "eventDate": "June  6",
-  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
+  "scrapedAt": "2026-05-18T20:44:50.178621+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }
