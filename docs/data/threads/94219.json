@@ -407,10 +407,19 @@
       "content": "Taiyilake Nueraji will be fighting on this card as I'm understanding",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667585",
+      "author": "Khabib is the goat",
+      "authorUrl": "/profiles/khabib%20is%20the%20goat",
+      "timestamp": "2026-05-18T17:25:00-04:00",
+      "content": "@IlikeMMAandboobs i just wanted your prediction for that fight",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-18T19:04:51.352871+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-05-18T22:14:13.744573+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }
