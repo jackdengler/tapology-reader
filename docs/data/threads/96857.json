@@ -217,10 +217,19 @@
       "timestamp": "2026-05-15T20:44:00-04:00",
       "content": "Pfyer vs caio",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1667442",
+      "author": "Gilpin",
+      "authorUrl": "/profiles/gilpin",
+      "timestamp": "2026-05-17T23:47:00-04:00",
+      "content": "They've got to have a women's title fight sometime, right? Last one was 322 and there's no word on when any of them will fight again. My bet is Dern will fight on this card and then for a weaker main event like Volk vs. Evloev they'll do Harrison vs. Nunes or Shevchenko vs. Silva",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-16T04:02:05.338350+00:00",
+  "scrapedAt": "2026-05-18T04:41:40.332637+00:00",
   "eventName": "UFC 330",
   "eventDate": "August 15",
   "fightcenterUrl": "/fightcenter/events/142341-ufc-330"

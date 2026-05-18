@@ -730,7 +730,7 @@
       "timestamp": "2026-05-17T15:28:00-04:00",
       "content": "[Predictions]\n\nIsmail Naurdiev vs Marvin Vettori\nPick: Naurdiev via decision\n39% of Tapology users (352 users) are picking Naurdiev (94% decision)\nNaurdiev is 2.9 years younger (29.9 vs 32.8)\nBoth fighters have 74” reach\nNaurdiev is from Morocco, Vettori is from Italy (event is in Azerbaijan)\nNaurdiev has +1.91 strike differential/min vs +0.19\nNaurdiev proj. +14.9 significant strikes attempted\nNaurdiev proj. +15.8 significant strikes landed\nBoth fighters proj. 36 head strikes landed\nNaurdiev proj. 0.09 knockdowns vs 0.02\nNaurdiev proj. 1.3 takedowns landed (3.7 attempts) vs 1.1 (3.3 attempts)\nVettori proj. 0.40 submission attempts vs 0.20\nNaurdiev proj. 28.8% finish chance vs 25.0% and 46.2% decision",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1667384",
@@ -739,7 +739,7 @@
       "timestamp": "2026-05-17T15:35:00-04:00",
       "content": "[Predictions]\n\nAbus Magomedov vs Michał Oleksiejczuk\nPick: Oleksiejczuk via round 1 KO\n65% of Tapology users (347 users) are picking Oleksiejczuk (86% KO)\nOleksiejczuk is 4.5 years younger (31.4 vs 35.8)\nMagomedov has 4” reach edge (78” vs 74”)\nMagomedov is from Germany, Oleksiejczuk is from Poland (event is in Azerbaijan)\nOleksiejczuk has +1.35 strike differential/min vs -0.36\nOleksiejczuk proj. +10.6 significant strikes attempted\nOleksiejczuk proj. +10.4 significant strikes landed\nOleksiejczuk proj. +11.3 head strikes landed\nOleksiejczuk proj. 0.86 knockdowns vs 0.12\nMagomedov proj. 2.4 takedowns landed (4.4 attempts) vs 1.7 (2.4 attempts)\nMagomedov proj. 0.40 submission attempts vs 0.00\nMagomedov proj. 40.5% finish chance vs 34.4% and 25.2% decision\nOleksiejczuk has 16:1 KO win/loss ratio (13/16 KO’s in round 1)\nOleksiejczuk has 1:6 KO submission win/loss ratio\nMagomedov has 14:2 KO win/loss ratio (1/2 times KO’d in round 1, 1/2 in round 2)\nMagomedov has 7:3 submission win/loss ratio",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1667385",
@@ -748,11 +748,20 @@
       "timestamp": "2026-05-17T15:38:00-04:00",
       "content": "[Predictions]\n\nFarman Hasanov vs Eric Nolan\nPick: Nolan via round 2 KO\n63% of Tapology users (350 users) are picking Nolan (82% KO)\nNolan is 2.1 years younger (28.8 vs 30.9)\nHasanov has 1” reach edge (75” vs 74”)\nHasanov is from Azerbaijan, Nolan is from USA (event is in Azerbaijan)\nNolan has -1.99 strike differential/min in 1 DWCS fight\nHasanov proj. 48.3% finish chance vs 25.0% and 26.7% decision\nNolan has fought much tougher competition\n6/8 wins for Nolan via finish\nNolan has 4:0 KO win/loss ratio (2/4 in round 1, 2/4 in round 2)\nHasanov has 4:0 KO win/loss ratio",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1667437",
+      "author": "Belal Sucks",
+      "authorUrl": "/profiles/belal%20sucks",
+      "timestamp": "2026-05-17T23:08:00-04:00",
+      "content": "[Predictions]\n\nFiziev vs. Torres\nRafael Fiziev, DEC\nOh no the crafty vet is going to derail the hype of one of my favorite guys in the weight class I just know it 😔\n\nPereira vs. Magomedov\nShara Magomedov, DEC\nOne eye vs zero brain cells.\n\nNaurdiev vs. Vettori\nIsmail Naurdiev, DEC\nThis dumb ass Italian punching bag is going to end his career on a Tony Ferguson like run.\n\nDonchenko vs. Gustafsson\nDaniil Donchenko, TKO, R1\nDUUUUDE this will be a banger for however long it lasts. If you know you know.\n\nSadykhov vs. Camilo\nNazim Sadykhov, TKO, R1\nEasy KO win in front of the home country fans.",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-17T21:10:44.006606+00:00",
-  "eventName": "UFC Fight Night: Fiziev vs. Torres",
-  "eventDate": "June 27",
-  "fightcenterUrl": "/fightcenter/events/141299-ufc-fight-night"
+  "scrapedAt": "2026-05-18T04:42:46.821459+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
