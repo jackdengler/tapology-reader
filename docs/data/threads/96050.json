@@ -1746,7 +1746,7 @@
       "authorUrl": "/profiles/the%20giraffe",
       "timestamp": "2026-05-18T19:39:00-04:00",
       "content": "It shouldn't be necessary to have to explain to someone on a MMA forum why Connor McGregor vs Max Holloway II is a dream fight for a promoter even in 2026.",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 1
     },
     {
@@ -1755,7 +1755,7 @@
       "authorUrl": "/profiles/flavorpacket",
       "timestamp": "2026-05-18T21:30:00-04:00",
       "content": "[Predictions]\n\nYeah if you look on socials Conor still has that army of cult followers who think it’s 2015 Conor coming back to fight. His pull in 2026 is still pretty crazy. Even if he’s washed he’s still the best at selling a fight, talking trash and making clips go viral.",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -1766,9 +1766,18 @@
       "content": "@The Duck That is a good point I was just thinking that the speed discrepancy is going to be pretty crazy. I am assuming he can't even make lightweight anymore and is just a small welterweight from here on out. I think Colby, Usman or Masvidal would've been a good matchup. They definitely don't want him in there with any of the guys you listed.",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667624",
+      "author": "Socalryno89",
+      "authorUrl": "/profiles/socalryno89",
+      "timestamp": "2026-05-19T02:26:00-04:00",
+      "content": "[Predictions]\n\nMcGregor vs. Holloway II\nMax Holloway, TKO, R3\nHolloway vs Chandler in the Winter\n\nSaint-Denis vs. Pimblett\nBenoit Saint-Denis, DEC\nBSD all day\n\nSandhagen vs. Bautista II\nCory Sandhagen, DEC\nSandhagen vs OMalley Winter\n\nSteveson vs. Ellison\nGable Steveson, TKO, R1\nGable all day\n\nWhittaker vs. Krylov\nRobert Whittaker, TKO, R3\nWhittaker vs Oezdemir winter",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-19T04:35:31.557625+00:00",
+  "scrapedAt": "2026-05-19T08:40:20.131304+00:00",
   "eventName": "UFC 329: McGregor vs. Holloway 2",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
