@@ -225,11 +225,20 @@
       "authorUrl": "/profiles/gavdaddydeluxe",
       "timestamp": "2026-05-17T13:59:00-04:00",
       "content": "[Predictions]\n\nTodorović vs. Valentin\nRobert Valentin, TKO, R2\nHorrible fight. Who cares about either of these two.",
+      "upvotes": 1,
+      "downvotes": 3
+    },
+    {
+      "id": "1667681",
+      "author": "Yinzer",
+      "authorUrl": "/profiles/yinzer",
+      "timestamp": "2026-05-19T14:39:00-04:00",
+      "content": "[Predictions]\n\nTodorović vs. Valentin\nDuško Todorović, TKO, R1\nthis should be the main event",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-18T20:46:47.952957+00:00",
+  "scrapedAt": "2026-05-19T19:19:22.616066+00:00",
   "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
   "eventDate": "June 20",
   "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
