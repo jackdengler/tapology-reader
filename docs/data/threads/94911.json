@@ -1,7 +1,7 @@
 {
   "id": "94911",
   "title": "UFC Fight NightUFC Fight Night: Song vs. Figueiredo",
-  "totalPages": 9,
+  "totalPages": 10,
   "posts": [
     {
       "id": "1619063",
@@ -1558,7 +1558,7 @@
       "timestamp": "2026-05-18T16:14:00-04:00",
       "content": "some of these pick %s are absolutely insane, why are 94% of you picking zhang?",
       "upvotes": 0,
-      "downvotes": 2
+      "downvotes": 5
     },
     {
       "id": "1667571",
@@ -1566,7 +1566,7 @@
       "authorUrl": "/profiles/spockling",
       "timestamp": "2026-05-18T16:16:00-04:00",
       "content": "[Predictions]\n\nI dont feel comfortable picking mingyan or menifield",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -1593,7 +1593,7 @@
       "authorUrl": "/profiles/jreynolds47",
       "timestamp": "2026-05-18T16:59:00-04:00",
       "content": "Mingyang Zhang via brutal knockout 🇨🇳💣",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 1
     },
     {
@@ -1657,7 +1657,7 @@
       "timestamp": "2026-05-19T00:24:00-04:00",
       "content": "I got ding and zhu",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1667625",
@@ -1674,7 +1674,7 @@
       "authorUrl": "/profiles/zolicx",
       "timestamp": "2026-05-19T04:23:00-04:00",
       "content": "[Predictions]\n\nSong vs. Figueiredo\nYadong Song, DEC\ncan see this going back and fourth\n\nZhang vs. Menifield\nMingyang Zhang, TKO, R1\ngonna be quick\n\nPavlovich vs. Teixeira\nSergei Pavlovich, TKO, R3\nWe gonna see another Pav ko\n\nAsakura vs. Smotherman\nKai Asakura, TKO, R3\nplease win bro\n\nMatthews vs. Harris\nJake Matthews, DEC\nsalikhov fight would've been peak\n\nTsuruya vs. Aguilar\nRei Tsuruya, DEC\ncrazy how rei's last fight was Van when he was unranked, now he's the champ with a defence",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -1683,11 +1683,56 @@
       "authorUrl": "/profiles/cuzz",
       "timestamp": "2026-05-19T04:55:00-04:00",
       "content": "[Predictions]\n\nDing vs. Henrique\nMeng Ding, TKO, R2\nMeng Ding is so ******* fun\n\nAoriqileng vs. Haddon\nCody Haddon, DEC\nHaddon Is a great fighter he should dominate this everywhere.",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1667642",
+      "author": "Afonso196",
+      "authorUrl": "/profiles/afonso196",
+      "timestamp": "2026-05-19T08:48:00-04:00",
+      "content": "[Predictions]\n\nI noticed there wasn’t really a solid all-time greats ranking for pure BJJ athletes, so I started building one.\n\nIf you train, watch comps, or just follow the sport a bit, I’d love your input. Who’s too high, too low, or missing completely?",
+      "upvotes": 1,
+      "downvotes": 3
+    },
+    {
+      "id": "1667653",
+      "author": "flavorpacket",
+      "authorUrl": "/profiles/flavorpacket",
+      "timestamp": "2026-05-19T10:36:00-04:00",
+      "content": "[Predictions]\n\nangela hill vs. jingnan xiong\nxiong, decision\n\ni think this is the \"most winnable\" fight xiong can get in the ufc's strawweight top 15. it's funny because xiong would probably get rinsed in the grappling by someone like #15 mizuki or #13 alexia thainara. but at #14 angela hill is the perfect test for xiong. hill is likely to give xiong the striking match that xiong needs to win this one.",
       "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1619063",
+      "author": "Tapology",
+      "authorUrl": "/profiles/tapology",
+      "timestamp": "2026-02-02T01:03:00-05:00",
+      "content": "The official Tapology discussion thread for the event!",
+      "upvotes": 7,
+      "downvotes": 0
+    },
+    {
+      "id": "1667655",
+      "author": "Fast_Tulip",
+      "authorUrl": "/profiles/fast_tulip",
+      "timestamp": "2026-05-19T10:50:00-04:00",
+      "content": "Sadly I'm gonna see Aguilar on his back for 3 rounds after jumping gilly every round. Might even get finished 😥",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1667659",
+      "author": "Kermit",
+      "authorUrl": "/profiles/kermit",
+      "timestamp": "2026-05-19T11:04:00-04:00",
+      "content": "The poor b*stard sc****s a win against the fattest, worst version of Tai possible, gets the lowest ranking possible and immediately fights #3 Big Pav, the second best slimeout artist in the division... What a treat!",
+      "upvotes": 4,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-19T12:22:04.174772+00:00",
+  "scrapedAt": "2026-05-19T16:32:40.839888+00:00",
   "eventName": "UFC Fight Night: Song vs. Figueiredo",
   "eventDate": "May 30",
   "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
