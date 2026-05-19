@@ -407,10 +407,19 @@
       "content": "[Predictions]\n\nCoria vs. Nicoll\nAlden Coria, TKO, R2\nRoll em up Alden",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667711",
+      "author": "Biscuit boy",
+      "authorUrl": "/profiles/biscuit%20boy",
+      "timestamp": "2026-05-19T16:52:00-04:00",
+      "content": "[Predictions]\n\nYair Rodriguez vs Jean Silva main event",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-19T19:19:12.560745+00:00",
-  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
-  "eventDate": "June  6",
-  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
+  "scrapedAt": "2026-05-19T20:53:04.460319+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }

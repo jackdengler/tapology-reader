@@ -1,7 +1,7 @@
 {
   "id": "96138",
   "title": "UFC Fight NightUFC Fight Night: Kape vs. Horiguchi 2",
-  "totalPages": 4,
+  "totalPages": 5,
   "posts": [
     {
       "id": "1637722",
@@ -720,7 +720,7 @@
       "authorUrl": "/profiles/novacmma",
       "timestamp": "2026-05-19T14:29:00-04:00",
       "content": "[Predictions]\n\nBasharat vs. Ewing\nFarid Basharat, DEC\nDamn the farid switch up after 1 fight lol. Ewing is good but not sure he can get the boxing going on the height and reach of Basharat",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -730,7 +730,7 @@
       "timestamp": "2026-05-19T14:36:00-04:00",
       "content": "[Predictions]\n\nBasharat vs. Ewing\nEthyn Ewing, TKO, R2\nEwing keeps this up and slimes out Basharat. Yes this is the good Basharat, but no that doesn’t mean he’s actually good, it just means he’s better than his brother who sucks. Ewing is beating him, and he’s getting cut.",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1667682",
@@ -749,10 +749,46 @@
       "content": "Steven Asplund vs. Guilherme Pat official set for UFCVegas117",
       "upvotes": 0,
       "downvotes": 1
+    },
+    {
+      "id": "1667704",
+      "author": "AminMMA",
+      "authorUrl": "/profiles/aminmma",
+      "timestamp": "2026-05-19T16:17:00-04:00",
+      "content": "[Predictions]\n\nFight week where Manel is gonna be like -300 and most people on Tapology are going to be confused until they watch the one sided murder that occurs",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1637722",
+      "author": "Tapology",
+      "authorUrl": "/profiles/tapology",
+      "timestamp": "2026-03-16T16:05:00-04:00",
+      "content": "The official Tapology discussion thread for the event!",
+      "upvotes": 3,
+      "downvotes": 0
+    },
+    {
+      "id": "1667708",
+      "author": "Spockling",
+      "authorUrl": "/profiles/spockling",
+      "timestamp": "2026-05-19T16:35:00-04:00",
+      "content": "[Predictions]\n\n@AminMMA  This dude knows ball\n\n* Edited at 05.19.2026,  4:35 PM ET *",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667709",
+      "author": "Spockling",
+      "authorUrl": "/profiles/spockling",
+      "timestamp": "2026-05-19T16:38:00-04:00",
+      "content": "[Predictions]\n\nRosa vs. Santos\nLuana Santos, DEC\nSantos 😍😍😍",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-19T19:18:57.311977+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-05-19T20:54:20.554259+00:00",
+  "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
+  "eventDate": "June 20",
+  "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
 }
