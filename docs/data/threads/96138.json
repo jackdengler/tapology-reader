@@ -821,10 +821,19 @@
       "content": "its going down soon. He will beat Kape, Van, and Pantoja and they all know it, @Tapology",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667828",
+      "author": "moneymanmoose",
+      "authorUrl": "/profiles/moneymanmoose",
+      "timestamp": "2026-05-20T13:14:00-04:00",
+      "content": "I'm going to wait awhile before digging into this one but I just wanted to say, ya'll some real diehards!\nBeing here a month out shows some real dedication!",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-20T15:56:42.378594+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-05-20T18:33:31.728415+00:00",
+  "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
+  "eventDate": "June 20",
+  "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
 }

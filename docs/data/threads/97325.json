@@ -272,10 +272,28 @@
       "content": "[Predictions]\n\nTodorović vs. Valentin\nRobert Valentin, TKO, R2\nGround and pound tko",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667827",
+      "author": "battousai",
+      "authorUrl": "/profiles/battousai",
+      "timestamp": "2026-05-20T13:07:00-04:00",
+      "content": "Soldic vs. RDR?",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667831",
+      "author": "royalkickbeat",
+      "authorUrl": "/profiles/royalkickbeat",
+      "timestamp": "2026-05-20T13:23:00-04:00",
+      "content": "[Predictions]\n\nĽudovít Klein vs King Green is in the works to be on this card",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-20T05:17:13.082555+00:00",
-  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
-  "eventDate": "June  6",
-  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
+  "scrapedAt": "2026-05-20T18:33:05.541387+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }

@@ -262,7 +262,7 @@
       "timestamp": "2026-05-13T17:25:00-04:00",
       "content": "DDP vs. Usman",
       "upvotes": 0,
-      "downvotes": 6
+      "downvotes": 7
     },
     {
       "id": "1665166",
@@ -352,7 +352,7 @@
       "timestamp": "2026-05-17T07:01:00-04:00",
       "content": "What weird matchmaking the fact Stewart Nicoll is still in the ufc at 0-3 is pathetic but the fact he’s fighting somome who is 2-0 in the ufc makes no sense",
       "upvotes": 3,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1667314",
@@ -425,10 +425,28 @@
       "content": "[Predictions]\n\nCoria vs. Nicoll\nAlden Coria, DEC\nCoria pure domination",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667826",
+      "author": "battousai",
+      "authorUrl": "/profiles/battousai",
+      "timestamp": "2026-05-20T13:04:00-04:00",
+      "content": "The six people who downvoted me saying DDP vs Usman on the previous page are about to be super salty.",
+      "upvotes": 2,
+      "downvotes": 0
+    },
+    {
+      "id": "1667836",
+      "author": "fentanylcowboy",
+      "authorUrl": "/profiles/fentanylcowboy",
+      "timestamp": "2026-05-20T14:30:00-04:00",
+      "content": "[Predictions]\n\nCoria vs. Nicoll\nAlden Coria, DEC\npointless showcase fight. Coria dominates, no doubt about it.\n\n* Edited at 05.20.2026,  2:30 PM ET *",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-20T05:17:28.096551+00:00",
-  "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
-  "eventDate": "June 20",
-  "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
+  "scrapedAt": "2026-05-20T18:31:58.276718+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }

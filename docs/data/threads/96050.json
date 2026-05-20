@@ -1962,7 +1962,7 @@
       "authorUrl": "/profiles/dazzapredictions",
       "timestamp": "2026-05-20T07:34:00-04:00",
       "content": "[Predictions]\n\nRoyval vs. Kavanagh\nBrandon Royval, DEC\nKavanagh is a fraud",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -1971,11 +1971,20 @@
       "authorUrl": "/profiles/xlorenzoufcx",
       "timestamp": "2026-05-20T08:05:00-04:00",
       "content": "@maxbyko any particular reason you decided to post all of these individually?  Especially when your reason for some of them is \"gonna be boring af.\"  People confuse me man.",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
+    },
+    {
+      "id": "1667834",
+      "author": "Spockling",
+      "authorUrl": "/profiles/spockling",
+      "timestamp": "2026-05-20T13:52:00-04:00",
+      "content": "[Predictions]\n\nMcGregor vs. Holloway II\nMax Holloway, TKO, R2\nShould be a kinda cool fight for a round till conor quits from slightly getting hurt\n\nSaint-Denis vs. Pimblett\nBenoit Saint-Denis, TKO, R1\nBsd kos this dude\n\nSandhagen vs. Bautista II\nMario Bautista, DEC\nIdfk on this one\n\nSteveson vs. Ellison\nGable Steveson, TKO, R1\nBathroom break and then watch the finish\n\nRoyval vs. Kavanagh\nBrandon Royval, DEC\nRoyval kills hin\n\nPinas vs. Almeida\nDamian Pinas, TKO, R1\nThe goat with another win\n\nGandra vs. Reese\nRyan Gandra, TKO, R3\nDont care\n\nDurden vs. Osbourne\nOde Osbourne, DEC\nMy goat ode is so back\n\nGarbrandt vs. Yanez\nAdrian Yanez, DEC\nYanez will destroy him but for some reason I dont see a ko\n\nKamaka III vs. Riley\nLuke Riley, TKO, R2\nLuke riley got ts\n\nWhittaker vs. Krylov\nRobert Whittaker, DEC\nLowkey close af but whittaker via lighter mans skill\n\nCortez vs. Wang\nCong Wang, DEC\nGonna be screenshotting crazy this fight",
+      "upvotes": 0,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-20T15:58:34.199040+00:00",
+  "scrapedAt": "2026-05-20T18:32:55.128229+00:00",
   "eventName": "UFC 329: McGregor vs. Holloway 2",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
