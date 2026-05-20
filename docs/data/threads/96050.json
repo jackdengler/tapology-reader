@@ -1773,7 +1773,7 @@
       "authorUrl": "/profiles/socalryno89",
       "timestamp": "2026-05-19T02:26:00-04:00",
       "content": "[Predictions]\n\nMcGregor vs. Holloway II\nMax Holloway, TKO, R3\nHolloway vs Chandler in the Winter\n\nSaint-Denis vs. Pimblett\nBenoit Saint-Denis, DEC\nBSD all day\n\nSandhagen vs. Bautista II\nCory Sandhagen, DEC\nSandhagen vs OMalley Winter\n\nSteveson vs. Ellison\nGable Steveson, TKO, R1\nGable all day\n\nWhittaker vs. Krylov\nRobert Whittaker, TKO, R3\nWhittaker vs Oezdemir winter",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -1792,7 +1792,7 @@
       "timestamp": "2026-05-19T08:50:00-04:00",
       "content": "I noticed there wasn’t really a solid all-time greats ranking for pure BJJ athletes, so I started building one.\n\nIf you train, watch comps, or just follow the sport a bit, I’d love your input. Who’s too high, too low, or missing completely?\n\n* Edited at 05.19.2026,  8:51 AM ET *",
       "upvotes": 1,
-      "downvotes": 5
+      "downvotes": 6
     },
     {
       "id": "1667648",
@@ -1818,7 +1818,7 @@
       "authorUrl": "/profiles/ilikemmaandboobs",
       "timestamp": "2026-05-19T15:11:00-04:00",
       "content": "[Predictions]\n\nGable Steveson vs. Elisha Ellison\nGable Steveson, TKO, R1\nSteveson will be a huge problem for this division. He's an olympic gold medalist, large as a wardrobe but agile as a cat, plus, he's the pupil of Jon Jones. Honestly, I don't see him losing in any way against this Elisha.",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -1836,7 +1836,7 @@
       "authorUrl": "/profiles/dustinpoirierfan12",
       "timestamp": "2026-05-19T19:10:00-04:00",
       "content": "[Predictions]\n\nMcGregor vs. Holloway II\nConor McGregor, TKO, R1\nMCGREGOR BY WHATEVER HE WANTS",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 2
     },
     {
@@ -1845,7 +1845,7 @@
       "authorUrl": "/profiles/maxbyko",
       "timestamp": "2026-05-20T05:28:00-04:00",
       "content": "[Predictions]\n\nMcGregor vs. Holloway II\nConor McGregor, DEC\nconor via max being on the ufc cover",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -1854,7 +1854,7 @@
       "authorUrl": "/profiles/maxbyko",
       "timestamp": "2026-05-20T05:28:00-04:00",
       "content": "[Predictions]\n\nSaint-Denis vs. Pimblett\nPaddy Pimblett, DEC\nts is gonna be like paddy pimblett vs jared gordon bsd is gonna get robbed i can feel it",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -1872,7 +1872,7 @@
       "authorUrl": "/profiles/maxbyko",
       "timestamp": "2026-05-20T05:29:00-04:00",
       "content": "[Predictions]\n\nSteveson vs. Ellison\nGable Steveson, SUB, R1\ntrust",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -1917,7 +1917,7 @@
       "authorUrl": "/profiles/maxbyko",
       "timestamp": "2026-05-20T05:30:00-04:00",
       "content": "[Predictions]\n\nDurden vs. Osbourne\nOde Osbourne, TKO, R2\nblack",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -1945,7 +1945,7 @@
       "timestamp": "2026-05-20T05:31:00-04:00",
       "content": "[Predictions]\n\nWhittaker vs. Krylov\nNikita Krylov, TKO, R3\nwhittaker was a welterweight",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1667779",
@@ -1953,7 +1953,7 @@
       "authorUrl": "/profiles/maxbyko",
       "timestamp": "2026-05-20T05:32:00-04:00",
       "content": "[Predictions]\n\nCortez vs. Wang\nCong Wang, SUB, R2\ntrust",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -1964,9 +1964,18 @@
       "content": "[Predictions]\n\nRoyval vs. Kavanagh\nBrandon Royval, DEC\nKavanagh is a fraud",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667794",
+      "author": "xLorenzoUFCx",
+      "authorUrl": "/profiles/xlorenzoufcx",
+      "timestamp": "2026-05-20T08:05:00-04:00",
+      "content": "@maxbyko any particular reason you decided to post all of these individually?  Especially when your reason for some of them is \"gonna be boring af.\"  People confuse me man.",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-20T12:05:05.019830+00:00",
+  "scrapedAt": "2026-05-20T15:58:34.199040+00:00",
   "eventName": "UFC 329: McGregor vs. Holloway 2",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
