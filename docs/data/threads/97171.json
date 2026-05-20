@@ -333,7 +333,7 @@
       "authorUrl": "/profiles/shayachamp",
       "timestamp": "2026-05-16T16:00:00-04:00",
       "content": "Jean Silva vs Yair Rodriguez Main Event\nJacobe Smith vs Holland Or Colby Co-main Event\nTell me that wont be Fire.",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -416,10 +416,19 @@
       "content": "[Predictions]\n\nYair Rodriguez vs Jean Silva main event",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667737",
+      "author": "SWRS",
+      "authorUrl": "/profiles/swrs",
+      "timestamp": "2026-05-19T20:36:00-04:00",
+      "content": "[Predictions]\n\nCoria vs. Nicoll\nAlden Coria, DEC\nCoria pure domination",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-19T20:53:04.460319+00:00",
-  "eventName": "UFC Fight Night: Song vs. Figueiredo",
-  "eventDate": "May 30",
-  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
+  "scrapedAt": "2026-05-20T05:17:28.096551+00:00",
+  "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
+  "eventDate": "June 20",
+  "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
 }
