@@ -64,7 +64,7 @@
       "timestamp": "2026-03-14T00:56:00-04:00",
       "content": "[Predictions]\n\nvolk vs london winner\nco main roundtree vs Azamat/paulo",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1635279",
@@ -1820,9 +1820,27 @@
       "content": "[Predictions]\n\nGable Steveson vs. Elisha Ellison\nGable Steveson, TKO, R1\nSteveson will be a huge problem for this division. He's an olympic gold medalist, large as a wardrobe but agile as a cat, plus, he's the pupil of Jon Jones. Honestly, I don't see him losing in any way against this Elisha.",
       "upvotes": 0,
       "downvotes": 1
+    },
+    {
+      "id": "1667722",
+      "author": "Afonso196",
+      "authorUrl": "/profiles/afonso196",
+      "timestamp": "2026-05-19T18:49:00-04:00",
+      "content": "^\n^\nUnderstood, guys. I won’t post non-event-related content on the forums anymore.\nI thought it was fine since it was Tapology-related, but I understand why the rule exists, otherwise the event forum would get flooded with personal rankings and lose its purpose.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667728",
+      "author": "dustinpoirierfan12",
+      "authorUrl": "/profiles/dustinpoirierfan12",
+      "timestamp": "2026-05-19T19:10:00-04:00",
+      "content": "[Predictions]\n\nMcGregor vs. Holloway II\nConor McGregor, TKO, R1\nMCGREGOR BY WHATEVER HE WANTS",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-19T19:18:36.688121+00:00",
+  "scrapedAt": "2026-05-20T00:19:49.564582+00:00",
   "eventName": "UFC 329: McGregor vs. Holloway 2",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
