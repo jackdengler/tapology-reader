@@ -271,10 +271,19 @@
       "timestamp": "2026-05-19T13:33:00-04:00",
       "content": "ddp vs caio",
       "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1667852",
+      "author": "Zinaum",
+      "authorUrl": "/profiles/zinaum",
+      "timestamp": "2026-05-20T17:59:00-04:00",
+      "content": "Apparently Mackenzie Dern x Gillian Robertson for the strawweight belt is the co-main here",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-19T19:19:32.331493+00:00",
+  "scrapedAt": "2026-05-20T22:44:24.420884+00:00",
   "eventName": "UFC 330",
   "eventDate": "August 15",
   "fightcenterUrl": "/fightcenter/events/142341-ufc-330"
