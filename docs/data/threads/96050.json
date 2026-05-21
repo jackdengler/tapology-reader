@@ -1918,7 +1918,7 @@
       "timestamp": "2026-05-20T05:30:00-04:00",
       "content": "[Predictions]\n\nDurden vs. Osbourne\nOde Osbourne, TKO, R2\nblack",
       "upvotes": 1,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1667776",
@@ -1927,7 +1927,7 @@
       "timestamp": "2026-05-20T05:30:00-04:00",
       "content": "[Predictions]\n\nGarbrandt vs. Yanez\nCody Garbrandt, DEC\ncody via getting kicked in the balls and puking",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1667777",
@@ -1962,8 +1962,8 @@
       "authorUrl": "/profiles/dazzapredictions",
       "timestamp": "2026-05-20T07:34:00-04:00",
       "content": "[Predictions]\n\nRoyval vs. Kavanagh\nBrandon Royval, DEC\nKavanagh is a fraud",
-      "upvotes": 1,
-      "downvotes": 0
+      "upvotes": 2,
+      "downvotes": 1
     },
     {
       "id": "1667794",
@@ -1971,7 +1971,7 @@
       "authorUrl": "/profiles/xlorenzoufcx",
       "timestamp": "2026-05-20T08:05:00-04:00",
       "content": "@maxbyko any particular reason you decided to post all of these individually?  Especially when your reason for some of them is \"gonna be boring af.\"  People confuse me man.",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -1989,7 +1989,7 @@
       "authorUrl": "/profiles/afonso196",
       "timestamp": "2026-05-20T19:00:00-04:00",
       "content": "I understand why the matchup is happening at 170. Conor clearly doesn’t want to cut the weight anymore, and Max will follow along with anything because it’s red panty night. But I can’t help feeling like it’s just another reason the fight loses credibility and stakes.\n\nConor coming back is always massive for MMA. I just think the fight would’ve carried way more weight at 155.\nThat’s Conor’s real division. Everybody knows he’s a small welterweight, and when he fights that heavy, you lose a lot of the classic Conor style that made him special in the first place.\n\nPlus, if you’re the UFC, aren’t you trying to set up a future title fight with Topuria? If so, why not see how Conor actually looks at lightweight again and add some legitimacy to the whole thing?",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 3
     },
     {
@@ -1998,11 +1998,56 @@
       "authorUrl": "/profiles/astropup",
       "timestamp": "2026-05-20T19:11:00-04:00",
       "content": "[Predictions]\n\n@Afonso196 Answered your own question in the first sentence lmao",
-      "upvotes": 2,
+      "upvotes": 4,
+      "downvotes": 0
+    },
+    {
+      "id": "1667870",
+      "author": "Astropup",
+      "authorUrl": "/profiles/astropup",
+      "timestamp": "2026-05-20T22:00:00-04:00",
+      "content": "[Predictions]\n\nAs the hype from the announcement dissipates I find myself wondering why they wouldn't give McGregor an easier matchup, surely if they want him to stick around a 3/4th rd TKO loss isn't going to help things\n\nI see him winning a Chandler and Masvidal matchup quite easily and it likely keeps him around for a few more fights",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667871",
+      "author": "PilloryChoke",
+      "authorUrl": "/profiles/pillorychoke",
+      "timestamp": "2026-05-20T22:02:00-04:00",
+      "content": "[Predictions]\n\nConor doesn't feel like cutting weight. I don't like to speak in absolutes about fights that haven't happened but I'd say Conor's odds of beating Holloway are very low so I doubt UFC needs to worry about setting up Conor-Topuria...",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667872",
+      "author": "Cool C",
+      "authorUrl": "/profiles/cool%20c",
+      "timestamp": "2026-05-20T22:05:00-04:00",
+      "content": "Give Philadelphia's Eddie Alvarez a rematch. Might be one of the few guys Connor has a shot against although I still think the underground king wins.",
+      "upvotes": 0,
+      "downvotes": 1
+    },
+    {
+      "id": "1667877",
+      "author": "The Duck",
+      "authorUrl": "/profiles/the%20duck",
+      "timestamp": "2026-05-20T22:32:00-04:00",
+      "content": "[Predictions]\n\nUFC can’t really give Conor an easier matchup because he has to main event a PPV without a title fight, UFC need to give Conor someone like Max to justify it being a main event of a PPV. Washed Conor vs washed Chandler or washed Masvidal shouldn’t main event a PPV in 2026",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667878",
+      "author": "Astropup",
+      "authorUrl": "/profiles/astropup",
+      "timestamp": "2026-05-20T22:35:00-04:00",
+      "content": "[Predictions]\n\n@The Duck I mean they were willing to make Conor vs Chandler in 2024, do you think another two years away resulted in a massive drop off in Conor's star power to justify him not being a PPV/Paramount main event automatically? I personally don't believe so",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-21T00:20:49.972515+00:00",
+  "scrapedAt": "2026-05-21T05:22:57.895326+00:00",
   "eventName": "UFC 329: McGregor vs. Holloway 2",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"

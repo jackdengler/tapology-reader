@@ -774,7 +774,7 @@
       "authorUrl": "/profiles/spockling",
       "timestamp": "2026-05-19T16:35:00-04:00",
       "content": "[Predictions]\n\n@AminMMA  This dude knows ball\n\n* Edited at 05.19.2026,  4:35 PM ET *",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -793,7 +793,7 @@
       "timestamp": "2026-05-19T20:31:00-04:00",
       "content": "[Predictions]\n\nBasharat vs. Ewing\nEthyn Ewing, TKO, R1\nEwing easy win",
       "upvotes": 1,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1667765",
@@ -801,7 +801,7 @@
       "authorUrl": "/profiles/lordasura",
       "timestamp": "2026-05-20T04:11:00-04:00",
       "content": "[Predictions]\n\nBasharat vs. Ewing\nFarid Basharat, DEC\nFarid has faced better opposition and has more experience. Ewing has great potential, but Matsumoto and El Guapo are ten times better than Wellmaker and Estevam.",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -828,7 +828,7 @@
       "authorUrl": "/profiles/moneymanmoose",
       "timestamp": "2026-05-20T13:14:00-04:00",
       "content": "I'm going to wait awhile before digging into this one but I just wanted to say, ya'll some real diehards!\nBeing here a month out shows some real dedication!",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -837,7 +837,7 @@
       "authorUrl": "/profiles/elitemmapicks",
       "timestamp": "2026-05-20T20:07:00-04:00",
       "content": "[Predictions]\n\nFarid Basharat vs Ethyn Ewing\nPick: Ewing via decision\n79% of Tapology users (219 users) are picking Ewing (66% decision)\nBasharat is 1.5 years younger (28.9 vs 30.4)\nBasharat has 2” reach edge (71” vs 69”)\nEwing has +2.91 strike differential/min vs +1.36\nEwing proj. +5.4 significant strikes attempted\nEwing proj. +5.6 significant strikes landed\nEwing proj. +10.9 head strikes landed\nEwing proj. 0.18 knockdowns vs 0.00\nBasharat proj. 1.7 takedowns landed (7.6 attempts) vs 1.5 (2.8 attempts)\nBasharat proj. 0.30 submission attempts vs 0.00\nEwing proj. 33.3% finish chance vs 27.5% and 39.2% decision",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -846,12 +846,21 @@
       "authorUrl": "/profiles/andrewloveschrist",
       "timestamp": "2026-05-20T20:17:00-04:00",
       "content": "[Predictions]\n\nKyoji is finna do what he did to kape years prior, kapes only success is gonna be at the press conference calling him a fa-",
+      "upvotes": 2,
+      "downvotes": 1
+    },
+    {
+      "id": "1667884",
+      "author": "Grogers70426",
+      "authorUrl": "/profiles/grogers70426",
+      "timestamp": "2026-05-20T23:36:00-04:00",
+      "content": "[Predictions]\n\nKape vs. Horiguchi II\nKyoji Horiguchi, DEC\nWhy did they decide to put this in the Apex bc it needs to be in front of a crowd\n\nCutelaba vs. Stirling\nNavajo Stirling, DEC\nDefinitely a test for Navajo and Ion could turn into a D-1 Ion\n\nChikadze vs. Oliveira\nVinicius Oliveira, TKO, R2\nUnfortunately Giga is washed\n\nBasharat vs. Ewing\nFarid Basharat, DEC\nCoin flip bc Farid is gonna be a point fighter and Ethyn is gonna try and push the pace\n\nLima vs. Borjas\nAndré Lima, TKO, R2\nLima is spectacular and Borjas isn't good",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-21T00:18:55.717716+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-05-21T05:21:04.738626+00:00",
+  "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
+  "eventDate": "June 20",
+  "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
 }
