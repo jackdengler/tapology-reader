@@ -433,7 +433,7 @@
       "timestamp": "2026-05-20T13:04:00-04:00",
       "content": "The six people who downvoted me saying DDP vs Usman on the previous page are about to be super salty.",
       "upvotes": 3,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1667836",
@@ -441,7 +441,7 @@
       "authorUrl": "/profiles/fentanylcowboy",
       "timestamp": "2026-05-20T14:30:00-04:00",
       "content": "[Predictions]\n\nCoria vs. Nicoll\nAlden Coria, DEC\npointless showcase fight. Coria dominates, no doubt about it.\n\n* Edited at 05.20.2026,  2:30 PM ET *",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -452,10 +452,19 @@
       "content": "[Predictions]\n\nHooper vs. Ramirez\nChase Hooper, SUB, R2\nHooper by armbar or RNC\n\nCoria vs. Nicoll\nAlden Coria, TKO, R3\nNicoll is probably fighting for his job. I'm surprised that he hasn't been cut yet",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667952",
+      "author": "osusnp",
+      "authorUrl": "/profiles/osusnp",
+      "timestamp": "2026-05-21T16:32:00-04:00",
+      "content": "go pokes",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-21T10:04:16.507914+00:00",
-  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
-  "eventDate": "June  6",
-  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
+  "scrapedAt": "2026-05-21T21:00:01.556068+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }

@@ -1458,7 +1458,7 @@
       "authorUrl": "/profiles/fast_tulip",
       "timestamp": "2026-05-18T12:33:00-04:00",
       "content": "[Predictions]\n\nI am liking that fight to go to a finish though",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -1818,7 +1818,7 @@
       "authorUrl": "/profiles/jeansilvaenjoyer",
       "timestamp": "2026-05-19T20:28:00-04:00",
       "content": "[Predictions]\n\nI'd really like to know what other people think of this Meng Ding vs. Henrique fight. I don't understand why Ding is such a big favorite on Tap. On DWCS, Henrique looked like a range merchant—6'3\" with a 79\" reach, just looking for a big right hand. But Ding looked terrible on DWCS as well. He kept going for clinches and then not even trying to land damage or get a takedown on that Rami guy. And in his only other fight since the DWCS loss, Ding got dropped badly three times before finding the KO in the second round.\n\nI've only seen their two most recent fights, but these two both seem equally low-level. Henrique at least had moments on DWCS. I get that Henrique fought Kino****a who has been a complete victim in the UFC, but still. Am I missing something?",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -1917,7 +1917,7 @@
       "authorUrl": "/profiles/xlorenzoufcx",
       "timestamp": "2026-05-20T10:10:00-04:00",
       "content": "@cuzz hell I love when you folks outside of North America get these great times. Y'all have it rough most of the year lmao, enjoy the card and have nice lunch!",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -1927,7 +1927,7 @@
       "timestamp": "2026-05-20T10:33:00-04:00",
       "content": "[Predictions]\n\n@JeanSilvaEnjoyer i honestly didn't bother watching that fight since it happened like 5 years ago. Watched his last 5 fights I think and he kinda just fights the exact same in all of them. I wouldn't be surprised if the 1st round is Vera pushing Zhu against the cage for 3 minutes, Zhu landing a few hard body kicks, and Tap arguing damage vs. control lol\n\n* Edited at 05.20.2026, 10:35 AM ET *",
       "upvotes": 1,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1667822",
@@ -1981,7 +1981,7 @@
       "timestamp": "2026-05-20T21:00:00-04:00",
       "content": "[Predictions]\n\nSong vs. Figueiredo\nYadong Song, DEC\nI weirdly see an injury TKO again but Songs a decision merchant so not counting on it\n\nZhang vs. Menifield\nMingyang Zhang, TKO, R1\nVery uncomfortable picking Mingyang Zhang against anyone but cmon bruh surely you beat Menifield\n\nPavlovich vs. Teixeira\nSergei Pavlovich, TKO, R3\nPavlovich struggled with Volkov who has similar frame but Teixeira how you just scraping Tai Tuivasa\n\nAsakura vs. Smotherman\nI love Asakura but there's no way I'm picking him again after his last fight, sitting him vs Smotherman out and just hoping he wins\n\nPerez vs. Sumudaerji\nAlex Perez, TKO, R2\nWatch Perez somehow lose this after demolishing Charles Johnson, hopefully he finally makes weight\n\nAoriqileng vs. Haddon\nCody Haddon, SUB, R2\nHaddon legit but injury magnet so I'm fence sitting\n\nTsuruya vs. Aguilar\nRei Tsuruya, DEC\nSmudgefest incoming\n\n* Edited at 05.20.2026,  9:03 PM ET *",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1667879",
@@ -1998,7 +1998,7 @@
       "authorUrl": "/profiles/fast_tulip",
       "timestamp": "2026-05-20T22:47:00-04:00",
       "content": "[Predictions]\n\nNot KOing Waldo was understandable, but if Pavlovich can't KO Texeira here then he might just be a point fighter the rest of his career",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -2016,11 +2016,29 @@
       "authorUrl": "/profiles/nnnnnnn",
       "timestamp": "2026-05-21T07:59:00-04:00",
       "content": "event, why are you so far away",
-      "upvotes": 1,
+      "upvotes": 5,
+      "downvotes": 0
+    },
+    {
+      "id": "1667949",
+      "author": "JeanSilvaEnjoyer",
+      "authorUrl": "/profiles/jeansilvaenjoyer",
+      "timestamp": "2026-05-21T15:42:00-04:00",
+      "content": "[Predictions]\n\nIt's MMA so anything can happen, but Pavlovich vs. Teixeira feels like it's on the Salkilld vs. Dariush level of predatory matchmaking.",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667954",
+      "author": "JeanSilvaEnjoyer",
+      "authorUrl": "/profiles/jeansilvaenjoyer",
+      "timestamp": "2026-05-21T16:41:00-04:00",
+      "content": "[Predictions]\n\nI’m guessing Gurule is taking this fight to avoid getting cut",
+      "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-21T13:33:24.072101+00:00",
+  "scrapedAt": "2026-05-21T20:59:46.470250+00:00",
   "eventName": "UFC Fight Night: Song vs. Figueiredo",
   "eventDate": "May 30",
   "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
