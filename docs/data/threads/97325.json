@@ -288,12 +288,21 @@
       "authorUrl": "/profiles/royalkickbeat",
       "timestamp": "2026-05-20T13:23:00-04:00",
       "content": "[Predictions]\n\nĽudovít Klein vs King Green is in the works to be on this card",
+      "upvotes": 3,
+      "downvotes": 0
+    },
+    {
+      "id": "1667894",
+      "author": "Grogers70426",
+      "authorUrl": "/profiles/grogers70426",
+      "timestamp": "2026-05-21T02:44:00-04:00",
+      "content": "[Predictions]\n\nTodorović vs. Valentin\nRobert Valentin, SUB, R2\nNot sure bc Valentin didn't look good until his last fight and got matched up with the bottom of the division",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-20T18:33:05.541387+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-05-21T10:03:50.864963+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }
