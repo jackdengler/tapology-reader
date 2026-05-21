@@ -32,8 +32,8 @@
     },
     {
       "id": "1641824",
-      "author": "crankmanz",
-      "authorUrl": "/profiles/crankmanz",
+      "author": "ankalaev_gaming",
+      "authorUrl": "/profiles/ankalaev_gaming",
       "timestamp": "2026-03-24T13:51:00-04:00",
       "content": "Kape vs horiguchi",
       "upvotes": 5,
@@ -527,8 +527,8 @@
     },
     {
       "id": "1658585",
-      "author": "crankmanz",
-      "authorUrl": "/profiles/crankmanz",
+      "author": "ankalaev_gaming",
+      "authorUrl": "/profiles/ankalaev_gaming",
       "timestamp": "2026-04-30T18:10:00-04:00",
       "content": "@razzles6  is his nickname the hightlight and is 10-0? Theres like 50 guys with the same name",
       "upvotes": 0,
@@ -721,7 +721,7 @@
       "timestamp": "2026-05-19T14:29:00-04:00",
       "content": "[Predictions]\n\nBasharat vs. Ewing\nFarid Basharat, DEC\nDamn the farid switch up after 1 fight lol. Ewing is good but not sure he can get the boxing going on the height and reach of Basharat",
       "upvotes": 2,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1667680",
@@ -729,7 +729,7 @@
       "authorUrl": "/profiles/a_person_05",
       "timestamp": "2026-05-19T14:36:00-04:00",
       "content": "[Predictions]\n\nBasharat vs. Ewing\nEthyn Ewing, TKO, R2\nEwing keeps this up and slimes out Basharat. Yes this is the good Basharat, but no that doesn’t mean he’s actually good, it just means he’s better than his brother who sucks. Ewing is beating him, and he’s getting cut.",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 2
     },
     {
@@ -756,7 +756,7 @@
       "authorUrl": "/profiles/aminmma",
       "timestamp": "2026-05-19T16:17:00-04:00",
       "content": "[Predictions]\n\nFight week where Manel is gonna be like -300 and most people on Tapology are going to be confused until they watch the one sided murder that occurs",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -801,8 +801,8 @@
       "authorUrl": "/profiles/lordasura",
       "timestamp": "2026-05-20T04:11:00-04:00",
       "content": "[Predictions]\n\nBasharat vs. Ewing\nFarid Basharat, DEC\nFarid has faced better opposition and has more experience. Ewing has great potential, but Matsumoto and El Guapo are ten times better than Wellmaker and Estevam.",
-      "upvotes": 0,
-      "downvotes": 0
+      "upvotes": 1,
+      "downvotes": 1
     },
     {
       "id": "1667809",
@@ -820,7 +820,7 @@
       "timestamp": "2026-05-20T10:54:00-04:00",
       "content": "its going down soon. He will beat Kape, Van, and Pantoja and they all know it, @Tapology",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1667828",
@@ -828,12 +828,30 @@
       "authorUrl": "/profiles/moneymanmoose",
       "timestamp": "2026-05-20T13:14:00-04:00",
       "content": "I'm going to wait awhile before digging into this one but I just wanted to say, ya'll some real diehards!\nBeing here a month out shows some real dedication!",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1667861",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-05-20T20:07:00-04:00",
+      "content": "[Predictions]\n\nFarid Basharat vs Ethyn Ewing\nPick: Ewing via decision\n79% of Tapology users (219 users) are picking Ewing (66% decision)\nBasharat is 1.5 years younger (28.9 vs 30.4)\nBasharat has 2” reach edge (71” vs 69”)\nEwing has +2.91 strike differential/min vs +1.36\nEwing proj. +5.4 significant strikes attempted\nEwing proj. +5.6 significant strikes landed\nEwing proj. +10.9 head strikes landed\nEwing proj. 0.18 knockdowns vs 0.00\nBasharat proj. 1.7 takedowns landed (7.6 attempts) vs 1.5 (2.8 attempts)\nBasharat proj. 0.30 submission attempts vs 0.00\nEwing proj. 33.3% finish chance vs 27.5% and 39.2% decision",
+      "upvotes": 0,
+      "downvotes": 0
+    },
+    {
+      "id": "1667863",
+      "author": "AndrewLovesChrist",
+      "authorUrl": "/profiles/andrewloveschrist",
+      "timestamp": "2026-05-20T20:17:00-04:00",
+      "content": "[Predictions]\n\nKyoji is finna do what he did to kape years prior, kapes only success is gonna be at the press conference calling him a fa-",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-20T18:33:31.728415+00:00",
-  "eventName": "UFC Fight Night: Kape vs. Horiguchi 2",
-  "eventDate": "June 20",
-  "fightcenterUrl": "/fightcenter/events/141144-ufc-fight-night"
+  "scrapedAt": "2026-05-21T00:18:55.717716+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
