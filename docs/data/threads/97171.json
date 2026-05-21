@@ -441,7 +441,7 @@
       "authorUrl": "/profiles/fentanylcowboy",
       "timestamp": "2026-05-20T14:30:00-04:00",
       "content": "[Predictions]\n\nCoria vs. Nicoll\nAlden Coria, DEC\npointless showcase fight. Coria dominates, no doubt about it.\n\n* Edited at 05.20.2026,  2:30 PM ET *",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -450,7 +450,7 @@
       "authorUrl": "/profiles/grogers70426",
       "timestamp": "2026-05-21T02:30:00-04:00",
       "content": "[Predictions]\n\nHooper vs. Ramirez\nChase Hooper, SUB, R2\nHooper by armbar or RNC\n\nCoria vs. Nicoll\nAlden Coria, TKO, R3\nNicoll is probably fighting for his job. I'm surprised that he hasn't been cut yet",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -461,9 +461,18 @@
       "content": "go pokes",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1667957",
+      "author": "The Giraffe",
+      "authorUrl": "/profiles/the%20giraffe",
+      "timestamp": "2026-05-21T17:30:00-04:00",
+      "content": "Supposedly the Farid Basharat-Ethyn Ewing fight that was supposed to be in the Apex on June 20 is being moved to this OKC event\n\n* Edited at 05.21.2026,  5:30 PM ET *",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-21T21:00:01.556068+00:00",
+  "scrapedAt": "2026-05-21T22:43:00.733266+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
