@@ -9,7 +9,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 1
     },
     {
@@ -198,7 +198,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 1
     },
     {
@@ -387,7 +387,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 1
     },
     {
@@ -576,7 +576,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 1
     },
     {
@@ -765,7 +765,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 1
     },
     {
@@ -954,7 +954,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 1
     },
     {
@@ -1143,7 +1143,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 1
     },
     {
@@ -1332,7 +1332,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 1
     },
     {
@@ -1521,7 +1521,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 1
     },
     {
@@ -1710,7 +1710,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 1
     },
     {
@@ -1899,7 +1899,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 1
     },
     {
@@ -2088,7 +2088,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-03-13T09:54:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 8,
+      "upvotes": 9,
       "downvotes": 1
     },
     {
@@ -2107,7 +2107,7 @@
       "timestamp": "2026-05-21T13:26:00-04:00",
       "content": "[Predictions]\n\nPeople are yet to see Kavanagh’s power, he’s very quick and powerful. I think he’ll be far too quick for Royval",
       "upvotes": 1,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1667956",
@@ -2153,9 +2153,18 @@
       "content": "[Predictions]\n\nOpening odds on stake for the main event:\n\nHolloway -385 / McGregor +290",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1668020",
+      "author": "Polish Abductor",
+      "authorUrl": "/profiles/polish%20abductor",
+      "timestamp": "2026-05-22T04:53:00-04:00",
+      "content": "@Afonso196 chris weidmans cte has cte",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-22T08:33:00.921221+00:00",
+  "scrapedAt": "2026-05-22T12:02:59.439711+00:00",
   "eventName": "UFC 329: McGregor vs. Holloway 2",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
