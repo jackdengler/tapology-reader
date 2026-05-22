@@ -1963,7 +1963,7 @@
       "timestamp": "2026-05-20T07:34:00-04:00",
       "content": "[Predictions]\n\nRoyval vs. Kavanagh\nBrandon Royval, DEC\nKavanagh is a fraud",
       "upvotes": 2,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1667794",
@@ -1971,7 +1971,7 @@
       "authorUrl": "/profiles/xlorenzoufcx",
       "timestamp": "2026-05-20T08:05:00-04:00",
       "content": "@maxbyko any particular reason you decided to post all of these individually?  Especially when your reason for some of them is \"gonna be boring af.\"  People confuse me man.",
-      "upvotes": 6,
+      "upvotes": 7,
       "downvotes": 0
     },
     {
@@ -2106,7 +2106,7 @@
       "authorUrl": "/profiles/mm21_moon",
       "timestamp": "2026-05-21T13:26:00-04:00",
       "content": "[Predictions]\n\nPeople are yet to see Kavanagh’s power, he’s very quick and powerful. I think he’ll be far too quick for Royval",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 3
     },
     {
@@ -2133,7 +2133,7 @@
       "authorUrl": "/profiles/gilpin",
       "timestamp": "2026-05-21T20:46:00-04:00",
       "content": "[Predictions]\n\n@Afonso196 I think the timing also makes it quite a different situation. McGregor has had far longer to get comfortable with using his broken leg compared to Weidman who came back about as quickly as he could. McGregor also went through a fight camp against Chandler so he's at least had some experience using his leg since then.",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -2162,9 +2162,18 @@
       "content": "@Afonso196 chris weidmans cte has cte",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1668085",
+      "author": "ddpfan305",
+      "authorUrl": "/profiles/ddpfan305",
+      "timestamp": "2026-05-22T13:58:00-04:00",
+      "content": "[Predictions]\n\nEwing vs Basharat supposedly moved to this card",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-22T12:02:59.439711+00:00",
+  "scrapedAt": "2026-05-22T18:05:06.114758+00:00",
   "eventName": "UFC 329: McGregor vs. Holloway 2",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
