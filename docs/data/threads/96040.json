@@ -18,7 +18,7 @@
       "authorUrl": "/profiles/anasto",
       "timestamp": "2026-03-12T21:43:00-04:00",
       "content": "[Predictions]\n\nMuhammad vs. Bonfim\nBelal Muhammad, DEC\nCanelo hands easy win",
-      "upvotes": 7,
+      "upvotes": 8,
       "downvotes": 1
     },
     {
@@ -27,7 +27,7 @@
       "authorUrl": "/profiles/madamma",
       "timestamp": "2026-03-12T21:47:00-04:00",
       "content": "[Predictions]\n\nMuhammad vs. Bonfim\nBelal Muhammad, DEC\nIf Dalby can do it belal can too",
-      "upvotes": 5,
+      "upvotes": 6,
       "downvotes": 1
     },
     {
@@ -36,7 +36,7 @@
       "authorUrl": "/profiles/spockling",
       "timestamp": "2026-03-12T21:52:00-04:00",
       "content": "[Predictions]\n\nBonfim will sleep",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 1
     },
     {
@@ -928,7 +928,7 @@
       "timestamp": "2026-05-21T23:51:00-04:00",
       "content": "[Predictions]\n\nThe fact that even 21% of people are picking bonfim is disgusting",
       "upvotes": 1,
-      "downvotes": 2
+      "downvotes": 3
     },
     {
       "id": "1667991",
@@ -964,7 +964,7 @@
       "timestamp": "2026-05-22T05:21:00-04:00",
       "content": "[Predictions]\n\n@Spockling Bonfim is winning cuh",
       "upvotes": 0,
-      "downvotes": 1
+      "downvotes": 3
     },
     {
       "id": "1668035",
@@ -992,9 +992,27 @@
       "content": "[Predictions]\n\nBaraniewski vs. Tafa\nIwo Baraniewski, TKO, R1\nHo lee sheet 💀",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1668088",
+      "author": "fentanylcowboy",
+      "authorUrl": "/profiles/fentanylcowboy",
+      "timestamp": "2026-05-22T14:17:00-04:00",
+      "content": "[Predictions]\n\nBaraniewski vs. Tafa\nIwo Baraniewski, TKO, R2\nIwo can just use his judo and sub Tafa easily, but he probably won't. If this is a typical Iwo brawl I wouldn't be surprised at all if Tafa catches him.",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1668095",
+      "author": "elitemmapicks",
+      "authorUrl": "/profiles/elitemmapicks",
+      "timestamp": "2026-05-22T15:20:00-04:00",
+      "content": "[Predictions]\n\nIwo Baraniewski vs Junior Tafa\nPick: Baraniewski via round 1 KO\n92% of Tapology users (72 users) are picking Baraniewski (75% KO)\nBaraniewski is 2.2 years younger (27.6 vs 29.7)\nTafa has 2” reach edge (75” vs 73”)\nBaraniewski has +1.76 strike differential/min vs +0.96\nTafa proj. +4.4 significant strikes attempted\nBaraniewski proj. +3.8 significant strikes landed\nBoth fighters proj. for 48 head strikes landed\nBaraniewski proj. 3.60 knockdowns vs 1.17\nBoth fighters proj. for 0.0 takedowns landed (0.0 attempts)\nBoth fighters proj. for 0.00 submission attempts\nBaraniewski proj. 66.7% finish chance vs 29.2% and 4.2% decision\nBaraniewski has 6:0 KO win/loss ratio (6/6 in round 1)\nBaraniewski has 2:0 submission win/loss ratio (2/2 in round 1)\nTafa has 7:1 KO win/loss ratio (only time KO’d in round 2)\nTafa has 0:3 submission win/loss ratio (1/3 times subbed in round 1, 2/3 in round 2)",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-22T15:22:33.838392+00:00",
+  "scrapedAt": "2026-05-22T20:09:04.516761+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
