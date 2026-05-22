@@ -488,10 +488,19 @@
       "content": "My bad on the Basharat/Ewing news.  It's a week earlier, not OKC",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1668048",
+      "author": "IlikeMMAandboobs",
+      "authorUrl": "/profiles/ilikemmaandboobs",
+      "timestamp": "2026-05-22T10:44:00-04:00",
+      "content": "Honestly, I missed Dricus. Can't wait to see him fight again\n\nhttps://www.mmamania.com/latest-news/445099/sportsbooks-opening-odds-dricus-du-plessis-vs-kamaru-usman-headliner-ufc-oklahoma\n\n* Edited at 05.22.2026, 10:45 AM ET *",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-22T08:34:45.195639+00:00",
-  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
-  "eventDate": "June  6",
-  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
+  "scrapedAt": "2026-05-22T15:22:49.360746+00:00",
+  "eventName": "UFC Fight Night: Song vs. Figueiredo",
+  "eventDate": "May 30",
+  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
 }
