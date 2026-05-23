@@ -279,11 +279,20 @@
       "authorUrl": "/profiles/zinaum",
       "timestamp": "2026-05-20T17:59:00-04:00",
       "content": "Apparently Mackenzie Dern x Gillian Robertson for the strawweight belt is the co-main here",
+      "upvotes": 3,
+      "downvotes": 0
+    },
+    {
+      "id": "1668208",
+      "author": "yusufff",
+      "authorUrl": "/profiles/yusufff",
+      "timestamp": "2026-05-23T05:00:00-04:00",
+      "content": "Islam vs Garry\nYan vs Davilishvili 3\nDern vs Robertson\nPyfer vs Borralho\nHooker vs Green",
       "upvotes": 0,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-20T22:44:24.420884+00:00",
+  "scrapedAt": "2026-05-23T09:15:27.541131+00:00",
   "eventName": "UFC 330",
   "eventDate": "August 15",
   "fightcenterUrl": "/fightcenter/events/142341-ufc-330"
