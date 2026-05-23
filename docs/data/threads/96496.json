@@ -136,7 +136,7 @@
       "timestamp": "2026-05-12T23:18:00-04:00",
       "content": "[Predictions]\n\nMiyaguchi vs. Koren\nChungreng Koren, TKO, R1\nEasy win for Chungren koren",
       "upvotes": 1,
-      "downvotes": 6
+      "downvotes": 7
     },
     {
       "id": "1664812",
@@ -189,7 +189,7 @@
       "authorUrl": "/profiles/ismailkhanfanboy",
       "timestamp": "2026-05-21T13:29:00-04:00",
       "content": "[Predictions]\n\nits hard to benchmark indian fighters especially indian wrestlers\nthey look like invincible marauders in the regional scene but go on to look like crap when they get picked by some international org",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -218,9 +218,18 @@
       "content": "[Predictions]\n\n@IsmailKhanFanboy chungreng is going to win that fight 🥰",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1668152",
+      "author": "Stufflymcstuff",
+      "authorUrl": "/profiles/stufflymcstuff",
+      "timestamp": "2026-05-22T21:39:00-04:00",
+      "content": "@AyyLmaonnaise would be interested to hear you think the betting lines will look like.",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-22T00:16:29.105330+00:00",
+  "scrapedAt": "2026-05-23T04:07:36.823404+00:00",
   "eventName": "Road to UFC",
   "eventDate": "",
   "fightcenterUrl": "/fightcenter/events/141796-road-to-ufc-macau-day-2"
