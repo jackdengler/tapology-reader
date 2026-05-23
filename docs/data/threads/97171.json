@@ -351,7 +351,7 @@
       "authorUrl": "/profiles/richmond1724",
       "timestamp": "2026-05-17T07:01:00-04:00",
       "content": "What weird matchmaking the fact Stewart Nicoll is still in the ufc at 0-3 is pathetic but the fact he’s fighting somome who is 2-0 in the ufc makes no sense",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 2
     },
     {
@@ -360,7 +360,7 @@
       "authorUrl": "/profiles/fast_tulip",
       "timestamp": "2026-05-17T07:55:00-04:00",
       "content": "The weirdest part is that he is fighting the guy who just beat Costa the fight before he fought Nicoll. He is somehow fighting a \"better\" opponent after getting finished\n\n* Edited at 05.17.2026,  8:24 AM ET *",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 1
     },
     {
@@ -432,8 +432,8 @@
       "authorUrl": "/profiles/battousai",
       "timestamp": "2026-05-20T13:04:00-04:00",
       "content": "The six people who downvoted me saying DDP vs Usman on the previous page are about to be super salty.",
-      "upvotes": 4,
-      "downvotes": 2
+      "upvotes": 3,
+      "downvotes": 3
     },
     {
       "id": "1667836",
@@ -477,7 +477,7 @@
       "authorUrl": "/profiles/novacmma",
       "timestamp": "2026-05-21T21:59:00-04:00",
       "content": "[Predictions]\n\nHolland vs. Smith\nJacobe Smith, DEC\nCobe UD. Holland is better at 170 and could cause issues with the leghth and power, even off his back is dangerous, but Jacobe is the real deal.",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -497,10 +497,19 @@
       "content": "Honestly, I missed Dricus. Can't wait to see him fight again\n\nhttps://www.mmamania.com/latest-news/445099/sportsbooks-opening-odds-dricus-du-plessis-vs-kamaru-usman-headliner-ufc-oklahoma\n\n* Edited at 05.22.2026, 10:45 AM ET *",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1668473",
+      "author": "SWRS",
+      "authorUrl": "/profiles/swrs",
+      "timestamp": "2026-05-23T16:27:00-04:00",
+      "content": "[Predictions]\n\nHolland vs. Smith\nJacobe Smith, DEC\nJacobe smith should win this fight he will face some adversity though\n\nCannonier vs. Duncan\nChristian Leroy Duncan, TKO, R2\nCannonier’s chin isn’t nearly as good anymore he will get knocked out",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-22T15:22:49.360746+00:00",
-  "eventName": "UFC Fight Night: Song vs. Figueiredo",
-  "eventDate": "May 30",
-  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
+  "scrapedAt": "2026-05-23T21:09:55.775017+00:00",
+  "eventName": "UFC Fight Night",
+  "eventDate": "August 29",
+  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
 }
