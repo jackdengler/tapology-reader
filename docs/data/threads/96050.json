@@ -2207,9 +2207,18 @@
       "content": "@zeddhero great scott",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1668673",
+      "author": "Khabib is the goat",
+      "authorUrl": "/profiles/khabib%20is%20the%20goat",
+      "timestamp": "2026-05-24T05:27:00-04:00",
+      "content": "[Predictions]\n\nellison ko r1 is what i predicted and what im hoping for but just because i dont like gable(it is very likley gable puts this can out in under a minute",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-24T08:01:41.491948+00:00",
+  "scrapedAt": "2026-05-24T10:09:52.580362+00:00",
   "eventName": "UFC 329: McGregor vs. Holloway 2",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
