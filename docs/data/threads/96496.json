@@ -64,7 +64,7 @@
       "timestamp": "2026-04-21T02:28:00-04:00",
       "content": "[Predictions]\n\nWho are these people?",
       "upvotes": 0,
-      "downvotes": 6
+      "downvotes": 7
     },
     {
       "id": "1655458",
@@ -208,7 +208,7 @@
       "timestamp": "2026-05-21T19:32:00-04:00",
       "content": "[Predictions]\n\n@Robwett\nchungreng is going to win that fight 🥰",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 2
     },
     {
       "id": "1667976",
@@ -217,7 +217,7 @@
       "timestamp": "2026-05-21T19:33:00-04:00",
       "content": "[Predictions]\n\n@IsmailKhanFanboy chungreng is going to win that fight 🥰",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 2
     },
     {
       "id": "1668152",
@@ -227,9 +227,18 @@
       "content": "@AyyLmaonnaise would be interested to hear you think the betting lines will look like.",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1668716",
+      "author": "wiktor",
+      "authorUrl": "/profiles/wiktor",
+      "timestamp": "2026-05-24T12:58:00-04:00",
+      "content": "[Predictions]\n\nAoi vs. Song\nYoung Jae Song, TKO, R2\nI started following the Havas Seoul gym JaeSong trains in, a lot of potential already has a couple fighters on RTU and if im not buggin 2 UFC guys including Ko Seokhyon. Also, I think the legend StunGun Kim partly owns the gym.",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-23T04:07:36.823404+00:00",
+  "scrapedAt": "2026-05-24T17:17:14.853420+00:00",
   "eventName": "Road to UFC",
   "eventDate": "",
   "fightcenterUrl": "/fightcenter/events/141796-road-to-ufc-macau-day-2"
