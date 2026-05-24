@@ -2179,7 +2179,7 @@
       "timestamp": "2026-05-22T14:49:00-04:00",
       "content": "[Predictions]\n\nGive me Conor, Paddy, Cory, Kavanagh, Bobby Knuckles, and Gable",
       "upvotes": 2,
-      "downvotes": 1
+      "downvotes": 2
     },
     {
       "id": "1668197",
@@ -2187,7 +2187,7 @@
       "authorUrl": "/profiles/the%20duck",
       "timestamp": "2026-05-23T01:04:00-04:00",
       "content": "[Predictions]\n\nUFC should have made Ewing vs Garbrant and put it on the main card, Let everyone know who Ewing is",
-      "upvotes": 2,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -2198,9 +2198,18 @@
       "content": "@zeddhero\nI think I'm with you on all those good sir.",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1668665",
+      "author": "lovesong",
+      "authorUrl": "/profiles/lovesong",
+      "timestamp": "2026-05-24T02:59:00-04:00",
+      "content": "@zeddhero great scott",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-23T14:03:23.382255+00:00",
+  "scrapedAt": "2026-05-24T08:01:41.491948+00:00",
   "eventName": "UFC 329: McGregor vs. Holloway 2",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
