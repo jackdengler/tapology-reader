@@ -307,7 +307,7 @@
       "timestamp": "2026-05-23T10:13:00-04:00",
       "content": "If Islam is in the main even, the rest of the card doesn't even matter and makes it worth going to.",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1668756",
@@ -325,7 +325,7 @@
       "timestamp": "2026-05-24T23:43:00-04:00",
       "content": "@Gilpin\nNot talking about whether it will be a good or bad event overall. Talking about Islam alone being worth the price of admission to attend in person.",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1668776",
@@ -333,7 +333,7 @@
       "authorUrl": "/profiles/the%20duck",
       "timestamp": "2026-05-25T00:06:00-04:00",
       "content": "Back in the day when seat were a few hundred for good seat  I would agree with you, Tickets are $1000 for nosebleeds nowadays , I want more then 1 good fight for that money",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
     },
     {
@@ -343,7 +343,7 @@
       "timestamp": "2026-05-25T01:33:00-04:00",
       "content": "That is just hilariously untrue. I was just at the card in Newark and my ticket was just over $400 in total with fees.",
       "upvotes": 0,
-      "downvotes": 0
+      "downvotes": 1
     },
     {
       "id": "1668793",
@@ -353,9 +353,18 @@
       "content": "The Australian cards are just under a grand for nosebleeds, $450 for ticket ain’t that bad especially if their good tickets",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1668802",
+      "author": "battousai",
+      "authorUrl": "/profiles/battousai",
+      "timestamp": "2026-05-25T09:48:00-04:00",
+      "content": "Oooof ok if you're in Australia that makes sense. That is unfortunately the \"we gotta fly half way around the planet to get here and put this show on\" tax.",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-25T12:45:00.070641+00:00",
+  "scrapedAt": "2026-05-25T16:05:35.767621+00:00",
   "eventName": "UFC 330",
   "eventDate": "August 15",
   "fightcenterUrl": "/fightcenter/events/142341-ufc-330"
