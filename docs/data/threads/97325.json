@@ -333,7 +333,7 @@
       "authorUrl": "/profiles/novacmma",
       "timestamp": "2026-05-25T12:41:00-04:00",
       "content": "[Predictions]\n\nMedic vs. Rodriguez\nDaniel Rodriguez, TKO, R3\nWhy do i think D Rod breaks Medic. Late round 3 TKO, unanswered puches, ref jumps in.\n\nTybura vs. Rakić\nAleksandar Rakić, DEC\nRakic is super washed but will be much faster on the feet and athletic enough to stuff the sloppy shots of tybura. 29-28 UD.\n\nČepo vs. Urbina\nGilbert Urbina, TKO, R2\nUbrina will look better at 85",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -342,7 +342,7 @@
       "authorUrl": "/profiles/zinaum",
       "timestamp": "2026-05-25T12:53:00-04:00",
       "content": "[Predictions]\n\nMan, as a brazilian I gotta say this card is pretty cool. Really happy for the serbian fans who can witness local guys like Medic and Rakic fighting in home soil. Huge W for the UFC, our favorite sport is indeed global!",
-      "upvotes": 3,
+      "upvotes": 6,
       "downvotes": 0
     },
     {
@@ -352,7 +352,7 @@
       "timestamp": "2026-05-25T12:57:00-04:00",
       "content": "[Predictions]\n\nTybura is too big for Rakic, sub R2",
       "upvotes": 1,
-      "downvotes": 2
+      "downvotes": 6
     },
     {
       "id": "1668864",
@@ -360,11 +360,20 @@
       "authorUrl": "/profiles/spiderdijon",
       "timestamp": "2026-05-25T15:42:00-04:00",
       "content": "decent chances for the home team overall",
-      "upvotes": 0,
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1668878",
+      "author": "fentanylcowboy",
+      "authorUrl": "/profiles/fentanylcowboy",
+      "timestamp": "2026-05-25T18:08:00-04:00",
+      "content": "[Predictions]\n\nMedic vs. Rodriguez\nUros Medic, TKO, R1\nLeon really ducked both of these guys haha\n\nJokes aside, anybody has a chance to beat Medic, he's extremely hittable. But this is a very tough matchup for DRod because he's not very quick.\n\n* Edited at 05.25.2026,  6:20 PM ET *",
+      "upvotes": 1,
       "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-25T19:59:48.466975+00:00",
+  "scrapedAt": "2026-05-25T23:23:24.875571+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
