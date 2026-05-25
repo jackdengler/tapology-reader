@@ -342,7 +342,7 @@
       "authorUrl": "/profiles/zinaum",
       "timestamp": "2026-05-25T12:53:00-04:00",
       "content": "[Predictions]\n\nMan, as a brazilian I gotta say this card is pretty cool. Really happy for the serbian fans who can witness local guys like Medic and Rakic fighting in home soil. Huge W for the UFC, our favorite sport is indeed global!",
-      "upvotes": 1,
+      "upvotes": 3,
       "downvotes": 0
     },
     {
@@ -352,10 +352,19 @@
       "timestamp": "2026-05-25T12:57:00-04:00",
       "content": "[Predictions]\n\nTybura is too big for Rakic, sub R2",
       "upvotes": 1,
-      "downvotes": 1
+      "downvotes": 2
+    },
+    {
+      "id": "1668864",
+      "author": "spiderdijon",
+      "authorUrl": "/profiles/spiderdijon",
+      "timestamp": "2026-05-25T15:42:00-04:00",
+      "content": "decent chances for the home team overall",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-25T17:58:08.910087+00:00",
+  "scrapedAt": "2026-05-25T19:59:48.466975+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"

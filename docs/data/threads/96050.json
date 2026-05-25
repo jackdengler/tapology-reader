@@ -2187,7 +2187,7 @@
       "authorUrl": "/profiles/the%20duck",
       "timestamp": "2026-05-23T01:04:00-04:00",
       "content": "[Predictions]\n\nUFC should have made Ewing vs Garbrant and put it on the main card, Let everyone know who Ewing is",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -2288,9 +2288,18 @@
       "content": "[Predictions]\n\n@Gilpin  He is tho, you guys are just mad, 10 have tried and 10 have failed. A lot of people are putting him down because hes a very good prospect he talks all he wants and he still gets the job done. All he needs to do is sharpen his skill set and he 100% beats current Volk and if you think otherwise then you are just a casual blinded by nostalgia",
       "upvotes": 0,
       "downvotes": 3
+    },
+    {
+      "id": "1668841",
+      "author": "Gilpin",
+      "authorUrl": "/profiles/gilpin",
+      "timestamp": "2026-05-25T13:57:00-04:00",
+      "content": "[Predictions]\n\n@cashmoneycash Only because he's fought cans. One of the guys he beat has a record of 14-50 and is on a 29 fight losing streak. He only has one win over a serious opponent.",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-25T17:57:59.023083+00:00",
+  "scrapedAt": "2026-05-25T20:00:54.241223+00:00",
   "eventName": "UFC 329: McGregor vs. Holloway 2",
   "eventDate": "July 11",
   "fightcenterUrl": "/fightcenter/events/140956-ufc-330"
