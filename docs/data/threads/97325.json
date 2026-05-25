@@ -9,7 +9,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-04-27T10:25:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -98,7 +98,7 @@
       "author": "Spockling",
       "authorUrl": "/profiles/spockling",
       "timestamp": "2026-04-28T17:20:00-04:00",
-      "content": "Bet this will be a pretty cool card to see irl sadly I am not going to serbia lol",
+      "content": "[Predictions]\n\nBet this will be a pretty cool card to see irl sadly I am not going to serbia lol",
       "upvotes": 0,
       "downvotes": 0
     },
@@ -143,7 +143,7 @@
       "author": "CowboyKurt",
       "authorUrl": "/profiles/cowboykurt",
       "timestamp": "2026-05-11T23:26:00-04:00",
-      "content": "D-Rod might be fighting Uros Medic D-Rod posted something about Serbia on his Instagram story",
+      "content": "[Predictions]\n\nD-Rod might be fighting Uros Medic D-Rod posted something about Serbia on his Instagram story",
       "upvotes": 0,
       "downvotes": 1
     },
@@ -198,7 +198,7 @@
       "authorUrl": "/profiles/tapology",
       "timestamp": "2026-04-27T10:25:00-04:00",
       "content": "The official Tapology discussion thread for the event!",
-      "upvotes": 3,
+      "upvotes": 4,
       "downvotes": 0
     },
     {
@@ -307,7 +307,7 @@
       "timestamp": "2026-05-25T09:16:00-04:00",
       "content": "L main event",
       "upvotes": 1,
-      "downvotes": 4
+      "downvotes": 5
     },
     {
       "id": "1668825",
@@ -315,11 +315,47 @@
       "authorUrl": "/profiles/aminmma",
       "timestamp": "2026-05-25T11:52:00-04:00",
       "content": "[Predictions]\n\nMedic vs. Rodriguez\nDaniel Rodriguez, TKO, R1\nMedic has no chin",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1668829",
+      "author": "CowboyKurt",
+      "authorUrl": "/profiles/cowboykurt",
+      "timestamp": "2026-05-25T12:16:00-04:00",
+      "content": "[Predictions]\n\nTybura vs. Rakić\nAleksandar Rakić, DEC\nI’m conflicted on this one because Rakic doesn’t have a chin but maybe it’s due the weight cut but Tybrua has not looked the best recently. I’m gonna with the lighter man skill Rakic 29-28",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1668833",
+      "author": "novaCMMA",
+      "authorUrl": "/profiles/novacmma",
+      "timestamp": "2026-05-25T12:41:00-04:00",
+      "content": "[Predictions]\n\nMedic vs. Rodriguez\nDaniel Rodriguez, TKO, R3\nWhy do i think D Rod breaks Medic. Late round 3 TKO, unanswered puches, ref jumps in.\n\nTybura vs. Rakić\nAleksandar Rakić, DEC\nRakic is super washed but will be much faster on the feet and athletic enough to stuff the sloppy shots of tybura. 29-28 UD.\n\nČepo vs. Urbina\nGilbert Urbina, TKO, R2\nUbrina will look better at 85",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1668834",
+      "author": "Zinaum",
+      "authorUrl": "/profiles/zinaum",
+      "timestamp": "2026-05-25T12:53:00-04:00",
+      "content": "[Predictions]\n\nMan, as a brazilian I gotta say this card is pretty cool. Really happy for the serbian fans who can witness local guys like Medic and Rakic fighting in home soil. Huge W for the UFC, our favorite sport is indeed global!",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    {
+      "id": "1668835",
+      "author": "WintersMMA",
+      "authorUrl": "/profiles/wintersmma",
+      "timestamp": "2026-05-25T12:57:00-04:00",
+      "content": "[Predictions]\n\nTybura is too big for Rakic, sub R2",
+      "upvotes": 1,
+      "downvotes": 1
     }
   ],
-  "scrapedAt": "2026-05-25T16:03:32.294280+00:00",
+  "scrapedAt": "2026-05-25T17:58:08.910087+00:00",
   "eventName": "UFC Fight Night",
   "eventDate": "August 29",
   "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"

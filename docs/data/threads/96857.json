@@ -333,7 +333,7 @@
       "authorUrl": "/profiles/the%20duck",
       "timestamp": "2026-05-25T00:06:00-04:00",
       "content": "Back in the day when seat were a few hundred for good seat  I would agree with you, Tickets are $1000 for nosebleeds nowadays , I want more then 1 good fight for that money",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 0
     },
     {
@@ -362,9 +362,18 @@
       "content": "Oooof ok if you're in Australia that makes sense. That is unfortunately the \"we gotta fly half way around the planet to get here and put this show on\" tax.",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1668832",
+      "author": "Gilpin",
+      "authorUrl": "/profiles/gilpin",
+      "timestamp": "2026-05-25T12:19:00-04:00",
+      "content": "@battousai I think it's more of a \"Dana needs his gambling money\" tax. No way they need to charge that much for tickets to make a profit, it's just the UFC being greedy and pricing out real fans.",
+      "upvotes": 1,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-25T16:05:35.767621+00:00",
+  "scrapedAt": "2026-05-25T17:58:18.727364+00:00",
   "eventName": "UFC 330",
   "eventDate": "August 15",
   "fightcenterUrl": "/fightcenter/events/142341-ufc-330"
