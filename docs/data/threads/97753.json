@@ -81,7 +81,7 @@
       "authorUrl": "/profiles/mothswords",
       "timestamp": "2026-05-14T06:38:00-04:00",
       "content": "Main event should be DDP vs imavov for #1 contender",
-      "upvotes": 4,
+      "upvotes": 5,
       "downvotes": 0
     },
     {
@@ -261,7 +261,7 @@
       "authorUrl": "/profiles/robwett",
       "timestamp": "2026-05-25T21:03:00-04:00",
       "content": "Gasanov and Vagaev are both undoubtedly good but they are very boring so I'm not sure why they are getting signed when the UFC have been cutting similar guys lately",
-      "upvotes": 0,
+      "upvotes": 1,
       "downvotes": 2
     },
     {
@@ -272,10 +272,19 @@
       "content": "5 in a row? Can Valter Walker do it?",
       "upvotes": 0,
       "downvotes": 0
+    },
+    {
+      "id": "1668908",
+      "author": "cuzz",
+      "authorUrl": "/profiles/cuzz",
+      "timestamp": "2026-05-26T01:21:00-04:00",
+      "content": "[Predictions]\n\nGasanov vs. Vagaev\nMagomedrasul Gasanov, DEC\nЧерт возьми, бой за титул ACA в UFC!",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-26T04:36:18.770564+00:00",
-  "eventName": "UFC Fight Night: Song vs. Figueiredo",
-  "eventDate": "May 30",
-  "fightcenterUrl": "/fightcenter/events/139238-ufc-fight-night"
+  "scrapedAt": "2026-05-26T08:45:25.446175+00:00",
+  "eventName": "UFC Fight Night: Muhammad vs. Bonfim",
+  "eventDate": "June  6",
+  "fightcenterUrl": "/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim"
 }
