@@ -306,7 +306,7 @@
       "authorUrl": "/profiles/mesar64",
       "timestamp": "2026-05-25T09:16:00-04:00",
       "content": "L main event",
-      "upvotes": 1,
+      "upvotes": 2,
       "downvotes": 5
     },
     {
@@ -352,7 +352,7 @@
       "timestamp": "2026-05-25T12:57:00-04:00",
       "content": "[Predictions]\n\nTybura is too big for Rakic, sub R2",
       "upvotes": 1,
-      "downvotes": 6
+      "downvotes": 7
     },
     {
       "id": "1668864",
@@ -371,10 +371,19 @@
       "content": "[Predictions]\n\nMedic vs. Rodriguez\nUros Medic, TKO, R1\nLeon really ducked both of these guys haha\n\nJokes aside, anybody has a chance to beat Medic, he's extremely hittable. But this is a very tough matchup for DRod because he's not very quick.\n\n* Edited at 05.25.2026,  6:20 PM ET *",
       "upvotes": 1,
       "downvotes": 0
+    },
+    {
+      "id": "1668898",
+      "author": "Mazeflare",
+      "authorUrl": "/profiles/mazeflare",
+      "timestamp": "2026-05-26T00:18:00-04:00",
+      "content": "Cepo on the UFC its really cool.\nMedic and D-Rod main event ... not cool.",
+      "upvotes": 0,
+      "downvotes": 0
     }
   ],
-  "scrapedAt": "2026-05-25T23:23:24.875571+00:00",
-  "eventName": "UFC Fight Night",
-  "eventDate": "August 29",
-  "fightcenterUrl": "/fightcenter/events/137846-ufc-fight-night"
+  "scrapedAt": "2026-05-26T04:35:02.813335+00:00",
+  "eventName": "UFC Fight Night: Medic vs. Rodriguez",
+  "eventDate": "August  1",
+  "fightcenterUrl": "/fightcenter/events/142997-ufc-fight-night"
 }
