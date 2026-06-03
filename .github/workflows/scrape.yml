@@ -1,8 +1,9 @@
 name: Scrape Tapology Forum
 
 on:
-  schedule:
-    - cron: '17 * * * *'  # Every hour at :17
+  # Hourly schedule disabled — run manually via workflow_dispatch instead.
+  # schedule:
+  #   - cron: '17 * * * *'  # Every hour at :17
   workflow_dispatch:          # Manual trigger
 
 permissions:
